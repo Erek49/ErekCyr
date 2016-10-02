@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Erek Cyr</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29,2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-08-31">August 31, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, AUGUST 31, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement">
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3">
+
+
+      THE EGYPTIAN GAZirPTB, THURSDAY, AUQ1TST 31, 1905.
+      .YESTERDAY’S TOTAL SOLAR ECLIPSE.
+      • . *
+      DE3TAILED REPORTS IF1 IR, O IM ASSOUAN,
+      ALEXANDRIA, CAIRO, PORT SAID, SUEZ, AND EDFOU.
+      SiieeeHsFiil OI:>ser>vrGttioi?s Fnoro Zorns of WobGilit^.
+      PROMINENCES AND STREAMERS CLEARLY SEEN.
+      AT ASSOUAN.
+      (From odr Special Correspondent).
+      (By Telegraph)
+      Assonan, Wednesday.
+      This afternoon’s • eolipse was a thorongh
+      success, if I may be allowed to nse the ex-
+      pression, and whatever the scientific results
+      obtain ed, there can be no doubt that the con-
+      ditions were as favorable to observation as
+      they well could be. The wind was very light,
+      and not a single cloud was visible during the
+      whole afternoon, though there a certain hazi-
+      ness about. Haze was of course almost inev-
+      itable at this season of the rising Nile flood,
+      but I have not been informed that it apprecia-
+      bly interfered with observations^ Numerous
+      observers were in the field. Besides the scien-
+      tific parties and commissions, not a - few
+      energetic amateurs had braved the heat and
+      discomfort of a long railway journey to go
+      south to Assouan. Mr. Smyrnoff, the Russian
+      Diplomatic Agent in Egypt, Count Arrivabene
+      Gonzaga, the Acting Diplomatic Agent for
+      Italy, Graft Antonio von Stadnioki, Secretary
+      of Legation to the Austro-Hungarian Diplo-
+      matic Agenoy, and M. Roman Ertbuer, secre-
+      tary to the Belgian Consulate General, left
+      Cairo on Monday evening and arrived at the
+      Savoy Hotel last night, while Mr. Mitohell
+      Innes, who gives a dinner to all the astrono-.
+      mical missions to-night, Mr. A. L. Webb,
+      C.M.G., and Mr. Courtenay Clifton were also
+      among the spectators. The Egyptian Go-
+      vernment mission was divided. Mr. Wade
+      watched the eolipse from a height west of
+      Assouan, while Mr. Freeman’s station was
+      near Edfou, and Mr. Macpherson and Yonssef
+      Etfendi Fordi were at Dauhid south of the
+      first cataract.
+      The members of the various scientific mis-
+      sions were early on the ground. Special police-
+      men and barriers of rope kept the meet carious
+      at a distance from the astronomers and their
+      instruments, and long before the eolipse began
+      all was in the most perfeot readiness for the
+      great event.
+      At 3.26 p.m. came the moment of first con-
+      o tract and thereafter the blact line of the
+      moon’s shadow gradually gained on the glowing
+      brightness of the sun. The progress of the
+      eclipse was followed with intense interest and
+      it must have seamed years to the more impa
+      tient observers before the phase of totality was
+      reached at 4.36 p.m. Ror two minutes and
+      twenty four seconds the sun was completely
+      hidden. Several stars were plainly visible and
+      the planet Mars was remarkably conspicuous.
+      Animal life was absolutely still in the gloom,
+      but for one flock of birds that passed overhead.
+      The corona afforded a most interesting
+      v - stndy. The streamers were most prominent in
+      the sun spot zones, the western streamers being
+      shorter and more divergent, the longest, being
+      quite two diameters of the sun in length. Short
+      streamers of light were also visible proceeding
+      from the north and south polar extremities
+      of the sun. The prominences notioed were
+      particularly large, especially those which
+      issued from the weetem side of the obscured
+      sun.
+      Then the bright edge of the sun began to
+      emerge and the important part of the eclipse
+      was over. Nothing is known as yet of the
+      results obtained by the scientists who were at
+      work in recording magnetic observation,and as
+      the photographic results await development it
+      is impossible to give anything like a complete
+      description of what has actually been recorded
+      by the instruments. Further details will follow;
+      iu the meantime the eolipse may be pronounced
+      a sucre-» from every point of view.
+      . i	'	ii';'
+      NOTICE.
+      The latest telegrams, with
+      to-day’s local and general, and
+      financial news, will be found
+      on page 5,
+      AT ALEXANDRIA.
+      In Alexandria, as in every other town and
+      village of Egypt, a keen interest was taken in
+      the eclipse, which was the topic of the day in
+      some circles, and in others was a close second
+      either to the Peace or the effects of M.
+      Cronier’s suicide. Interest, indeed, is hardly
+      a strong enough term for the emotions that was
+      stirred in the breasts of many Alexandrians by
+      the realisation of the fact that at one minute
+      to threa in the afternoon a partial eclipso of
+      the snn would commence, without fail, — for
+      such events are never postponed—and that led
+      even bootblacks and marartons to arm them-
+      selves with pieces of smoked glass. As the
+      time of the commencement of the eclipse drew
+      near, the streets, in some of the quarters, were
+      fall of individuals braving a snnstroke or the
+      wheels of the passing arabeahs in wild anxiety
+      lest the moment of oontact should pass un-
+      observed. Many photographic records were
+      taken, and the majority of those which we
+      have seen have been highly successful, port-
+      raying the crescent-like appearance of the
+      eclipsed sun with great accuracy.
+      Those who knew. nothing of science, and
+      merely regarded the sun as a provider of light
+      and heat, and to whom the statement that the
+      earth moves round the bod is as improbable
+      as its oontrary is unimportant, anticipated the
+      event with a certain uneasiness. They had
+      an idea that something was going to happen
+      to “Eshshems,” they had been told that its
+      diso would be almost entirely hidden from
+      their view, and that day would become night,
+      and behoving all, .they brooded nneasily over
+      what would happen, and wondered what it
+      would all look like.
+      How disappointed they must have been !
+      Unable to appreciate that the sun, while com-
+      pletely hidden at Assouan, would be only
+      partially obsonred at Alexandria and other
+      stations even closer to the zone of totality,"
+      they bad hoped or feared that a great and
+      solemn darkness would pass over the earth,
+      attended by rare and ourions portents.
+      Bnt all they saw was a black something
+      that came into contact with the rim of the
+      son’s disc and ate ita way into the fiery circle,
+      disposing like a glutton of more and more till,
+      in the words of a spectator, “the sun looked
+      like a huge cheese from which a great piece had
+      been bitten.” Snch was the eclipse to many
+      of the smoked-glass enthusiasts.
+      The morning opened hazily enough, but the
+      sky cleared as the day grow older, and the
+      conditions at the aotnal moment of the eolipse
+      were as favorable as any observer could desire.
+      We chose the Ras el Tin lighthouse as oar
+      point of observation, obtained admittance,
+      thanks to the kind offices of Admiral Sir R.M.
+      Blomfield, and began oar olimb. The extreme
+      effort of olimbing 261 steps to the summit,
+      was right well repaid, and bad there-been no
+      eolipse we should never have regretted it,
+      for the view from the platform just below
+      the light is the best in Alexandria. The
+      ooast from San Stef&no to Fort Agami the
+      grey town, the’harbour with its shipping and
+      quays and the Mariont Lake, white with salt
+      incrustations west of the canseway, a dull
+      greenish grey to tbe' east, were all stretched
+      below ns, wonderfully clear and distinct despite
+      the haze that drew in from seaward, and in
+      the harbour below the white sails of the raoing
+      boats passed like swans.
+      At the first moment of contact nothing—hat
+      a violent and painful glare—was visible to
+      the naked eye, nor oould the smoked glass
+      show ns anything, but being provided with a
+      fairly strong telescope with smoked lenses, we
+      were able to follow the progress of the moon’s
+      shadow from start to finish. The first sign of
+      tbe eolipse that we oonld discern was a
+      peculiar jaggeduess in the Ban's oiroumferenoe.
+      This was notioeable shortly after 3 p.m.—
+      the first oontact taking place at 2 h. 59 min.
+      41 seo. The shadow moved forward very
+      slowly bnt by 3.80 p.m. a certain diminution
+      in tbe sun’s light and heat was apparent, and
+      the glasses showed that the oironlar edge of
+      the moon had made considerable progress.
+      The effeot of the diminution of the sun’s
+      light was first obvious shortly after 8.80 p.m,
+      when the oolonrs of the sea and shore, wbiob
+      had previously been warm and glowing, began
+      to wane and, if the expression may be need,
+      to fade. It was not thatr the aotnal colour of
+      oVjeots really ohanged, but that its intensity
+      diminished.
+      This feature increased with the progress of
+      tbe eclipse, bnt it was not possible to dis-
+      tinguish any ohaogt of odour till ihortly
+      before 4 p.m., when the obscuration was near-
+      ing its maximum. The sea was then a dead
+      slaty green iu the harbonr, a remarkably
+      beautiful violet near the horizon, a dark
+      blue green in the middle distanoe.The Mariont
+      Lake had completely lost its oolour, and
+      objects on the shore seemed to be suffused
+      with a slight shade of yellow. At the time
+      of maximum obscuration, the sun had shrunk
+      to a crescent which appeared to be a little
+      larger than the new moon. No stars were
+      visible, at least from oar vantage point. The
+      day was now decidedly dull, bat not in the
+      least dark; distant objeots, though their colour
+      had in some degree faded or altered, being
+      just as distinguishable as at midday. In the
+      towu, owing to the abundance of shade from
+      houses and the narrowness of many of the
+      streets the effect was oertainly more marked,
+      but we imagine that many of the observers
+      must have felt a certain disappointment at
+      being able to dispense with artioial light;
+      indeed the strongest impression left on ns
+      was that of the immense power of the solar
+      light evon when reduced to 12% of ita original
+      volume.	• , ■
+      The recovery from the obaouration does not
+      meric special description. The light returned
+      very rapidly, and within half an hoar from the
+      moment of maximum obscuration everything
+      had regained its normal appearance. One
+      result of the eolipse whioh we notioed, was
+      more durable, the later afternoon though as
+      damp as it always is in the autumn months,
+      being muoh cooler than usual.
+      AT CAIRO. »
+      (From our own Correspondent.)
+      Cairo, Wednesday.
+      The early morning yesterday was as dull
+      and cloudy in Cairo as it usually is at this
+      period, bnt at about eight o’clock the at-
+      mosphere become quite clear and oontinned
+      so for the rest of the day, which was for-
+      tunate for those anxious to have a good
+      view of the phenomenon which, with one or
+      two others subjects, has been the ohief
+      topio of conversation for the past week or
+      two, not only amongst Europeans bnt also
+      the educated portion of the native popula-
+      tion.
+      • *
+      Among the lowest classes of the latter the
+      most extraordinary notions seemed to prevail
+      as to the cause of the wonder that was abont
+      to happen and its conseqnenoes. Some of the
+      more vigorous observers of religion uttered
+      prayers all the while. In the purely native
+      quarters, troops of children with a few adnlts
+      as well perambulated the streets, beating tom-
+      toms and invoking divine protection.
+      In Cairo the eolipse was only partial bat
+      about nine-tenths of the snn’s diso was covered
+      and this took place at thirteen minutes past
+      four when the light became much dimmer,
+      somewhat resembling a very bright moon-
+      light evening or the shortened twilight of this
+      t'me of the year. It oommenoed at four
+      minutes past three and the eolipse ended at
+      a quarter past five o’olook. These were the
+      times famished by the Survey Department
+      which, however, differed slightly from those
+      given by the eminent astronomer, M. Busoa-
+      loni, and published by us last Friday. Most of
+      the Europeans witnessed the phenomena from
+      thp house tops with smoked glasses, without
+      whioh it was not possible, even when the
+      eolipse was at its fullest to look at the sun
+      with the naked eye with any comfort.
+      A Mahomedan writer of abont a century
+      back recounts that a total eolipse of the sun in
+      his time exoited veritable terror amongst (h*
+      population of Cairo, many people being so.
+      alarmed as to hide themselves in barricaded
+      rooms. He likewise relates that animals and
+      birds seemed as snsoeptible os human beings,
+      and doubtless had fear at the disappearance of
+      the sun.	.
+      If this year’s bad been also a total eolipse
+      many strange sights would have been witnessed
+      in the metropolis amongst the illiterate native
+      population. Aooording to another writer plant*
+      and flowers were influenced by the phenomen a
+      and the leaves of those plants that olose a
+      night did the aas daring an eolipse that oo»
+      ourred in his day. Whether suoh be .a fact or
+      not it is for the astronomers of to-day to
+      galighten us.
+      ‘ V"	‘ • •
+      . .* . .
+      AT PORT SAID.
+      (From odr own Correspondent).
+      Port Said, Wednesday.
+      Very considerable interest has been taken
+      in Port Said in the great event of to-day, and
+      the question of the eolipse has been the chief
+      topio of conversation with almost everyone.
+      Telescopes of all sorts and sizes were hastily
+      prepared with little pieces of smoked orcolonred
+      glass, and on all hands, almost since the day
+      broke, one could observe people gazing at the
+      snn, as though they could not depend upon
+      scientists to have fixed the time accurately.
+      Even the Arab bootblack seems to have heard
+      that somethiog.out of the common was abont
+      to happen, and with a certain amount of
+      doubt and apprehension looked upwards
+      wondering, and expecting he knew not what.
+      The day broke in anything bnt a reassnring
+      manner. Banks of cloud and mist had gathered
+      over the Bky, making the morning like an
+      October one in England. This mist and damp
+      in the air is hot surprising in a way and indi-
+      rectly is nndontedly caused by the eolips e itself.
+      The cause of tides, as is well known, is due to
+      the joint attraction of the sun and moon, and
+      when the two bodies aot in oonjunotion, as they
+      do in a direct line daring an eclipse, the effeot
+      is a much higher tide than nsnal. Anyone
+      here, who has watohed the un behaviour
+      lately, will have notioed how much higher the
+      water has stood in the early evening, and this
+      has caused a quite unwonted humidity and
+      resultant mist for the last two mornings.
+      I explain this point as I have heard several
+      people daring the last few days, propound deep
+      theories on the weather changes whioh aocom-
+      pany eclipses. It was not the direct influence of
+      the eolipse on the weather whioh caused the
+      misty day, bnt the peonliar situation of loner
+      Egypt, having so mnch semi marshy land which
+      covers and unoovers with the slightest tidal
+      variation.
+      Long before the critical hour of first oontact
+      approached (the time at which the moon’s diso
+      tonohed the extreme edge of that of the sun )
+      numbers of people oould ha seen wash-
+      ing for the snn’s appearanoe through then
+      specially prepared shades and glasses. The
+      hour, as published iu the “Gazette," of 3.13
+      p.m. passed and few were aware of it,
+      for without a good teleioope fitted with
+      suitable shades, and without the observer
+      knowing exactly where to look, it is more
+      than likely he would have seen nothing
+      of the herald of this wonderful phenomena. I
+      was perhaps a little more fortunate than many,
+      having at my disposal a very good “Ross
+      panoratio” glass properly fitted up, aided by
+      whioh I easily saw and noted the first oontaot,
+      whioh ocourred at 8h. 12m. 40skc. p.m.
+      Nothing particular was to be noted during
+      the first few minutes, exoept the gradual
+      enoroaohment of the dark serrated-edged mass
+      of the moon on the bright solar diso, bnt
+      towards fonr o’olook, daylight had very sensi-
+      bly diminished and tone dial objeots had begun
+      to take on themselves the weird, lurid, half
+      eleotrio type of light whioh is sopeonliarly charac-
+      teristic of these eolips cb. This strange oolour
+      whioh everything rapidly took as time moved
+      onwards appeared to resemble nothing so muoh
+      as the hue whioh obj iota have during the
+      lightning flashes of a heavy thunderstorm, the
+      daylight becomiug less and less as moments
+      sped on towards the hour of maximum eclipso.
+      By 4.16 p.m.over 76 per oent.of the son’s light
+      had been oat off.
+      The oaloulated hoar for Port Said of 4.26
+      p.m., at whioh the maximum eolipse was to
+      take place, seemed to pass without any special
+      . notice being taken of it by the layman, as, for
+      some moments before, owing to the effects of
+      irradiation, by virtue of whioh all bright
+      objeots to the naked eye appear muoh larger
+      than they really are, the blank diso of the
+      moon Beemed to the nnaided eye to have
+      almost oeased to move,
+      The sup at 4.20 p.m, greatly resembled a
+      very bright new moon, having in its arms an
+      opaque' diso suoh as is frequently seen at tbe
+      period of perigee, when, oembined with salt-
+      ,able weather conditions, the new moon appeata
+      to hold the old one in ita arms.
+      In Port 8aid to-day there was no sign of the
+      oorona whioh waa eagerly looked for by many,
+      and maty people seemed disappointed that
+      the day oontinned so light, bat it was hardly
+      aarpriiiog, w&sn one oonaiders that only IT
+      minutes of arc were out off. Near the south-
+      western edge, however, a faint extended
+      phosphorescence oonld be seen, as I have stat-
+      ed. A planet for which I was on the look out,
+      was to be seen to the south, and I fancied I
+      oould piok up another, Venus, olose to the
+      western horiton. bnt was not .sure.
+      Regulus, a star of the firat magnitude, si tout-
+      ed only a few degrees west of the two bodies,
+      I oonld not piok up, nor did I see any of the
+      nnmerons smaller ones whioh in totality
+      should have been clearly visible,— and so passed
+      the best of what we saw here of the eolipse.
+      By 4.45 p.m. most people appearei to have
+      got tired of watching, especially as every
+      minute increased the size of the sun’s visib’e
+      cresoent, and the consequent brightness of
+      daylight, and all seemed to think that nothing
+      more waa to be seen.
+      The moment ot last oontact when the moon
+      finally left the eastern edge of the son, occur-
+      red at the predicted time, 5.22 p.m. Then
+      oame the sunset, whioh, I have noticed, on the
+      day of solar eo ipses generally has a beauty all
+      its own. The damp air here is peculiarly suited
+      for these beantifnl effeots and as the glowing
+      orb sank in the west .into a somewhat hazy
+      horizon, the sky took on the same gloomy
+      refjta, yellows and dark bines extending to
+      the eastern horizon.
+      AT SUEZ.
+      (From odr Correspondent.)
+      . • <
+      (By Telegraph).
+      Suez, Wednesday.
+      The conditions under whioh the eclipse of
+      the snn was viewed from this station were
+      exceedingly favorable. The sky was perfectly
+      clear and not a cloud was to he seen, and
+      though there was a slight haze it did not
+      interfere in any way with the observatioi s
+      taken here.
+      It is safe to say that the eolipse was viewed
+      by everybody in Suez, smoked glasses were
+      everywhere in evidence, and an altogether
+      remarkable interest was taken in the pheno-
+      menon.
+      The shadow of the moon was first observed
+      in contact with the sun at eight minutes past
+      three by Cairo time or eight minutes past one
+      by Greenwioh time, and it disappeared at
+      thirteen minutes past five by Cairo time. The
+      direction waa S. S. E. 81° west.
+      At no time did darkness reech any great
+      degree, but as the sun became gradually more
+      and more hidden the temperature grew appre-
+      ciably cooler, and a ovrioua effeot, of whioh I
+      have never seen the parallel, was observable.
+      The light became muoh less intense and
+      resembled neither night nor day, objeots
+      assumed a peculiar ont line, and the oolonr, cr
+      oolo rs, I should say, of the sea were indescrib-
+      able.	; t
+      The horizon was particularly notioeable. As
+      the solar diso gradually disappeared from view,
+      a haziness appeared, and the oatline, whioh
+      daring most of the day had been well-defined,
+      was first of all blurred, and it then became
+      difficult to distinguish, and at the same time
+      assumed a greyish-blue tint.
+      There was, however, at the plaoe where the
+      rays from the nnobscured portion of the sun
+      lit upon the sea, a bright light, in strange
+      contrast to its surroundings, and of an almost
+      silver hne, whioh gave an excellent effeot.
+      In the town itself, I am told, an almost better
+      effeot was obtained than iu the open space
+      from whioh I observed the eolipse,for here there
+      was a greater degree of darkness, whioh from
+      a popular point of view, is the greatest feature,
+      of suoh a phenomenon, be it total, or bo it
+      partial, andno little oonsternatiottWas apparent
+      amongst some of the more yonthfal observers,
+      who were nnable to understand suoh a strange
+      ooonrrenoj in broad daylight.
+      The astronomists who witnessed the eolipse
+      from here were all amateurs, so that one cannot
+      hope for an authentio aooount of the phenomena
+      presented, bnt tbe eolipse did not reach a
+      sufficient degree of totality to render them
+      worthy of a speoial reoord. It has, however,
+      bean an event of great interest to amateur
+      astronomers and physioiats, and many of
+      these, who were unable to go to that zone
+      where their enthusiasm would have met with
+      more valuable results, will have interesting
+      reoorda ot the great event of 1905 as seen at
+      Sen,	1
+      AT EDPOU.
+      (From odr Correspondent).
+      (By Telegraph).
+      ' Edfou, Thursday.
+      The total solar eclipse began here yesterday
+      afternoon at forty minutes past three.Totality,
+      whioh was reaohed at twenty-two minutes past
+      fonr, lasted for the spaoe of sixty-eight seoonds.
+      The eolipse ended at forty five minutes past
+      five. Numerous observers watohed the pheno-
+      menon from here and speoial magnetic obser-
+      vations were taken from the roof of the great
+      temple here. The results showed that no **
+      speoial magnetic disturbances took plaoe daring
+      the eclipse.
+      THE TRACK OF THE SHADOW.
+      The shadow of the moo 3, a vast oironlar
+      patch, covering an area of somo 1,700 sqnare
+      miles (a little larger than Switzerland), that is
+      to say abont 130 miles in diamster, first struck
+      the earth at sui.rue somewhere near Winni-
+      peg, in Canada, and just skirting tho southern
+      shores of Hadron Bay its centre reaohed the
+      Atlantio on the coast of Labrador, near Domi-
+      no Harbour. Traversing the ooean it first
+      tonohed the European Continent on the north
+      ooast of Spain near Luaroa, and passing in a
+      south-easterly direction through Burgos and
+      Ateca, reaohed the Mediterranean at Oro-
+      pesa; end, involving the Baleario Islands
+      in its gloom, it reaohed the Afrioan ooast
+      near Philippeville in Algeria. Passing aoross
+      the north-east oorner of Tunis it again
+      crossed the sea at Sfax, and skirting the
+      Afrioan coast between Tripoli and the Gulf of
+      Sidra traversed a portion of the Libyan
+      Desert, passing aoross Egypt, Assouan being
+      naar the centre line; and orossing the Red
+      Sea abont the middle of its length passed
+      into Arabia, where it died away cetr the ooast
+      of the Indian Ooean, where it set eolipsed.
+      PROSPECTS OF VALUABLE RESULTS. /
+      • ■.»
+      It is five years and a quarter sinoe a total
+      eolipse of the snn oonld be observed within snoh
+      easyreaoh ofthe oapitalsof Europe and America,
+      and in that interval the progress of physioal
+      soienoe, as well as the perfection of instruments
+      connected therewith, have made great strides,
+      and, while thediseoveryof radium and the inves-
+      tigations of its allied radic-aotive substances
+      have opened up rv together new fields of re-
+      search in phypierf cUmistry, the rapid advan-
+      ces whioh h\ve been made during reoant years
+      in the electrical theory of matter, together with
+      the greatly extended application of the speo- 1
+      troscope to solar and -stellar physics, all bid
+      flair to cpnfor on this eolipse an unpreosdented
+      value for its po isible results.
+      SHADOW BANDS.
+      There is an interesting and hitherto Unex-
+      plained phenomenon whioh is often seen daring
+      a solar eo'ipse for a few seconds just before
+      and just after totality, and that is the appear-
+      ance of what are called “aha low bands”’<pas!iiog
+      as waves of shadow with greater or lews rapidity
+      across the groond or on the fronts of walls
+      facing the sun. Although there is, perhaps, no
+      greatsoieutifio value to be anticipated from their
+      investigation, th-ir very mystcriousnessisasnffi-
+      oient reason for their careful observation, and at
+      every station at whioh observers are sta-
+      tioned they have boon notod, and the follow-
+      ing particulars recorded ; tho - direction in
+      which the bands lie, the direction in which
+      they move,the velocity with whioh they travel,
+      tho width of the bands, and of the spaoes
+      between them. The object of this investiga-
+      tion an attempt to ascertain if they bo
+      duo to the effeot of our atmosphere, or to
+      anything oonueotod with the eon itself.
+      That they are not optioal illusions is proved
+      by. the fa-t that they -are nearly always
+      seen by several observers and have beeu
+      photographed. It is possible they may be a
+      phenomenon of diffraction and interferon re
+      ooonrring at a time when what is still left of the
+      photosphere is beooming a mere po;nt of
+      light in the sky, but in either oase their
+      motion is, at present, impossible to explain.
+      We are not aware of the appearanoe Of any
+      of these bands daring tbe eolipse of yesterday,
+      bat it is quite possible that later new* from
+      our speoial correspondent at Assouan tow
+      boar referenoe to them.
+
+            <!--***** End of Page 3 ***** --></div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
+
+﻿
