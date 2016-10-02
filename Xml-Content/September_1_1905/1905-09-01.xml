@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Your name</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-01">October 1, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-09-01">September 1, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, JULY 13, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement">
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3">
+
+            THE EGYPTIAN GAZETTE, FRIDAY, SEPTEMBER 1, 1G65.
+
+            ENGLAND AND JAPJ
+
+            RENEWED ALLIANCE.
+            TAKAHASHf INTERVIEWJ
+            London, August 31.
+            Reuter’s Agency is informed that a n<
+            , Anglo-Japanese arrangement was signed
+            Lord Lanadowne and Baron Hayashi on t
+            12th inst. It affords mutual guarantees fort
+            protection of Anglo-Japanese interests, ev
+            if only threatened by a single hostile pov
+            and assures the maintenance of the status q
+            in the Far East.
+            Mr. Takahashi in an interview with Rente
+            Agency said that Japan has no less ih
+            thirty-five millions sterling untouched
+            London, Berlin, and New York. There w
+            therefore be no necessity to issue a new loa
+            as the available resources of Japan are ami
+            for clearing up the war. If Japan contemplat
+            l the issue of a new loan it would be to oonvc
+            1 ’ previous loans bearing a higher rata of interei
+            | but be has not heard that the government b
+            any such intention. He believes that a last!
+            peace in the Far East will be assured, not or
+            as a consequence of the war bnt also
+            account of tne new relations between G«
+            Britain and Japan.	(Reut>
+            St. Petersburg, August 31.
+            M. Witte in his telegram to the Ti
+            j announcing peace, says : '1 have the honor
+            report that Japan has agreed to your daman
+            concerning the conditions of peace, whioh v
+            [ ' established in strict oonformity to yc
+            ..l^esty’s indications. Russia will remain
+            ever, as hitherto, a great power in the I
+            East.”	(Reuti
+            (
+            Tokio, August 31.
+            The details of peace are still unknown. The
+            public regards the termination of the war
+            , without demonstration, and the concessions
+            made will undoubtedly be bitterly criticised.
+            (Reutbr)
+            St. Petersburg, August 31.
+            The Tsar has telegraphed to General Linie-
+            vitch informing him that an armistice has been
+            concluded.
+            The news of the conclusion of peace has
+            been received coldly here.	(Home)
+            Paris, August 31.
+            , President Lonbet has telegraphed to the
+            Tsar his lively congratulations for the great
+            event his high wisdom has permitted to be
+            accomplished. France as Russia’s ally is glad
+            to see a war marked by so many heroic deeds
+            terminated by so honorable a peace. (Reuter j
+            \ '	London, August 81.
+            The papers dwell on Japan’s solid gains.
+            The City circles are impressed by the sagacity
+            shown in choosing the present moment to end
+            the war, in view of the impending commercial
+            development of China, in which Japan will be
+            the ohief participant. It is pointed out that
+            Japan is in less need of finahoial assistance
+            than Russia.	]	(Renter j
+            «	—— -	^
+            Ottawa, August 31.
+            The Canadian Government has invited the
+            peace envoys to visit the Dominion, f Hauler;
+            FIGHTING ^ AT HY8ING OSING.
+            »	Tokio, August 81.
+            Marshal Oyama reports extensive fighting
+            on the 27th instant to the north-east of Hysing
+            Using and other places, resulting in the repulse
+            of the Russian attacks, and the oapture of
+            their positions.	(Reuter j
+            RELEASE OF ALGERIAN CHIEF.
+            PARIS, August 31.
+            The Sultan of Morocco has released the
+            Algerian chief The other French demands
+            have not yet been conceded.	{Reuter,
+            Paris, August 31.
+            TW letter of the Moorish government relat
+            ing to the release of the Algerian contains'
+            termB and reservations which France refuses
+            to accept. The incident is therefore unset-
+            tled.	(Revt-r
+            THE CHANNEL SQUADRON.
+            Berlin, August 31.
+            The burgomaster of Swinemuende enter-
+            tained 120 British bluejackets to supper yes
+            terday evening. A party of British officers has
+            come here.	*	(Reuterj
+            THE SUCRERIE8 SITUATION.
+            Paris, Angust 31.
+            It is announced that a general meeting of
+            tne Sncreriee of Egypt will be held very
+            shortly.'	(Bmatj
+            CHOLERA TN VT&TTTT.a PUAvrwnr
+            — t—	--- isuiuijxi i mjvuivjp
+            — <
+            Berlin, August 31.	‘
+            Germany is taking vigorous steps to cope
+            with the feared outbreak of cholera, of which 1
+            there have been 12 cases and 6 deaths in thf '
+            Vistula Province.	(RmUm \
+            - CHOLERA AT HAMBURG. V
+            /	ft	j
+            Hamburg, August 81.
+            There has been a care of cholera here. (F.
+            CRICKET CHAMPIONSHIP.
+            London, August 81.
+            E««ult of County ChampionHhip. Yorkshire
+            Hi%8, diawn 7. Lsnoasbire won II, 1
+            W*t 8, drawn 10,	( (Reuter} \
+            N LOCAL Mi GENERAL.
+            Tub Plague.—Yesterday’s bulletin reports
+            one death in hospital and four cases onred at
+            Alexandria.
+            I	,
+            . .. •
+            DJ, Quarantine.—A telegram from Pera states
+            " that arrivals from Damietta are subjected to a'
+            medical visit.
+            Stray and Ownerless Dogs found in the
+            !1. \ Khalifa district of Cairo during to-morrow
+            new night and at dawn of the 3rd. inst. will be
+            ^ poisoned by the police.
+            he	*
+            Bn Suez Canal.— 9 vessels passed through the
+            er Canal on the 29th inst., of which 3 were British,
+            30 9 German, 2 Dutch, 1 French, 1 Russian. The
+            .» day’8 receipt were fra. 238,186,08, making the
+            ,n' total from the latinst. frs. 8,719,807.14.
+            t Bodies in the Nile.—Three dead bodies
+            e have been found floating in the Nile near the
+            d Kafr el Zayat bridge. Medical examination
+            t revealed the fact that death had been caused
+            by gunshot wounds. The corpses have not
+            0 yet been identified.
+            on The Weather at Alexandria.—Although
+            eat the temperature at Alexandria is not high for
+            'er) the time of year, the weather is exceedingly
+            damp. Tuesday’s weather report showed that
+            • degree of humidity was higher thaD it had been
+            for many mouths, and it still oontinues so.
+            ads	*
+            rill The El Rouei Affair.—M. Axerio, examin-
+            °,nr ing magistrate to the tribunal of the Italian
+            consulate, went to the Voronof hospital yester-
+            gpj day morning to take the depositions of Kamel
+            Effendi Hanein, who was badly wounded in
+            . the fight with Italians in the Gamh el Ahmar
+            i’he district of Cairo.
+            var	■ ■
+            Blind Fiki Injured.—Yesterday morning
+            an arabieh ran over and severely injured a
+            blind fiki named Abdallah Hassanein, who
+            lives in the Anfoushy quarter. The accident
+            lie- occurred in the Sharia Abu el AbbaB, whence
+            sen the injured man was rapidiy conveyed to
+            hospital. His injuries are very serious.
+            ias	,
+            rum I
+            Ibrahimieh Casino. —To day being the
+            anniversary of the Sultan’s accession, two per-
+            formances will be given at the theatre of the
+            Crown Casino, Ibrahimieh, the first commen-
+            cing at half past four. The evening entertain-
+            ment, commencing at half past nine, will
+            inolude a ball and a firework display, in addi-
+            tion to the ordinary variety performance. The
+            programme is exceptionally good, inoluding
+            the popular artistes Miles Marie Fleur, Nina
+            de Pervenche, Lyda Osman, M. Stephany, eto.
+            The French Fete.— The accounts of the
+            French National F6te, which was held on the
+            14 h ultimo in the Esbekieh Gardens, closed
+            with a small balanoe to the oredit side, whioh
+            will be made over to the Cairo Sooidtd de Bien-
+            faisance Fran;aise.The subscriptions amounted
+            to nearly 15,000 francs, but,had it not been for
+            the generosity of the Gas Company, who furnish-
+            ed all the lighting lor the illumination gra-
+            tuitously, there would have been a defioit in
+            the amounts instead of a surplus, for the cost
+            of this portion of the Kite oould not have been
+            less than 3,000 francs.
+            Collapse of a Roof.—Last night the roof
+            of a house in the Bab Sidra quarter collapsed,
+            burying a Copt woman named Mariam bint
+            Girgis, wife of a shawish named Ghatas Shar-
+            kawi. At the time of the accident the woman
+            was sitting with her son aged four years at the
+            door of the house. The woman, who is
+            enceinte, was extricated from the ddbris by
+            the police, and removed to hospital, where
+            she is under medical treatment. The child,
+            who was injured, has apparently lost his
+            senses as a result of the accident, and is quite
+            unable to speak.
+            QllDUimA JJX1UJL.1DI1 UV/UWJL*. — XX11 uamu)
+            Church Magazine announces that the English
+            sohool at Shoubra will recommence its
+            olasses on October 2. Ibis school, which was
+            opened in 1903, is confined entirely to British
+            children, and is managed by a British staff, and,
+            although applications for the admittance of
+            native children are not infrequently made,
+            they are invariably refused on that ground.
+            There are at present thirty-five'Children in the
+            school, and it is hoped that this number will
+            increase on the opening of the new term. The
+            ordinary course includes instruction in mathe-
+            matics, geography, the Eoghsh language aDd
+            literature, divinity, singing, drawing, Frenob,
+            and Latin, and to these may be added on
+            payment of extra fees Arabic, German, and
+            music.
+            THE DTATE JlvAXIaWAid.— mo luuiwoo ui wjc
+            nassenger traffic on the state railways is
+            certainly phenomenal when one considers the
+            comparative smallness of the country and the
+            -onversative habits of its inhabitants, in
+            many .districts locomotion by camel or donkey
+            being still preferred to stesm. Yet during the
+            period from the 1st January to the 10th
+            August of this year the augmentation in the
+            cumber of persons travelling was approxim-
+            ately one and a half millions oompared with
+            the same period of 1904, the inorease in the
+            receipts under this bead basing L.K. 88,880.
+            The goods treffio also increased enormously,
+            and the inorease would have been greater had
+            the administration the requisite rolling stock
+            to cope with it. Notwithstanding this draw-
+            back the Government railways carried in
+            the period mentioned 521,482 tops more
+            merebandiee than last year, with an inoreaae
+            of nearly L.E. 88,000 in the receipts from thin
+            branch of the eendoe.
+            A NATIONAL CONGRESS.
+            AMAZING DOCUMENT.
+            We have received a species of manifesto,
+            3a printed in Cairo and drawn np, we shonld
+            a‘ say by some very young men. It is described
+            as a circular of the public advocates of a
+            National Congress. This congress, we are
+            >e assured, has decided to establish a school for
+            w young Egyptians anxions to see their country
+            progress. It aims at a campaign against dis-
+            honesty and self indulgence and especially
+            against the vioes that injure social and
+            ie family life. The Congress also aims atthe forma-,
+            b, tion of a club in Cairo where disoussions can
+            ie be held, with the objeot of discovering the
+            ie moral needs of the country, and the methods
+            whereby Egyptians may be educated and
+            enlightened.
+            It aims at persnading the natives of the
+            68 country to keep the wealth of the country ip
+            10 their hands, and so .to condnet themselves that
+            m foreigners will cease to look down on them.
+            !(* In this way Egyptians will one day govern
+            themselves. The Congress proposes to bring
+            it* views before the Government in the near
+            futnre. Its suggestions can be Bammed np as
+            ;h follows.
+            ir	i.—Restrictions should be imposed on
+            ly European immigrants to Egypt with a view
+            it to restricting crime and only admitting persons
+            )Q whose antecedents are respeotable and possess
+            a certain sum of money.
+            2.—Companies shonld be striotly prohibited
+            from encroaching on the privileges granted
+            Q. them by the Government,
+            in 3.—The Regulation of all bourse specula-
+            j. tions.
+            01	4.—Restrictions should be imposed on ex-
+            I	ports and imports, so as to check the excessive
+            export of necessaries—such as cereals—and
+            ir the consequent rise of their price.
+            5.—The establishment of local commissions
+            throughout Egypt to regulate the prioe of
+            >8 vegetables, bread and meat,
+            ft	6.—A thorough inspection of liquor shops.
+            10	7.—Rents should not be permitted to rise
+            it above a certain leveL
+            ie	8.—The 2 % rate levied by the Municipality
+            to of Alexandria for the construction of the new
+            eea wall to be abolished, the sea-wall being
+            now completed.
+            9.—The reduction of the salt tax.
+            10	10.—The reduction of the rates levied by the
+            r' water company.
+            10 rlhe authors of this document have refrained
+            n‘ from signing their names in full, and we have
+            gathered nothing from a study of some rather
+            II	cryptic initials. As for their suggestions, some
+            3* appear to us to be unnecessary, the attention
+            10 of the Government being oocnpied with the
+            '8 discovery of the means to combat the evils of
+            ia which the signatories complain, while others
+            °* are so thoroughly medieval that we cannot
+            help being amnsed at the naivetd of the writers,
+            ie who obviously imagine that the revival of the
+            ie trade restrictions of the fifteenth centnry will
+            id prove a panacea for any economic ailments from
+            ih which Egypt suffers,
+            a-	---------
+            NATIVE PRESS COMMENTS.
+            The comments of the native Press on the
+            Accession day of the Sultan bear a decided
+            resemblance to those of Turkish newspapers,
+            published on previous occasions of this kind
+            at Constantinople, and often quoted as exam-
+            ples of what we may call the ‘honorific’ style
+            of composition. In reading them we move in
+            august regions peopled by courtly superlatives,
+            resonant titles and cardinal virtues, in a fairy-
+            land of splendour and dignity where debts
+            and difficulties are ignored and where the
+            Commander of the Faithful and the great
+            dignitaries of his ^Empire receive the endless
+            homage of a contented people. This species of
+            composition cannot perhaps be naturalised in
+            Egypt with complete success. We reproduce
+            the following extract from our contemporary.
+            “Ax Lewa.”
+            "Twenty-nine years have passed since H.I.M.
+            Sultan Abdnl Hamid II. ascended the throne
+            of his illustrious ancestois. Since that date be
+            has revived hopes that seemed to have died,
+            and has preserved the honor of his kingdom,
+            and maintained it in an exalted and honorable
+            position, after finding it a prey to disorder
+            and threatened by rain. He has smitten down
+            with an iron hand the pernicions rebels who
+            plotted its rain and has scattered them abroad,
+            lie has watched over the development of
+            -oienoe and industry, and has opened schools,
+            institutes, and colleges in every part of
+            his empire, while doing all in his power
+            to preserve the old Moslem teaching
+            from modern and oontaminatiDg influences
+            He has continually striven to protect and
+            strengthen the faith and has moreover built
+            numerous warships, constructed railways, and
+            organised a great and victorious army. If the
+            Moslem world oelebrates this ffite, the Turkish
+            nation celebrates with it the day of its political
+            revival. The committee has therefore organised
+            ,11 measures that will make this celebration
+            far superior to those of the past in honor of
+            tho preservation of our beloved Sultan from
+            the scoundrels who reoently attaoked him.
+            THIS 1'AJNAJUA UAIMALi.
+            w
+            Monsieur Quelleneo, who was formerly chief w
+            mgineer of tho Suez Canal Company in Egypt
+            tnd is now their consulting engineer in Paris, gi
+            is at present in the United Slates and will J,
+            assist at the International Committee of Engin- rt.
+            eers which is to assemble to-day in Washington .
+            to determine whether the Panama Canal is to K
+            be on the look system or otherwise. Monsieur j*1
+            Qneilenneo, as our readers will, remember, was «
+            >no of those who was consulted by the Alexan- T
+            dria Municipality .and the Government U
+            regarding the new quays before any dpoision M
+            was taken, and he has been obosen in this
+            instance by the Government of. the United
+            States on account of bip long association with
+            the works of improvements undertaken for
+            some years on the Sue* Oanal^wbioh rote
+            carried oat under bis direction. Two Ftonoh
+            men are to sit on the oommittoe, th<p, other «
+            being Monsieur Godard, inspector general of hi
+            the ponts ot ohnnwds in Pens.'	IH
+            7 jEGYPTIACA.
+            BY JOSEPH OFFORD.
+            The new association founded in Haris
+            somewhat npon the model of the British,
+            Egyptian, and Palestine Exploration Fonda,
+            the “Socidt^ Fran^aise de Fouilles Arohdologi-
+            ques,” has recently held an exhibition at the
+            Petit-Palais de Champs Elysdes, in whioh were
+            shown the results of M. A. Gayet’s latest
+            campaign of excavations at Antinoe.
+            As is well known this explorer has been
+            working at the site of the Emperor Hadrian’s
+            celebrated oity at various times since 1896,
+            bat no season’s explorations have been so fruit-
+            ful as the last. Hitherto M. Gayet had
+            devoted his attention to the vast necropolis
+            to the north-east of the town, bnt this oeme-
+            tery did not possess tombs of the rioher or
+            patrician families, though those of various
+            pagan and Christian people were touqd there
+            of what. may be termed well-to-do people.
+            The great men, however, of the capital of the
+            Roman Thebaid were undiscovered, and so this
+            last winter M. Gayet searched in the rocky
+            valleys on the edge of the “Arabian Plateau”
+            toward the Red Sea, and was rewarded by find-
+            ing a superior style of sepulchres, though most
+            of them had been pillaged, probably in late
+            Persian times under Chosroes, about A.D. 600.
+            The description of the tomb given by the
+            Gayet in the “Catalogue Sommaire” of the
+            Exhibition neednot detain uahereexoeptingthe
+            aooonnt of one, the banal arrangement of which
+            was so nniqne that it is interesting to read the
+            explorer’s description in fulL "L’nn d’eux, oh je
+            retrouvais le corps d’un gladiateur.offrait oette
+            particularity caractdristique que, sur tout le
+            fond, nne dpaisse couche de ciment reoouvnit
+            les dalles. Une silhouette humaiue y avait dtd
+            modelde eu creux, donnant de profit les ligues
+            d’ensemble du squelette, auquel s’aoorochaient
+            les masses figurant le vgtement. Les cdtes, les
+            os des bras, des jam bee, dtaient dessirds aveo
+            soin ; k l’entonr, les lignes dn rappel de man-
+            teau ytaient en proportion snffisante. Autre
+            detail non moins important: alors que dans
+            toutes les tombes le mort repose conchy sur le
+            dos, le corps dn gladiatenr ytait y tend a sur le
+            c6W, s’emboitant dans ce monlage, bien qn’il
+            fftt un tiers environ pins grand que nature.
+            C’est le seul exemple jnsqn’iei de pareil fait
+            observy.”
+            The Gayet notes the valuable fact that in
+            Christian burials the mummy holds in his
+            right hand upon the breast the “crown of
+            election” just as in early and late Egyptian
+            tomb3 the deceased grasped the magic sceptre,
+            Nek, whioh symbolised the future life in the
+            theology of the anoient priests. Also the
+            presence of portraits in all the tombs ot
+            wealthy people is connected evidently with
+            the portraits, from the "Double” or “Ka” spirit
+            in the old Egyptian sepulchres, whioh in
+            the latter were mostly statues and not relief
+            representation of the defnnot The same idea
+            that if the mummy were destroyed, the replica
+            or effigy would take its place appears to have
+            lingered on into Christian times. The custom of
+            gilding the face, fully dwelt upon in the
+            “Egyptian Gazette” in an essay entitled “The
+            Golden Horns,’’was still practised qhite late'y
+            at Antinoe, reminding ns of the Pharaonic reli-
+            gious literature, promising the deceased should
+            have a “visage shining as the light,or “that
+            the eyes shall see the light.” To ensure the
+            fulfilment of this latter formula, the mummies
+            in some cases have little rolls of bitumen
+            covered with gold leaf, inserted in the orbital
+            sockets.
+            Among the tombs discovered, the most inter-
+            esting occupants were a charioteer andagladia-
+            tor,doubtless celebrated champiousin theoircus
+            fetes at Antinoe and a lady “Khelmis” the
+            famous singer of Osiris Antinons, certainly a
+            priestly hierophant in the temple wherein the
+            unfortunate favorite of Hadrian was worshipped
+            under the oeremonial cult of the ancient
+            Egyptian rituaL Other frames appear also to
+            have been those of aotors in the Antinoe
+            Olympic games, or of offioiants in the "Mys-
+            teries” instituted in honor of the lovely youth
+            Antinons.
+            (To be continued.)
+            VITALITY STATISTICS.	ftutl
+            ---------	wen
+            From the latest returns of the statistical sect
+            office in Cairo we find that the births regis-
+            tered there during the week ending Saturday com
+            19th August, were 410, inoludiDg 3 of Euro- tiop,
+            pean parentage; and the week following 441,	"
+            which included 6 of the latter category. For out
+            the two weeks under review the deaths were ^l0
+            492, of which 9 were of European nationa-
+            lity, and 489, of these 19 being Europeans,
+            During the same weekly periods the total mB1
+            number of births at Alexandra were 271, of t0re
+            which 12 were of European parentage; and 255,
+            including 6 of the latter category. The deaths
+            totalled 233 for the first week, of which 17 —
+            wore Europeans; and 256, in the second
+            week, including 19 of the latter.
+            It should be remarked that the figures
+            given relating to the births of European ohil- 0 al
+            dren are th so sent in by the district in-
+            xpeotors, as the new law compelling the re- ,	,
+            filtration of all children belonging to Europeans ^
+            does not come into operation until it has 1 a
+            been approved of by the International Mixed n>e<1
+            Tribunals, and therefore the retorns are apt to ?en'
+            be mUleading. Buoh, however^ is not the case <n*.
+            as regards the mortality statistic*. '	. *?)0.
+            ——------ V.,.	aU
+            STEAMER MOVEMENTS.
+            ana
+            *	,	f..	u cfjj
+            The Ellerman S.S. Britannia left Liverpool of ti
+            for Alexandria direct on Thursday and is die Hpi
+            here on the llth inst. with gen end outgo end fron
+            passengers.	| wbl
+            * i	k
+            for
+            THE CONGO FREE STATE.
+            '
+            OFFTnTAL nnMMmiinATirhxr
+            „ ,2“
+            Mr. E. D. Morel, r hon. secretary of the
+            Congo Reform ' Association, has iaened for
+            publication the farther correspondence that
+            has passed between his organisation and Lord
+            L&nsdowne, the Secretary fir Foreign Affairs.
+            Lord Lansdowne’s communication, whioh is
+            dated the 17th inst., is a reply to One from Mr.
+            Morel on the 8th inst., respecting the native
+            witnesses, and it is in the following terms:
+            "I am to inform you that reports of the
+            privations from whioh these natives are suffer-
+            ing have been received through the acting
+            British Consul at Boma, and his Majesty’s
+            Minister at Brussels has been fristfneted to (ill
+            the attention of the Congo Government to the
+            matter.
+            “I am to state that the latter recently point- ]
+            ed ont to Monsieur de Cavelier, in the oonne ani
+            of conversation, the hardship involved by send- an
+            ing considerable, numbers of native witnesses,
+            required in connection with the trial of white
+            men, to Boma from the Upper Congo, and
+            inquired whether such trials oonld not jei
+            place in the Upper Congo. Monsieur de Cave- ?l
+            lier replied that the practice cf holding tijala,
+            when white man were involve^, in the Upper
+            Congo or rather remote distriots, had, since g‘
+            1895, in conseqnenoe of the Stokes case, been 7T
+            abaadoned. and that it would require serious g
+            consideration whether it would he possible to 01
+            resume the praotioe of holding trade, of as
+            important a character as those now under
+            disoussion anywhere bnt atthe principal seat of ws
+            justice.	in
+            “I am to add th&t his Majesty’s Acting
+            Consul at Boma has been instructed to give
+            the D&tive witnesses such assistance as he
+            properly oan in their efforts to obtain work
+            during their detention at Boma.”	P3*
+            Mr. Morel, as a rejoinder, submitted the
+            following to Lord Lansdowne :
+            “In the report to the Sovereign of the Qj
+            State (‘Rapport an Roi-Souverain’), dated ^
+            Brussels, 21st May, 1897 (‘Bulletin Official
+            No. 5 bis, numero aupplementaire’), it ia ^
+            stated:
+            In all the districts of the interior the
+            creation of territorial tribunals has been ,
+            decided, empowered to apply penal law to ac
+            ail residents in the State, native, or other, _
+            the courts-martial thus becoming com-
+            petent only to deal with military eases.
+            “It is true that in the same official report
+            the value of the new organisation was greatly p.
+            lessened by the proviso that in cases of ‘murder
+            and homioide,’ and of ‘attempts npon the life
+            or liberty of the natives’ (the charges brought
+            against Europeans employed in the Upper
+            Congo, for the prompt local investigation of ^
+            whioh the machinery referred to in the pro- t0.
+            vious paseages of the report was ostensibly
+            created, being precisely of this character) the
+            Europeans accused should be brought before
+            the Tribunal in'the Lower Congo, the objeot by
+            being, as stated in the report, ‘to guarantee 00
+            more efficaciously the repression of particular-
+            ly grave aots.’ Bat the procedure adopted in
+            v*rions oases would appear to differ not a
+            little. Thus on November i4th, 1901, M.
+            Lejeune, an agent of the A.B.I.R. Society,
+            was sentenced by the Territorial Tribunal at
+            Coquilhatville—,whioh, aooording to Monsieur
+            de Cuvelier, would appear to be non-existent gt
+            —to six months’ imprisonment, and 1,000 fri>. „
+            fine. The original charges in this ease would U
+            seem to have been those of making war npon
+            the natives without authorisation, in the tb
+            oourse of whioh the bodies of the slain were
+            alleged to have had their hands removed ;
+            and handing out firearms to soldiers oontrary •
+            to law. M. Lejeune, I understand, was so- 1U
+            quitted of the first-named oharges by the looal
+            tribunal, apd acquitted of the latter on appeal.
+            “Whatever arguments may be adduced by
+            Monsieur de Cuvelier in explanation of the
+            present system of administering justice in the
+            Congo, the resultant effect is, on the one hpud,
+            to facilitate the escape of Europeans involved „
+            in alleged oases of atrocity ; on the other, p
+            to bring unmerited sufferings upon native wit- 6
+            nesses, and to close the months of native
+            witnesses who would be only too anxious to
+            come forward to testify to the wrongs of whioh n
+            they and their relatives have been, apd con- w
+            tinue to be, the victims, were local courts 1
+            authorised to deal with their grievances and
+            were they guaranteed from subsequent per- p,
+            secntioD.	t;	Vf
+            “The present system, in its praotical out- “
+            come, constitutes, indeed, a negation of jus-
+            tics, and admits of no defence.	r	*1
+            “In conclusion, I would bsg leave to point
+            out reapeotfully to your lordship that, while Mi
+            the ‘oareful regulations’ indicated by Monsieur
+            de Cuvelier are beiDg e’aborafed, and while 0-
+            the report of the Commission of Inquiry re-
+            mains still unpublished, the slaughter and tor- Ca
+            tare of natives in the Upper Congo oontinne
+            with monotonous persistency.
+            J
+            itish Chamber of,Commerce.—We would Nal
+            the attention of manufacturers and mer- Neg
+            n to the work of the British Chamber of Goa
+            nerce of Egypt, whioh was formed ir Mm
+            with the sole objeot of assisting British Brdi
+            in this ooontry. The servioes ttf the
+            iber are always at the disposal of any
+            jer desiring information on trade m^ttera Bmi
+            ally, inoluding the question of appoint- i f
+            nitable agents. As no fre is obarged for
+            advioe, it {■ obvjpusly in tty intereataof
+            ntiah traders here to beoome members, I lint
+            ft	i"
+            35
+            s enwifY*	Mel
+            m
+            •-	3 *
+            tam ’mimtkL
+            9
+            Ate-AAV * - , - *-£**••* «*>». v U- *
+            S" ”	> expected tfr leave
+            i -tor Constantinople oo Thursday or
+            f.
+            II Jua cam--	1!.	DC
+            CttJokahaakJVha an*Mm. Go«k
+            T**	from j iMtfMtl)**. fcen&vpt on the
+            'he 29th instant by the P.&O. Persia.
+            Mr Pi,.„	a**,•**.•>«n«iebi
+            towns mid GoJmnment	j,
+            to return to Cairo on or aboutthe loth inst.
+            g , ChittY Bov dfrMbtr^aJ^Lj*’
+            uuiy qireotor jeneral ot,.eiuit(i«s,
+            whioh u due at Port Said on tlae 18^mat
+            Mr. H. Carter Wil^n/^irector of DMonnel
+            and accounts to the Ministry of the*Inlerior
+            arrived a't Alexandria from Cairo yesterday.
+            leaving Marseilles by the P &O. Persia on th*
+            29th inst
+            Sues Canal police, will return from leave oh
+            uie 4th Ootober and resume his duties at Port
+            Said,
+            -4	. m"^~^"***
+            Mr. Astley P. Friend director of tpe Cain)
+            waterworks, is expected back from England
+            in the 10th inst
+            1	# t
+            Mr. Douglas Morice returns to Cairo oa tee
+            20th mat. and resumes his duties at district
+            postal inspector. -**
+            u	jwangaau ont .
+            v	*otin*	va0«t iqt
+            Greece, has amrad n	»;H
+            aka part in the official huwu#t: ©veu-hy the
+            legent thu evening'in honor of the dnltan’s
+            icoession,
+            Mirza Ali Asghar Khan, diplomatic agent
+            md consul-general for Persia, arrived at Alex-
+            andria to-day.
+            -.•-■■a. ,
+            M. D. Zeppa, the Italian wiunwi—loiiei sited
+            Jaisse de laDerte, bus strived at Alexaadria
+            rnd will take part in to night’s offioial banquet.
+            M- P88^?00	,duootor««oertl of
+            the Cairo Tramways Company,returns to Cairo
+            to-day.	t,
+            Dr. and Mrs. Bentley are tearing London
+            by the P.&O. Arabia and will arrive in Cairo
+            !>n the 20th iost
+            t
+            .......... •<»>.•!' -»•* .
+            Mr. John Cafflari will leave Alexandria next
+            Friday by the Messageries steamer, on his way
+            to London.
+            Mr. B. Gon^.who uhtil reoently ohief oi the
+            Stocks and Shares department
+            Jttoma^ .^ank at Cai^ has appointed
+            mb manager of th9 Alexand ia branoh of
+            the Bank of Salonioa.
+            Mr. and Mrs. Soott-Dalgieish will he hack
+            in Cairo on the 4th proximo.
+            (.	'Vh	. atitiiHk C*»3
+            PAI81VOIR Lilt.
+            . A R RIVALS.- -	.
+            The followiig passengers arrived at Port
+            Said on the 29‘h ulto. per P. and 0. 8.8.
+            Persia:	1 , J \	' -
+            Mr. B. L' Haslett and Mr. Dodison.
+            Arrived from London per P; & O. 8.8. Bri-
+            t&ntiia : —Mrr O. Graham. MrtvBewley, Mr.
+            D. Seymour,, Mr,,and,McKay Mr. G.
+            Malcombe, Mr, C. H. Lowenthal. ^
+            From Marseille*
+            Capt> Goldsmith, Mr. J. J. Jelf Mr. H. S.
+            Philpotts, Mr. M. A. Slater, Mr. F. Jaoqnes,
+            Mr, W, Henijiy, Mr, Sinado, .Mr. if. Kemaid,
+            Capt. Scmervill*, Q«*,t, P. Wood, QapL R. B.
+            Blalreneyt Mff Man? field, Mr. and Mrs. Man*
+            «nd three children, Mr. J. Fenett, Mr.P.
+            Martina.
+            Arrived at Port Said from Brindisi per P. &
+            0. 8.S. Osiris, 80th olto.iAl r. n i^,.* UJU
+            Miss A. Young, Mr. I. Rale; Mr. H. Walsh,
+            Capt. Satterley.
+            DEPARTURES.	■	. *■
+            jepaqnebot Sirin, dela Ole Florto Rubat-
+            ) parti hier pour Gineaavait fc hrtd i.'
+            UM. L Matranga, A. FWlSira, OUNMhlei, 0.
+            hum, Di Benedetto; Naha*, R A»ArtuMa> B.
+            grist safille, M. et Mme ROmeiap Mil*
+            islati, Roeemberg, Dr Spoer el ftau^M. St
+            ie A. Foly, P. Canoaioi, 0. & WuteteipP.
+            omen et fils, Mile Birell etrlwm^ Ales
+            drini, Touche « frm., 'IWtedteiMtef; Y.
+            id	^
+            neilta^tS
+            4r. Alrx.	Pro^Bamuteterm
+            J. M Lansing antf\4«Q|htor, Mr. Hertol,
+            I. BoHhadten, Mr. 0, 0. L^rte lte Wm.
+            bmi Mr R Arsuteirt, Mr f
+            . Bdgar Kirby, Mr. Y. Levy*. Mr. Cteatet
+            hum,	‘
+            *	’ '-'5^ ■-: 1
+
+
+            <!-- ***** END OF PAGE 3 ***** --></div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+﻿
