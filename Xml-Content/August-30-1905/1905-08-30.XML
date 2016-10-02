@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Your name</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+<!-- **Add Issue Date**-->                    <date when="1905-01-01">Enter issue date</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, WEDNESDAY, AUGUST 30, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement">
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3">
+            THI EGYPTIAN GAZETTE, WEDNESDAY, AUGUST 3O, 1905,
+
+            PEACE AT LAST.
+            JAPAN'S magnanimity.
+            'w*
+            Plaqde Credits. — The Sanitary Admini
+            stration has demanded a new eredit of L.E.
+            10,000 for measures against the plague.
+            IMPORTANT POINTS CEDID.
+            t
+            San Stefano Casino.—A grand night fete
+            will be held at San Stefano Casino next Satur-
+            day, when there will bo a display of fireworks.
+            WORLD-WIDE EXCITEMENT.
+            , Portsmouth (N.H.), August 29.
+            It is understood that as a result of yester-
+            day’s Council at Tokio, Baron Kamnra will
+            submit to M Witte a new basis for a compro-
+            mise	f Renter)
+            Woman Scalded.— An Arab woman Darned
+            ' jatifa bint Girgis fell yesterday while carrying
+            a kettle full of boiling water on her head. She
+            was severely scalded and will require fifteen
+            days’ treatment.
+            Portsmouth (N.H.), August 29.
+            The Conference has arrived at a complete
+            agreement on all questions, and decided to
+            proceed with the elaboration of a treaty.
+            (Later). Japan yielded all the outstanding
+            questions and accepted the Russian proposal
+            that there should be no indemnity, and that
+            Saghalien should be divided without the
+            payment of any redemption money. She with-
+            drew Articles X. and XL of the original peace
+            proposals relative to the surrender of the
+            interned warships and the limitation of, the
+            \ Russian naval power in the Far East. An
+            armistice will probably be arranged this after-
+            noon.	(Renter)
+            The Plaque.—A Greek groom from a stable
+            in the Labban quarter, Alexandria, was yester-
+            day admitted into hospi a1, suffering from
+            Dubonic plague. One death in hospital and one
+            recovery is also recorded from Alexandria.
+            Fayoum-Light Railways.—The.receipts of
+            the Fayonm Light Railways Company for the
+            ten days from 11th to 20th August amount
+            to L.E. 620.062, this beiDg an increase of L.E.
+            50.648 over the corresponding period of last
+            year.
+            London, August 29.
+            The news of an agreement spread like
+            wild fire and caused the most intense excite-
+            ment here and in New York. The magnanimity
+            of, Japan Las produced a profound impression.
+            \	{Renter)
+            Portsmouth (U.8.A.), August 29.
+            'The Japanese have accepted the Rnssian
+            ultimatum ; no indemnity, and division of
+            Saghalien without re purchase payment. They
+            have also yielded on the question of interned
+            vessels, and npon the limitation oi the Rnssian
+            navy in the Far East.	(Ifaval)
+            New York, August 29.
+            The peace conference has arrived at a
+            complete agreement. Peace is arranged. (B.)
+            THE CHANNEL SQUADRON.
+            The Windsor Hotel — A cinematograph
+            entertainment will be given at the Windsor
+            lotel this evening by Mr. E. Fuller, who has
+            an excellent apparatus and a very varied
+            selection of films, so that the audience can be
+            sure of spending an enjoyable evening. The
+            entertainment will commence at 9.30 p.m.
+            GERMAN PRESS COMMENTS.
+            Berlin, August 29.
+            The press devotes many columns to the
+            description of the Channel Squadron. The tone
+            is friendly sr.d satisfaction is expressed at the
+            meeting of the British and German fleets. (B.)
+            PERSONAL AND SOCIAL.
+            Harvey Pasha arrived yesterday at Alex-
+            andria by the evening train.
+            Ismail Pasha Sabri, under secretary of state
+            to the Ministry of Justice, arrived yesterday
+            from Cairo at 1 p.m.
+            Major Johnstone, president of the State
+            Railways, left on Monday for Upper Egypt and
+            is expected back in Cairo on Friday.
+            -----k----.
+            Captain C. H. G. Garratt, A. P. D., has been
+            granted leave of absence from Ootober 5 to
+            November 23.
+            Mr. Thomas McPherson, inspector of
+            masonry, and Mr. David 0. F. Watt, draughts-
+            man at the Assouan Reservoir, have been
+            granted three months leave of absence to date
+            from the 1st instant.
+            Dr. Gumprecht,’ the Gentian Consul, at
+            Cairo, is shortly going on leave for three
+            months and during his absence the aoting-
+            Consnl will be M. von Verson, the German
+            Consul at Saltnica, who is expected in Cairo
+            next week.
+            The offices of the Soofefe Gdndrale des Su-
+            creries were closed on Tuesday as a mark of
+            respect for the memory of the late M. Cros-
+            rfier, president of the company, who died in
+            Paris on f Monday last.
+            M. Foaden, the Secretary of the Khedivia
+            Agricultural Society, has retnrned.to Cairo and
+            has resumed his functions.
+            \
+            Mr. Diomedes Sarakomenos, who has been.
+            ajipointed director of agricnltore in Cyprus
+            has taken up the duties of his new office. Mr
+            Sarakomenos was for many years professor oi
+            natural science in the Gymnasia and * sob-
+            director of the School of Agriculture, Atbenp,
+            and for seven years has been direotor of the
+            Missolongbi and Corfu agricultural stations.
+            He holds the diplomas of the Institut Agreno-
+            mique de Paris, and of the Academie des
+            Sciences (Sorbomie) Paris.
+            WINDSOR HOTEL Restaurant
+            Table tf'Hate Luncheons & Dinners
+            Served en the Terrace.
+            CRCBB6TBA PLATS 6 TO 11.80 P.M
+            piusiiiu *»* renew im mmr,
+            ,0CAL AND GENERAL.
+            Gun Accident.—A French lid was play-
+            ing with a gun yesterday in Moharrem Bey
+            qnarter, when the weapon went off and injured
+            lie sister, a little girl of eight years of age,
+            who will be for at least twelve days in the
+            doctor’s hands.
+            Drowned in tiie Harbour —A lighter
+            aden with stones caps’z id in the harbour
+            yesterday. Of the crew of four, three were
+            rescued, the fourth, a native named Abd el
+            Aziz was drowned. His body has not yet been
+            recovered.
+            Suez Canal.—25 vessels passed through
+            the CaDal on the 26th ar.d 27th inst., 13 of
+            which were Brit'sh, 7 German, 1 Italian, 2
+            frenob, 1 Spanish, 1 Norwegian. The receipts
+            Tor the two days were frs. 789,387.78, making
+            the total from the 1st. inst. frs. 8,108,880.57.
+            Army of Occupation.—During the absenoe
+            of Brigadier-General G. M. Bollock C.B., in
+            Cyprus and Crete, the command of the Forces
+            in Egypt will be assumed by Colonel F. W. N.
+            IfacCraoken, D.S.O., Royal Berkshire Regiment,
+            and that of the troops in Cairo by Lieut.-Col.
+            I, C. C. Cox, Royal Inniskilling Fusiliers.
+            Incident on the Quays.—We are informed
+            to-day that in the incident to which—owing
+            to the nature of the report translated from the
+            Arabio whioh was given ns—we referred under
+            the heading “an insistent woman,” a lady of
+            great literary ability and social distinction was
+            involved. A version of the affair, differing from
+            that which we received yesterday, has been
+            handed in the form of a complaint to H.B.M.’s
+            Consulate. The case being sub jndice we pro-
+            pose to abstain from all comment until the
+            conclusion of the enquiry.
+            A Drastic Remedy.—A native of Cairo,
+            who has a great liking for any form of alcohol,
+            indulged, we are told, too freely on Tuesday
+            evening, and on returning home after hip
+            carousal, sank into a drunken slumber. His
+            two sons, who had long deplored their father’s
+            proclivities, bethought themselves cf a certain
+            cure, and promptly pht their idea into praotice
+            by setting his beard and whiskers on fire. We
+            trust that these two men will receive a severe
+            pnnishmeDt, fob, whatever their intention, thtf
+            act was exceedingly brutal.
+            The El Rouei Affray.—The condition of
+            Kamel Effendi Henein, of the seoret police,
+            who was shot in the affray which we have
+            already mentioned, shows a marked improve-
+            ment. Further investigations by the polioe
+            have proved that the Italians implicated in
+            the affair were members of a band of thieves.
+            Their headquarters in the Gamh el Ahmar
+            quarter has been found to oontain a large
+            quantity of stolen silks, jewellery and other
+            valuables which have mysteriously disappear-
+            ed from various shops and honses. It is hopei
+            that the rest of the band will soon be captured.
+            PASSENGER LIST.
+            ARRIVALS.
+            Le paquebot Sirio, de la Cie Florio Rubat-
+            tino arrive avant-hier de G&nes avait b bord :
+            MM. Catefsgo, A. Kroner, 0 Conegliano,
+            Perpz, T. Sutello, M. et Mme Galves, F. Grosso,
+            Riccardo, Faranda, Talama, G. Ardizzone, M.
+            et Mme Nello, Di Grande, M. Deebay, Rdes
+            soeurs Raobele et Valeri, tog. Principe, M-et
+            Mme Azzopardi, Mattei, E. d’Amelio, Ant,
+            Zahar, Greoh et fils, A. Grech, L. Roberto, cap.
+            A. Bianobi, Eugenia Cardooci, Baoigalupo et
+            fern., L Conradi, D. Chiapponi, Haupt, Katz
+            Hans, M. et Mme A. Aldo, L Siri, Frizzi et
+            fsro., prof. Pace, A. Bruno, S. Lambert), G.
+            Constmecn, B. Granelli, 0. Paccofi, M. Mas-
+            aolli, L. Fallottj et 40 pawagen de Sue olaeie.
+            * the news of peace.
+            NEWSPAPER PROSECUTION.
+            THE WAR AND ITS RESULTS.
+            We need not say that the news that peaoe
+            >etween the two great Eastern Empires is a
+            certainty at last has caused immense satis-
+            action in every capital and not least in
+            xradon, where the fact that the (Japanese
+            alliance had been renewed, if not strengthened,
+            w3a hound to render the continuance of a
+            singularly desperate sanguinary struggle a
+            source of pain to an allied people, united
+            moreover to the ally of Japan’s foe by the ties
+            of a cordial and generous friendship. The war
+            that has jnst ended has been, without question,
+            the most stubbornly fought encounter between
+            two oivilised nations that has taken place since
+            the Napoleonic struggles. Less protracted and
+            therefore less bloody than the Amerioan Civil
+            War, it was fought by trained armies far better
+            equipped and organised than any of the vol-
+            unteer forces that took part in the earlier years
+            of the great. struggle. It was waged with an
+            indifference to loss, a dogged and persistent
+            courage that has never been excelled in war.
+            The Japanese watchword — “reinforce and
+            attack again”—held good in the faoe of every
+            repulse, and, if the series of defeats whioh
+            ! lussia had to sustain has led some to hold a
+            ow opinion of the value of their army, it must
+            be remembered that the Tsar’s soldiers, if often
+            lieaten, were never routed, and that the care-
+            essness and Degleot of too many of their offioers
+            was atoned tor by the amazing persistence
+            and resolution of the N.C.O.’a and men ,who
+            showed the same dogged and unyielding oour-
+            age that the Moojik has ever displayed on the
+            lattlefield, the spirit that minimised the oon-
+            sequences of deteat at Zorndorf and Borodino,
+            and ensured victory at Poltava and the Shipka
+            ] }ass. On the other side the Japanese have
+            given proof that they possess the highest mili-
+            tary qualities. An unyielding conrage that
+            would not admit a repulse, a fervent and eelf-
+            sscrificirg patriotism that made death prefer-
+            able to surrender, joined to a thorough and
+            scientific preparation for war, have proved them
+            the most terrible opponents in the held and the
+            most valuable allies. It has been said that the
+            Japanese has not yet been tried by the test of
+            defeat; surely an army that hurled itself for
+            months against the forts of Port Arthur suffer-
+            ing horrible loss without a glimmer of success,
+            would rot easily be discouraged by defeat in
+            the field, and what praise can be too high for
+            Admiral Togo, who, after losing two out of his
+            six battleships.and one'of his fastest cruisers by
+            mines or collision in a single afternoon, watoh-
+            ed Port Arthur and its six blockaded battle-
+            ships with nndiminished vigilance, and finally
+            crippled the hostile fleet in the great battle of
+            August 10, 1904 without the loss of a single
+            vessel 1
+            To turn to the results 6f the war, Japan is
+            eft supreme in Korea and Liao tung, the Man-
+            churian railway south of Kharbin reverts to
+            China, and Japan obtains useful fishing rights
+            on the Siberian coast. The questions of the
+            indemnity and of the interned war-ships are
+            waived altogether. The 8&ghalien dispute is
+            settled by a compromise, the southern half of
+            the island reverts to the Japanese, to whom
+            it originally belonged,while Russia regains the
+            northern half just wrested from her in a brief
+            and brilliant campaign by two Japanese reserve
+            divisions. So much for the results of the war
+            from a mftteriftl point of view.
+            -Criticism of the Japanese attitude in accep-
+            ing the Rnssian refusal to pay an indemnity
+            or to surrender more than half Saghalien
+            wonld he ill-timed till the facts are known.
+            Japan may have been $oo magnanimous or
+            she may have suffered more from the war than
+            is generally supposed, but, in our opinion, her
+            attitude is probably due to the renewal of
+            the Anglo-Japanese alliance on a broader basis,
+            whioh guarantees her against attack from any
+            quarter, for a period during whioh she can
+            recover from the economic disturbances caused
+            by the war. In any case criticisms of the peace
+            terms may well be left to the morrow. The
+            war has ended, the butcheries of Port Arthur
+            and the Shaho will not be repeated, and the
+            glory of the “Rising Sun" htu suffered no
+            eclipse.
+            “EL MOAYAD” AND “EL SAYBKA.”
+            We have already mentioned that Sheik Ali
+            Ynssef, the proprietor and editor of the
+            “Moay&d" had brought a charge of attempt at
+            blackmailing against Ahmed Fouad, the editor
+            of the T S&yeka,” or the "'ITiunderer,” a paper
+            published in Cairo, and of a similar nature to
+            “La Justioe,” the proprietor of which, Leon
+            ?ehmi, was reoently sentenced to one year’s
+            imprisonment on a charge of the same descrip-
+            tion. It seems that Ahmed Fonad had publish-
+            ed some scurrilous artioles in his paper
+            regarding the elopement and seoret marriage ot
+            Sheikh Ali Yussef with the daughter^ Sheik
+            ! SI Saadat (which caused such a sensation and
+            so much talk in native ciroles last year) on
+            the former refusing to pay hinp £20T;1.
+            The tribunal of 8ai'da Zenab has now an-thor-
+            ised the Parquet to detain the aocused in
+            prison provisionally for a fortnight, whilst the
+            neoessary evidence is being got ready for the
+            forthcoming trial before the Assize Court now
+            Bitting in Cairo. Meanwhile the Parquet is
+            examining the witnesses for both sides.
+            ARMY OF OCCUPATION.
+            COMING CHANGES.
+            The following changes will take place daring
+            the forthcoming relief season.
+            The 2nd battalion Rifle Brigade now station-
+            ed at Khartoum and at the Citadel in Cairo
+            will embark for India about the third week in
+            November. The Royal Berkshire Regiment at
+            * lexandria, which arrived here from Sonth
+            Africa on 30th November, 1902, will relieve the
+            above battalion, and its plaoe will be taken
+            by 1st Royal Dublin Fusiliers, which arrive
+            from Malta in three detaohments, the first in
+            September and the last in November. The
+            Royal Inniskilling Fasiliers, now atKasr-el-Ni
+            barracks, will send three companies to Crete
+            and one oompany to Cyprus, and the four
+            companies of the Kings Royal Rifles Corps
+            at present serving in those two islands wil
+            rejoin the headquarters of the battalion at
+            Abbassieh.
+            As we have already mentioned the Trans-
+            port Assaye, which sails from Southampton
+            on the 8th November, will briDg oat the last
+            detaobment of the Royal Dublin Fusiliers
+            from Malta and embark the Rifle Brigade
+            at Suez for India, where it will be stationed at
+            Chambatta.
+            STEAMER MOVEMENTS.
+            .The Khedivial mail steamship Minieh wil
+            leave Alexandria at 4 p m. on Saturday anc
+            Port Said at 4 p.m. on Sunday for Beyront,
+            Tripoli, Minis*, Alex*ndretta,Caiffa and Jaffa.
+            NOTES FROM PORT SAID.
+            THE ECLIPSE.
+            Mr. Smyrnoff. the Diplomatic Agent for
+            Russia, Count Antoine Standinoki, Secretary of
+            Legation of the Austro-Hungarian Diplomatic
+            Agency, Count Arrivabene Gonzaga, the
+            acting Diplomatic Agent for Italy, and Mr.
+            Roman d’Ertbner, Secretary of the Belgian
+            Consulate-General, left Cairo on Monday for
+            Assouan to observe the sun’s eclipse of to-day
+            and furnish reports to their respective Go-
+            vernments.
+            Mr. Mitchell Innes, Under-Secretary of
+            State, Ministiy of Finance, has invited the
+            members of the various commissions to dine
+            with him at the Savoy Hotel, Assouan this
+            evening. •	'
+            SULTAN’S ACCESSION FETES.
+            Great preparations are being made for the
+            fete whioh is to be held on Saturday night *t
+            the Esbekieh Gardens in oelebration of the
+            anniversary of H.M. (he Sultan’s Accession.
+            A fine arch is being erected at the main
+            entranoe to the gardens opposite the Boulao
+            avenue, and amongst the numerous amuse-
+            ments will be a representation of the play
+            Saladin at the Esbekieh theatre, songs by the
+            most celebrated native artistes of the day,
+            instrumental music, and fireworks. The com-
+            mittee have kindly invited all ranks, of the
+            Egyptian Army and the Army of Occupation,
+            to attend the fete in uniform.
+            We are requested to publish the following
+            farther list of subscriptions:—Mme. Khonlonsi
+            Pasha 750 frs., H.H. Prince Omar Pasha Tous-
+            soum 250 tra.; H.E. Mansoor Pasha Yaken
+            250 frs. ; H.E. Osman Pasha Galib 500 fra. ;
+            HE. Ynssef Pasha Talaat 250 fra.; H.E.
+            Abdel Hamid Pasha Sadik 250 fra. ; H.E
+            Hussein Pasha Shahin 250 fra.; Ottoman Bank
+            50 frs.; M. Mayer 50 frs.; M. Sussman 25 fra. ;
+            M. Stein 25 frs. ; M. Daff 25 fra.; previously
+            acknowledged 7,500 fra. ; total 10,175 fra.
+            FRENCH TORPEDO CRAFT.
+            (Fbom our Correspondent.)
+            Port Said, Tuesday,
+            The torpedo transport Foudre, having on
+            board several small harbour defence torpedo
+            boats, and also two of the latest submarines,
+            and accompanied by one torpedo destroyer,
+            and six sea-going torpedo boats, arrived
+            here on Sunday en route from Bizerta to
+            Djihuti and Saigon. The Bquadron is com-
+            manded by Capitaine de vaisseau Niool and
+            reports a fair passage. It leaves on Saturday.
+            * *
+            The Frenoh squadron now at Port Said is
+            composed of the following craft:—
+            The torpedo depdt ship Foudre, a vessel
+            built on much the same lines as H. M. S.
+            Vuloan. Displacing 6,036 tons the Foudre is
+            capable of a speed of over 19 knots, and carries
+            four 8.9 Q. F. guns, four 9-pr Q. F. and four
+            i 3 pr Hotchkiss guns. She can carry no less
+            than six torpedo vedette boats if required,
+            and is at present taking out two submarines
+            to strengthen the Frenoh forces in the Far
+            East.
+            The two submarines are of a new type de-
+            signed by M. Romazotti. They are named the
+            Perle and the Estnrgeon, carry fonr torpedo
+            tubes and displace 68 tons. Their speed does
+            not exceed eight knots, bnt they will |m most
+            useful vessels if called upon to play a defensive
+            role.
+            The destroyer Rapifere was launched at
+            Rochefort in 1901 and did 28 knots, one knot
+            over her estimated speed, at her trials. She
+            displaces 303 tons and is armed with one 9-pr.
+            Q.F. andsix3-prs. The six torpedo boats whioh
+            are to be convoyed to Saigon by. the ‘Foudre’
+            are numbered 255, 284, 285, 286, 291 and 292.
+            Their displacement varies from 87 to 90 tons.
+            Bnilt for a speed of 25 knots they have .all
+            done from 25 £ to 27 knots on their trials.
+            Each carries two one-pounder antomatio. guns
+            and two torpedo tubes, one on a turntable aft
+            and one fixed in the bows. Altogether the
+            little squadron will greatly inorease the defen-
+            sive strength cf the Far Eastern Colonies of
+            the Republic.	s;	. «
+            THE GARDNER-BROWN COMPANY.
+            This oompany started on Monday at the
+            Khedivial Theatre a series of what should
+            prove to be most successful evenings. '
+            A packed house witnessed a lengthy and
+            most amusing variety entertainment whioh
+            lasted till a late hour.
+            Renderings of “Please give me heaven" and
+            ''Bluebell” called for much applause, and alto*
+            gather the Khedivial management is to be
+            congratulated on the entertainment which they
+            are providing for their supporters.
+            BRITISH BATTLESHIP. •
+            H.M.S. Glory, the last of the battleship
+            squadron in the China Sea, after a quick ran
+            through the Canal, arrived here to-day, and is
+            to stay only a short time before proceeding to
+            | England. She is one of the newest of her
+            I type and carries a orew of 700 men.
+            THE CIGARETTE INDUSTRY.
+            THE MURDER OF AN OMDEH.
+            A NEW DEPARTURE.
+            Mr. Nestor Gianadis, the well-known head
+            of the cigarette industry of Egypt,[and Presi-
+            dent of the Union des Fahricanto de Cigarettes
+            d’Egypte, is leaving Alexandria on Saturday
+            by the Austrian Lloyd steamer for Trieste, on
+            his way to America, with the intention of
+            starting a factory at Boston, the first of its
+            kind established in that oonntry, or, in fact,
+            in any other, and where Egyptian cigarettes
+            will be manufactured out of Egypt. This new
+            departure was decided upon in consequence ot
+            the vexations regulations of the United States
+            customs, and the nnmerona restrictions im-
+            posed upon the importation of cigarettes from
+            this country ; so that whilst the exports from
+            Cairo and Alexandria to European and Far
+            Eastern countries has been increasing by leaps
+            and bounds within the past five years or so,
+            that to the U. S. of America has remained
+            practically stationary.
+            Mr. Gianaclis will also visit Germany and
+            England before embarking for New York and
+            will be absent until December.
+            AMATEUR ESTATE BROKERS.
+            We qnite agree with what a writer stated
+            in the columns of a Cairo contemporary yester-
+            day, that the Government should at oree
+            pat a stop to the scandal of petty employ^
+            in several state Departments, notably the
+            Ministries of Finanoe and Interior, acting as
+            land brokers. Naturally the genuine brokers
+            and firms engaged in this class of business
+            are np in arms and intend making complaint
+            to the chiefs of the departments in which
+            some of their employes are aoting as brokers,
+            and who, undoubtedly, can bavefho know-
+            ledge of what is going in this direction.
+            We think that an enquiry should be opened
+            without delay by the responsible heads, and
+            measures be taken to stop what amounts to
+            a grave scandal.
+            SAN STEFANO CA8INO.
+            The following is the programme of the vocal
+            part of the ooncert to he given to-morrow
+            , ». Mora-Amor U tM» - ■	.___...
+            1 b. Mottlnato—Loonrarallo— P™	oioranoui
+            t Noflotofolo—Morta 41 Northern* - HUo Ourtool
+            I Dob F*>MtUso — BooUatWe • Bamanra — borjtoo — Ur.
+            Onmlo
+            4 Tom Srt 4««»lin>-r»co pto-mi<OMrtoa1.
+            We have reoeived the following aooount from
+            our Tahta (correspondent of the murder of the
+            omdeh of Fazareh, whioh we reoorded In oar
+            issne of yesterdaySheikh Genawi, the omdeh
+            of Faztreh in the Tahta district, was the victim
+            last Wednesday night of a brutal plot whioh
+            was planned against him. The authors of the
+            horrible oeimesat fire to a large rick of dried
+            maize belonging to one of them, and then called
+            the omdeh ont to take charge of the work of
+            extinguishing the fire. Genawi rushed ont as
+            soon as appealed to but no sooner did he reach
+            the scene of the fire than he wm struck by two
+            bullets. His wounds proved fatal in a very short
+            time. Before expiring the omdeh named
+            seven men whom he suspected of being parti-
+            cipators in the dastardly act.
+            As soon as Mohamed Helmi Effendi Issa,
+            Si bstitnte of the Parquet, learnt. wfcat ha<
+            happened, he went to the scene of the murder
+            and held an inquiry. From this it was made
+            dear that the seven men mentioned by Sheikh
+            Genawi had been present at the fire and, as
+            they were known to have cherished a great
+            dislike to the omdeh, they were arrested. A
+            woman, who was watching the fire, was also
+            shot in the head, bnt it is believed that this
+            was accidental, all the shots being intendec
+            for the omdeh.
+            uuieu.
+            THE COTTON WORM.
+            SPORT AND PLAY.
+            KHEDIVIAL YACHT Cl UB.
+            DEEP SEA RACE TO ABOUK1R AND
+            - '	BACK.
+            Conditions of thb Race.
+            His Highness Prince Aziz, Commodore of
+            the Khedivial Yacht Clnb haa offered a hand-
+            some cup to be raced for under the following
+            conditions :—
+            1.	The race shall take plaoe on Sunday,
+            September 3.
+            2.	The start shall be from R to W. over •
+            line drawn between the starter’s kiosk at the
+            club house and the mole lighthouse round the
+            ireakwater lighthouse, starboard hand; Boghea
+            leaoon, starboard hand; to Abonlrir, rounding
+            Kelson's Island on the starboard hand, and
+            back rounding again the Boghas beacon, Port
+            land ; and breakwater -lighthouse, Port
+            land; and finishing across the line from
+            W. to B. Distance about 40 miles. (No boats
+            are to go through the “Hole in the Wall.’’)
+            8.— The boats will start all together at
+            10.80 s.m. and they will be expeoteff haok
+            between 5 and 6 p.m., when his Highness will
+            be •lAt'SJome” to members of the Club at the
+            dub house>The handioap allowance will be
+            made at the end of the race.
+            4.	— At 10.20 a.m. a preparatoiy gun will
+            be fired for those sailing to check time by, also
+            another at 10.25 a.m. and one minnte before
+            the start, viz. at 10.29 a.m., another gnn will
+            be fired snd the Club burgee broken at the
+            starter’s mast, when all boats mnst be under-
+            way ; at 10.30 a.m., the time of start, a final
+            gnn will be fired and the bargee healed down
+            as a signal for all boats to start Any boat
+            aoross the line before this final gnn is fired will
+            have to return and recroea in aocordanoe with
+            the racing roles.
+            5.	— At least five boats mnst be entered for
+            the raoe or there will be no start
+            6.	— The handicap will be made mwwdlng
+            to merits by a special committee composed of
+            members not taking part in the race, and will
+            be based on the doings of the boats in the
+            ordinary weekly regattas. A gun will be fired
+            as each boat crosses the line finishing.
+            7.	— Entries must be lodged with the hon-
+            orary secretary not later than to-day, after the
+            regatta. There will be no entrance fee.
+            8.	— Every boat intending to take pert
+            must be at the Yaoht Clnb jetty not later than
+            9.30 a.m. on the day of the raoe and will not
+            be allowed to start until the boat and all its
+            gear, inolnding rigging, eto. has been certified
+            seaworthy by a speoial oommittee appointed
+            for that purpose and. also mast be provided
+            withsoffioient life buoys or preservers for the
+            whole of its orew in oese of aooident.
+            A speoial boat will be told off to afuise in
+            the vioinity of Nelson’s Island to give assist-
+            ance in the event of an aooident, also an
+            umpire’s launch will follow the boats aB the
+            way to observe the raoing end aot as a stand-by
+            for breakdowns.
+            The most Dotioeable item of the cotton-
+            worm reports for last week is the considerable
+            rednotion in the area attacked by the worm
+            in the Behera district, the difference between
+            that period and the preceding week being
+            2,062 feddans. Damietta shows no recurrence,
+            and can, therefore, be said to be entirely free,
+            as in the preceding week only 9 } feddans
+            were attacked. A diminution of 289 § feddans
+            is reported from Gharbieh, and 105 from
+            Dakahlieb, bnt in Minieh an area 16 kirats
+            (§ feddan) have suffered. This province has
+            been entirely free oi the worm, for several
+            weeks, and its appearance now has been among
+            the heghazi bersim, and qot in the cotton
+            crop.
+            The following are the foil details
+            Gharbieh 86 i feddans, belonging to 6
+            proprietors, have been cleared by lift children.
+            Behera : - 804 feddans, ont of 884 attaeked
+            belonging to 88 proprietors, have been cleared
+            by 1,116 ohildren.
+            Dakablieh :—4' feddans, belonging to 1 pro-
+            prietor, have been otearod by 80 okildren,
+            Minieh :-16 kirats of heghazi bersim beve
+            been attaeked and oleerod of the worm,
+            Calendar of Coming Events
+            ALEXANDRIA.
+            August
+            Wed. 30 Partial Solar Eclipse. 2.59 to 5.19
+            p.m.	'
+            K. Y. C. Regatta. 3.30 p.m.
+            Max. Prince’s Restaurant, das Bains.
+            Roumanian orohestxa,every after
+            noon. Sundays, morning.
+            Windsor Hotel. Orchestra. 6 to
+            11.30p.m. everyday.
+            ? Alban,bra. Italian company in
+            Bean. 9.15 p.m.
+            Crown Casino,Ibrahimicb.9.30p.nii
+            Theatre of Varieties (ex Ciccolani);
+            9.80 p.m.
+            Thurs. 31 San Stefano Casino. Bracale Benefit
+            Concert 9 30 p.m.
+            September.
+            Sat. 2 A. C. C. ground, A. C, C. v. next
+            XVI. 1.80 p.m.
+            Alexandria Swimming Clnb. Meet
+            Cuftr ms Gate 23. 4.30 p.m,
+            CAIRO.
+            August.
+            Wed. 30 PartialSolarEolipse. 3.8to5.20pm.
+            Esbekieh Theatre. Italian Comedy
+            Company. 9.15 p.m.
+            Theatre des Ambassadenra. 9.80
+            p.m.
+            Theatre des Nouveautos. 9.80 p.m.
+            Alcazar Parisian. English Troupe.
+            9.30 p.m.
+            September.
+            Fri. 1 Esbekieh Gardens. Performance.
+            by British Military Bind. • to
+            11 p.m.
+            Turn. 5 Esbekieh Gardens. Performance by
+            British Military Bend. 9 to II
+            p.m.
+            CARLTON HOTEL.
+            ■Men (me muhim >
+            RAMLKH’B FASHIONABLE HOTEL.
+            riJMMW *V ™ uun‘_. _
+            M r„r -	NWeewkm
+            * e aouiuna fm*m
+
+            <!-- ***** END OF DIV TAG FOR PAGE *****--></div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+﻿
