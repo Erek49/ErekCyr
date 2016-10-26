@@ -1,0 +1,3170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Your name</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-28">September 28, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-08-29">August 29, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+<!-- NEED TO FIND -->>  <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, AUGUST 29, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement">
+<!-- Beginning Page 1 -->
+
+<!--
+
+
+^	U).\il‘\N\, I.I.MUfctl.
+Thi* Com|wm*» *t*U'to of nbtiurin* tolefr^ih
+cabio* i» Uw iwm dirtH.t and ^uictu-at meats* of
+commuftication from Kgvpf to Ktiropr, North amt
+South Amerii'.i, !■!;»**., South amt West Afr i»,
+India, Au*tr,ili», NV» Zealand, China and Japan.
+To sernn nttirk tran«mi»*ion, telegram* should
+be marked Via Eastern.
+For Intrst average time to London, *ee daily
+bulletin in thi* paper. 7
+STATIONS IN EGYPT: Alexandria, Cairo,
+Sue*. I’.nt-Tewfik, Port Said, Soakin Head
+Office, London.
+No. 7,379]
+ALEXANDRIA, TUESDAY, AC0U8T 89, 1906.
+[SIX PAGES P.T 1.
+
+wC&TSCHEfi /.
+s&z
+%
+•1
+FXPRE88 MA^L STEAMERS
+ALEXANDRIA, PORT SAID, AJH> SUEZ,
+NAPLES, MARSEILLES.
+EASTERN ASIA. AUSTRALIA Ere. ,
+A-^*1 —— * —	A a .. - -* t
+”w rmrncvMn nt AaTtrmiMii wwwi
+British India t ft Company, Limited.
+*"'Ti't^cBJBfceaasw. —nar
+ODTWAim 99 K_ -	, j B0tH»S!ri?» IM1, hereto, I
+Bookie* Paaowaft— —ftPorto la Iadla Burwpw ft Amorim
+rlrat alaaa paiunift atoomara. ioUiag IMal|kUr from Booo.
+*xintmtr »***—"—	. ;*» «*—»**	^
+rauoM ^-wvww ^	»———ft	(uktmr -	- -
+* *y TT\iS-
+^^^Dentsche Levytej^
+I 8& fmmm Aogmt U tram Ham bar* and Aatwwp bound ior Rottordaw A Ham Fury
+Timm AaflSS from Hamborg konodtorSay—l .
+^ aa RkAt* Aogvt J1 from Hamburg a* Aat—pbomd fat Boyrmt
+p» -»«■* || tow— jgffir «a APOLTMBSTBOSS, Ilia MR —to. - ISdlaW
+Messageries Maritimes
+j • •: j 5£-	n?r»rsB
+~ssf“	i*T S TS* ‘T’TSSJ
+"'^^SLy * m SSSbp* * SSSbsr	SELte
+-^^^rr-pr: y~* ■* jjj**
+I N BJ
+iirrs^fs^fsr^ j
+tssssasr—-	- j
+mI—.>ifr»o«* o«..	w.u»w i
+THE mTIOaft nUTUM. Uft ASSOCIATIOW Of AUgTRBlASU, LIWTtO. j
+uxosmnoa or folkt to norms at.ooo rot i ana.
+Ctilid «««i a .......... PttMtnr »o*><t BO.
+Goto Paymm* to opr 19 M1,000 (xtoi ham) Tam it jm
+ffimianl PromlHm . . «SS «t» i *. Total Coat . . ROM	i
+Bio«M father die bofora tom foil policy secured without farther payments. ,
+SbaaM child die before tom nil contributions retnrned with 4 efe intoraat.
+Fall part— on appa—oo to Agent, in Chao:	1
+l&A DC BILiNSKi,
+_______Inwrm Boc— Pont. ,
+SUDAN OOYBRMMBMT RB1LVBTB.
+CAIRO-KHARTOUM SUMMER MAIL SERVIOC
+ALEXANDBIA BONDED WAREHOUSE COMPANY, LID. 1
+Bonded Warehouses	*
+IH ALBXA1^.RIA» 0A1K0» P0BT BA*D> 4»D	!
+SODAS PiYHjQHHMT A DPlDBATlOi COPAST, UNHTOj
+TW|ga^Hg^EE«s;^^^^«5&5BaBtaaj
+Anglo-American, Kits Steamer & Hotel Coy.
+L...,tnarePtmCioorT*rHZiis H Vl^ttSRTpSJCm iZiltoypWER.
+fUfmlm +mU,	MC+ttD C*’fr$ACT 9) *4 8.8. INDttUM.
+THROUGH BOOKINGS Td rHA»+OUlf. GOAUOKOKO AlCt) THBIWM9AMV;
+IhdntH ml RtMkomth arttmmM« emltom MOh. iaa^Mon. kML
+tlAWT ftlTfdt ST ltd* VIS ICS NTVtVV HIM ttffi ItflllSSII.
+*** - ^
+omom a OAJMO . t*m+ Bmi£?"€bLi Om**mtwl ffttd JMMNn" M4AS
+MOBPPEPT8CHEB LLOYD.
+Ufttv VarHen M —iTIlfPBIA (Peeeenfer iaAIPNI«hD
+Nk piPt-Hf-M a aain.i.ia
+9CHXM1U vOrbmoo ittbmu el 4 pm. Aa*m» SB, SbVMAber th, «kn
+^ The MPewtns itanmara nre jntmded to lenee POBT-GAg):
+PrA^me m*r I I rTaT j iwi” ‘ m *T* Z Z Z*
+gg_	—*• |	JMbm   mm»4Mmt
+ol n^ammim. mTanolLnaiol it
+Austrian Lloyd’s Steam Navigation
+' AjMselHa-Briodl i-Veuloc-Trieotc.
+Wasftly Bfpraea Mafltrrtm. himai Imv* Alexandria arwry Saturday at 4 p m. antra at
+BrtedM, Taatda* a.m. h Mm#tor aepran to I via, London, Naplm, lama. Arrival Trlaato
+Wadnmday noon eonnWlagWtb Vienna Exf^ma (THetoa Oatonda thmogh onrriage) ant
+nn*nmm«nmaA-pm*iiito»^im«.eiB». , , am*. Ua>M»-gi-eoma-oae*.a*to
+■	7*	•	» mmn'*•»• I •	■	■	• miOMW ■ ^pHto
+rortaljUffil >ar»Ioe« Alciandfta-Biindlal 4c Trlaato.
+*	(Daporttaraa from Bose) To II itbi. Bombay, Colombo, Poaang, Singapore, Hon*.Kong,
+Hhanghrf, Tahohdma, KaM aMRB Aagwt 4 and Sept 4. To A dm, Karachi, and Bombay
+•nmlaratod «orHiiGMaat AagnOlffi To A dan, Karaohi, Bombay, Ootomho, Badrm, Bangoon,
+Ta Adam, If mataMa, Banaibor, BMto, Dalagoa Bay, Darhan, aboat Aagaat * and Saptambotfl.
+a for inloramtkm apply to tha Apaoto, Alexandria, Port Said and Bom, Tarn. Oooa A Baa, Laa^
+1mm Ha0a«R Oatro Agaart, 4^ Sharia Maghraby, (Talophona 1OT), Oairo; P. Tmaaom,
+CUN ARP LINE.
+•	«r
+Tnr.T.TnTg.iur a~nt T.Tisnnisi T.T-NifTn-«Nirnj
+omrjjft*.	j omr a hall unh
+■Abta. MBR qmmaa a caacttu. I ■aEMntiM.^ySpaan. mami a ma—i
+BSffiwaT	S g i tsx^^V'rl
+OOBT Um[1 On, Ltd, i^aBB flardXrfMAmJFhrtlaM :V RAPUBKW ft 1«, A^Zto
+ma HainTton PmtBaad ; aa 0001 AJom(hi+\ Idi, Caaan_MTSM»Isoi
+The fiQermau Lines Limited.
+(Inoludad WnMooth dh Lnumnet Linn.)
+Bagakaa aaBinga Bam IPtoapaoi, Giaagom, Aataaap and London to Akxandm. Ammmat
+aaahnm ham Alearaafrm to Limapool and London. TVoogh trmght mtm to lahmd towns in
+Great Britoaa ai*> to tho U. 8. A
+WBtooM &A Amm mpaadad bom Antnarp, London A Mahe is diion at shoot Aag. IP
+Bi— as m Sardian * N Liverpool, Gibraltar A Malta „	„	„ BspL 1
+M1TMGM06____________>. B. TAMVACO, ttafc.ipm
+Navigation Oenerale Itstienne.
+SeaistM Mr nsrW-lBbnttiBO. - Sorrieei PostAax. - flsputi d’Aoet
+Lm Jmvm t, 10, IT, M at SI A S b. pm dnoet poor Mamina, NaMM Idvaorne at Odnan
+Lm Ml I— lot IA k * h. pm. dboat poor Bnndiaa, Ban, Anotea mf—to.
+Lm Mtatamm t at U k 10 k am. poor kaa amalaa da la Syria at lamiirni
+La lm— »1 b 4 k pm. pear IVt-Sa* Sam at Maamwak
+lakRtl afSta—« M b t k pm. peer Port-Said.	31-IS-905
+NATIONAL BANK O# EGYPT.
+CAPITAL: L. E^OOUJLESgRVK (RNVI^NV.L 869,00a
+-- -t •Tv*"‘RVV7 t    — ------------------------------^ m-
+RAMK^Pf	j^MlTED. kh^s asa!rm mmsBf co.
+iSSS22^S^sSSa& JL'rssxg.	^ "CSsur
+>«rerinoapT*: ttiTiiam. eiiB?HS »am.
+^Sj^SS£SS^^S^^^S^BfiriLS
+Bi3M^*BBM»	ww Wfr *aa—^aSfg|	bmdh—n S—BBm	-
+i^TauawIrSa*0(>,l
+Peninsular and Oriental S. N. Company.
+• ommar Rataa will ha ahargnd toam S May to 91 Oatohor
+Pot tha ooDvaninDoa of kmiliaa and othaaa# Wage poation of snob ship'* accommodation hat
+bean reserved far Bgypt, aa that Bmlha onn ba dadnihdy •ngagariat cama, aa if tha royaga wan
+ootmnanoing at Tort Said. PI— — be amffi at tha Oftem of tha Company's A—to
+Tha through Btoaaaara fcr Maiwfllm and London art btondad to lmva Art &d aftor the |
+arrival of tha am. train from Cairo* nan Tnaaday fra tha praamt. A rtaaaa —dm afB
+moat tha train to oouray paawng— to tha ahrp,
+Aaoj.ru «.	«.	1 A ago at I	Onra... «.	«. M Aagaat I	lam —	«. IS S—.
+Marmora _	_	8	„	P—U. _	_	»f „	Macmdoxu	—IS •
+Ann—. —	—	II M	|	MtJUwtvU—	— I Sopi |	Calxdoxia....M ’ „
+The Brindisi	hma	Staaaaaa* —va	Ptaat Bald dirartly tha lad— Mailt arrive
+Paaaang— — go aa board the mm— ha**. Tha Pam la At to Brindm.
+Tha oombinad 8m and .penal tram frrs hat h— radaoad to £St-S ll Port Said to
+London via Brindisi or via Mamailiaa.
+Dnnng the Mooaoon — me axpraaa a—a— naaaUy rmahaa Baiodtai m Thanday
+af—noon, UN apaoial —in starting nt 8 p.m. and arriving in WL-m at the vary —van—1
+hoar of 4.M pm. on Satonky
+Pw aH far—a inframat— apply to — Company . Aganto,
+Mamaa. TJ—. Ooo« fr 8o» (%ypt) Ltd. _ _ _ _ _ CAI10.
+Gao— Rotw. laa, - _________ POETflAiD
+Mat— Haanu— A 0k _________ ALKIANPRIA
+P.0,DAVIDflOH,Bapariatondmt P.IO.IB.Company ia Igypt 8U1	»1 ISSOS
+Orient-Pacific Lins of Ro^ajl^jl^teamsrs,
+BIBBY LINE*T«AIL STEAMERS.
+Snanlal Radaoad Sataa OaHag Bammav Gaaaaa.
+■paam+ummm.F*rl
+. PAST BRITISH RRS>B R Q g R BTBAMBRB.
+« lm! ^SnSrrTtfmJ—jU^AOTA tto	k“d;UOm
+TlUPOLL AIJITANnRKTTA, MBEBUIA, —ftnxlng In altannta oaab to LABIfACA and
+LIMASSOL (Cyprus).	MED CU UB.
+8taaaosn —vs Saaa fortskh— oe Wad—daf at S pm. fra JEDDAH. SUAKI2I, MABBO-
+WAREfODUDAH, and Ai)KN ; and la —i totorvaning varfa far POST SO AH and
+8FAKIM diraot OaBa wffl be madaat TOR.ffaa Mount 8—I) aa mgn—L
+H.K—Dock —in provided far tha am of p*t—pan, «x—t a— and to— win<fr—
+B—an nr nhma ahay ha — and pa—— bookhd at — Oonmany’s Apmo— at
+Cairo. Port Said, and 8— ot P T— Odor A Bon aa o—r Tmriat Agency.	Sl-lfreot
+The Mona 8.8.Company,Ltd.
+MARINE INSURANCKJ^PANY, YjMITEdT"
+l— mss Otodfrd AM«*tooo fr— 9mI gnaanoo
+THI IMPMUAL HU OPTI<a m—d^w—^TMB AtJUANCB ABM; HA BOM On. Lad
+11-lS-SOk_______ th— >—d M — hp A TH A — dfto.
+Telephone Company of Egypt, Limited
+P. HENDERSON & CO’n LINE.
+Staamanleave Bmmf—to—Hi farLoanwat Lmnr*— dfaaat
+(Biaotria laght)	SALOON (AantofapO 9AMM Alt.	(La— - |	- )
+8.8 Mandalay	4000	Tana will torn TOT SAH>	ahoat Sap*.	• fra 1—den
+„ Irjrawaddt	7300 m m	*	.	.	17 for Iivwrpool.
+M Pwro .	MOO	»	-	,	„ Oatr	Ijtoi to—	]
+Due in LOHDOH ot LIVERPOOL IS days —realtor
+Applf WORMS ft Oo, Port Said ami Saw THOR COOK ft 60M, (Boytt) La, Caao;
+-----------------—--------yfHffijS t >AA4**f OR*—■	•
+Thos. Cook & Son,
+craSTKxSsr ^erzs&!a~nuBHSfB^
+■ CENEML RAILWAY AMO STEAMSHIP ACUTA BARKERS.
+BAGGAGB AMD FOllWABD1NG AGIMT&
+Officially ay-tad A—tjaiifciaCalralt Dm P. 40. S. S. Ca.
+RESIDENTS IN EGYPT proceeding to Europe
+for the sunuBtf tore requeeted to epplj to oop offices for
+information respecting the i]* Passages, where Reamer
+plans may be oonsultea and Berths seenred by all lines
+of Steaners to all partwof the globe; arrangements can
+also be mads for the ooUsotton and forwarding of their
+baggage and clearance a> port of awiwaL
+CIRCUXaAR NOTES issued parable at the current
+rate of exchange in all the pmoipafcitiea of Europe.
+Cook’s Interpreters in uniform are present at the
+sagagir
+—-I* - •5,ti*JS5s sesp” wt»'hn
+
+
+
+-->
+
+<!-- End of Page 1 -->
+
+                </div>
+            </div>
+            <div type="page" n="2">
+
+<!-- Beginning of page 2 -->
+
+<!--
+
+m lnTPTTiv niiiw TnE?nir irranaT oo imik
+Royal Insurance Coy
+FIUE AND LIFE.
+riN Oflftora In tha World.
+HA8KLDKN & CO., Apmtt, Alexandria.
+R. VITBRBO A CO., dysuls, Cairo.
+PH(ENIX ASSURANCE COMPANY, LIMITED.
+(BBTABU8HHD 17*9), .
+HASHEDRN A 00., dyeafs, Alexandria.
+113 90*	FRED. OTT A 00. SriAdywris, Oairo
+*3?“ N. SPATHIS uSi
+Soda Water. Lamonad*, 0 lager Ala, Qlagar Boar, Toalo Watur
+Pomafraaada, Ora agenda, Ploaappla, Ohnmpagaa, Oldur, ato., aio.
+Water guarantee! bj Oataaaai.ua'a Fan* (Paxnwus Btwtww)
+Inventor of WHISKY A SODA and BRANDY A SODA, bottled ready for an.
+J. CALVRT A Oo..................... Bomn	Wine A Oognese.
+LOUIS B0RD1RKB .................... Hma	Oh ■■«■■■
+AUGUST 1N0RL ......................Wmun Rhine and MnnBa Warn.
+MAORIS A Oo.	.................Guam* LmevteHa, While Horn.
+OeUar A other Whlaklaa.
+DUNVILLK A Oo, Lm .................Bauraar OU Irish Whtokfoa.
+Wa. LAN AH AN A BON................Bawnoaa MonoanAaM XliXWhieksy
+THB COOK A BRRNHRIMKR Oo...........Now You OM T^^WAfoAa^.
+STONE A SON ...	............ Lon** Catenae*' Stoat ABaa* Pale Ala.
+FREUND BALLOR A Oo................. Toano Vermouth
+PURRIBD8ET.........................Own Vermouth A Aperitive..
+THRABOIATBA Ooavan, Ln. ........... Tea*.
+Depot for PrineeMetl*rnite'i"R»tenrdequell*.'' the boat aimral table wteario the world.
+Groat AMorimoat of Wlo**, Spirit*, Liqaoora, ©1 th# teat Brand* oto,
+l
+-rite:
+AN6L0-EGYPTIAN BANK,
+X.IMITXI3.
+LONDON, PARIS ALEXANDRIA. CAIRO
+MALTA. OIBRALTAR. TARTAR.
+AND PORT RUD.
+Mubeortbat Capital M 1.8oo,ooo
+Paid up	*•	* 8oo,oo«
+Beeerre Fund--------A B00.000
+Tb* Anglo-Rgyptian Bank,^Limited,
+Itrr* lirt*---]— «n ill Aril a I
+ChmwAo imjaleaeilebe
+miu'ZrLFf**B^feltr “£*lSre *"
+•n^r m SXST. " ",ful l"a*< w
+9M|eAM end mb el Modi aad Mm
+08	XjQQ^^r	SB tiM
+2555 as 2*y,S3l*i*rJ	k""**
+The uRems and alarka of the leak
+* A.8.KBF.O.R
+AND IF NOT SUPPLIED
+unr to
+JOHN a. CAFFARI.
+*UK noaia a oaiao wwm
+“AU DE ROUGE.”
+» KMIAl MAPOY OTOUMMOn.
+CAIRO.
+P. PLUNKETT
+' *
+MoeeitToe.
+DIRECT II PON TEN OP BNIT1SH AIO I NISI
+TEXTILE MANUFACTURES.
+ladies summer stockings.
+Id SPUN RILE at P.T. 10 par pair
+LIRLR THREAD. La plaU aad laaa
+opaa-work. La htaah. whlta, tan and
+oeaal sbadaa, to eait boots worm ta
+tnm P.r. • par pair.
+wMalTVT17piL^Bti^Lhaf U«* OtAorlt
+SELLING OFF
+SURPLUS DRAPERY STOCK
+OF MAOAIIXI VICTORIA.
+Oa Premises lately nimpiad by "Psgstorii
+j t--'1-." Re* Susostria, S deoee ten
+Chard Paeba Street Far paitioakn an
+•ala Ajreale fa «OT‘ * W*«
+G. G. DROSSOS t OO.
+UtTK PNAniCAA 0RORROR.
+AARXAMDWA.^lWJb
+LAMfASTEI MOUSE, CAIOO.
+Samoa Waxocx El Mota.
+Oaaafartabta apartaianta, with *1
+without board. Tanas-r Tressaeble
+Walker & Meimarachi, Limited
+THE EGYPTIAN 8UPPLY STORES.
+OAIRO A. N- O ALEXANDRIA.
+Exquisite and ExtsnsivsSalection of Solid Silver & Pitted Articles
+CUTLERY, LEATHER & ATHLETIC GOODS&GAME8.
+TEA AMD LUNCHEON BASKETS.
+CHOICE HAVANA AND INDIAN C/OARS.
+VINTAGE WINES.
+1ATLY WEATHER REPORT
+ieeeei«vw?-<e r* rm-fr o»rttrmarr
+lIZUKOllt.
+* W.W.	wl a* ,kf t. ImIIim TW ,mi»
+•.	w, hm lb*	«• IwtUKT M MifhMf la.
+naSSn-
+hra a tan «4tef *M. T M»>>|
+— |a|g|‘—,|g|a
+■easaa . a	m	ami___ u	a
+9iaaa„ a	e	aaei.	a	a
+~a^ r	I	"""	"	"	'
+11	I
+*	ms aas i rruTKw*.
+•v . ..	—..•' ». .......■■....I	0
+nan ________an	im.	a	cm
+aana________ *wj	TEL	m	am	r
+nrima_______ nr	ium	m	1
+vriwma_—_	nt	h	<3E
+■ re»»aeor me kook	tm «yii
+l«. t	Mm Umm	a	■ u.	%M	tM	«
+. *	taaM	cm	u.	u>	ca	■
+. ■	Mama	U	am.	Ui	Ui	C
+. a	Lm am	uua	in	aja	■
+. a	Mm IM	HI	*.m-	Ul	L*	1
+r
+PROVISIONS, CONFECTIONERY AND TABIC DELICACIES.
+HOTEL-CASINO SAN STEFANO
+IS NOW OPEN
+A GIFT FROM ENGLAND
+t aoo Curtains, Moalory. Clothtna, FumRuro,
+Pnnillflr Parrel 03 A Carriaora Proa •nRe'NjaA* a OmmOa aeM enahr
+Popular Parcel 23 8 Carriage Free.
+X pain alike Duung-room Cartama, efaaiee deeifa ten Real Um, N| ydi loaf, CO in aide,
+1 pair superb Dnving-roam Cartaias, design ten old Rose Poiat.Ln t|yd>. ion, S yds. vide.
+S painenke Bedroom Cartaise, 3yds. Inna; denar* ten aav atsta ef modern art. here tf desired.
+Cnironaru tbroogboat Empire testify to va&e sad rebabibtT. dead DaatORoe Older for S3 R
+The Pereei, Wl pecked in Oddotb, will be Met by pm dkeet to ywar address, by next MeiL
+^ ^JXtLQNLLL8, sere 50 percent, and import ywa wejfa^^nteAaaod^ai^iali^^
+FomitaTS Saiteg, Bedateoda, Carpets, etc. Prim Medeta: Toroato 18W, C\inefo 18SA.
+Apply etoaoe for Pries Lima ettheof6ce oftfoa paper. If yoaviab the Gift iarda dad, mad DoaeSto:—
+Uim pftlfli A mm,	Box C49, SOTTUNIAK Bmfimd. JhtJ857.
+The Tosh
+Whisky
+^■i	RatahUshad 179A
+MACKINTOSH & C
+IXVKRNK88.
+AGENTS:
+M. ELE PTH BRION AC.
+K. J. FLEURENT,
+Sqoxr- Halim Pache. OAIRO .
+THE CMWi mSOVEO COAL CO.
+Whim aa<mi„la, Form :
+m». oAftoirr
+.aSSL _ -* ____	^
+af^r It
+tafonSSBa TaSeaeT*-1nSrnP^SSn**,
+A M K R I C A N
+IIWINQ MAOHINII Cl TO R1C.
+a aaam «
+CHAMPAGNE
+GEORGE GOULET. \
+n snatL irrvKmurr tv
+HIS MAJESTY THE KINO
+HEIMS.
+SHE A BEET IB E8TPT AB3 SUOAB.
+[ICOLA 6. SABBA6
+ALEXANDRIA,
+A Bn it lm Gm* A Cain
+BECK A CO’S PILSENER BEER
+THE EGYPTIAN GAZETTE.
+SUBSCRIPTIONR-Alaxaadna, Cairo, aad
+the I etenor of Egypt (inoladtag dalivary ia
+Ataraadneorpoarage toaabwribar’eaddiam)
+P.T. Mli par uua, P.T. II* for six
+moatha, P.T. M far three moatha. To other
+aoaatnea ia A* Portal U>ma P.T. 171
+(Alda.) par uua Six mootha P.T 1M^
+(AtJhX three moatha P.T. *5 (0.19a.)
+or ICth of any month.
+ADVERTISEMENTS. — P.T. * par kaa. Mi-
+nim am charge P.T. 9a Bbthe, Merragn
+or Deaths, not ex seeding three lines, P.T. NO.
+Beery addition! bn P.T. 10. Notion ia
+nave colama P.T. 90 par baa. Coataets
+eatend iato for atan li ig ad rartiaaeixita
+SUBSCRIPTIONS aad ADVSRTIiBMENTS
+ire do* ia a trance. P. 0. Orders aad
+Choqam to he made payable to the Editor
+and Manager, Ravhand SaelHng, Alexandria.
+Lcadoa ONmn : A Nev Broad alias, EC.
+- Lcadoa ONmn : SS, New Broad iliaat, EC.
+THE WYPTIAN GAiBTTB can ha obtaiaad
+ia Liadoa at ear oRah M New Brand
+Street, EO, and aba at Kan Mat A
+Vtuuto ISO, PnmdiUy, W.
+j..	►
+tea mprur oaxairr n pmurrmo m
+/ firm auLmracronao am irrrum
+mam aartun i at, cunrota rrvxxr. u
+BIRTH.
+4
+The Egyptian Gazette
+TUBDAY, AUGUST 99, 190A
+WAR AMD PEACR.
+Sunlight
+Clothe* will last longer if
+SUNLIGHT SOAP
+is used.
+Makes Linen Whiter and
+Coloured thing* Brighter.
+FULL DIRECTIONS
+ON WRAPPER.
+Soap
+aad Raasia, fioaaeially exhausted aad anabls
+to iaSisI a daamiva Maw n on aaothn, on-
+ant to a conpraous* Naithar altaraattea can
+poeaiWy haaafit lagkad. The total ovarthwv
+cf Nnmia and the aeixan of * hog* war
+iadanaity hy the aoaqaarore, would conplataly
+apaat the balance of poem in Beat aad West.
+Ia Barapa, though Raada aught aooa aanrga
+atnagthaaad aad patiAsd ten the ten of
+revelation, it is for man peofaaM* that Gar
+mny would haaona undisputed load of oantni
+So rope, would ha ahis to diotota to Pane*,
+aad would have a fan band, ahoald intestine
+ereabin^ Austria compel bn to iatarveoe.
+•aad, bat wbila it ia oax internet that Japan
+teoald ban etooag n poaribla ia bn ova, and
+tJhiaan watara, wa ao non ahara the aotha-
+riaan of th* many worthy persons who long to
+ns the islanders masters of Urn Pacific,
+than a* ahara that of the adnlators of th*
+(Jaitad States, who throw up their caps and
+aaaooan vooifatooaiy that th* U. & A. will
+■ooa be ia pnninna of thsaaocad fleet in
+the world. TW saoond float ia th* knock of
+• riah and wail orgaaiaad nation nay wall
+beooan tea first, aad while wa have excel-
+lent maona, bote praotioal and aantimanlal.
+far wishing wall both to the United States
+aad to Japan, wa cannot look forward with
+aural power of rithn Jaatn France may
+mry aad naval power, ia th* an way tea
+penman of a weakened Russia aad the Pacific
+Coast may oaa day ha uaefnl to the British
+Umpire Wa d* aot wish to b* suspected of
+any hostility to Japan whan wa ny that the
+temporary disappearance of any power from
+tea field of international politics mast ha
+regarded n a calamity by oar •***—•ir.
+end teat while wa have no wish to an Japan
+weakened ia Asia (on tea contrary a strong
+aad prosperous Japan iaa guarantee of Asiatic
+peace) wa do aot wish to na the obstinacy
+of bn own mien “bleed Russia white” in
+Sorope, aad perhaps, to alter the metaphor,
+Mat kn oat n a Gnat Power for a generation.
+Ripond to attack in many parte of her
+vast Umpire Britain cannot rafy merely on
+bn own strength. She raquizn so ally—bat
+teeenteiaiy requires severaljwteutial enemies.
+Ooa strong opponent ia far harder to meet than
+an ambanamad ooa.Ttion. and if wa have two
+pntentml fan they are for more likely to
+eons to totme with us tone to fight Such
+■ ten doctrine of the halnnne of Power
+diplomsny. But it most aot be supposed
+tent British efforts ea behalf of panes an
+ntorniy diototsd by pradenriol me eons Our
+ring, who enjoys tea laraaeal friendship of
+rril cam tea derim of tea nation in bis efforts
+to bring about a universal understanding
+share tea datartatom faU by every haamne and
+rmeoaabla man at tea idaa of a nontinnanoa ot
+tea ooafbet War may ba as mate a aiaearity
+to tea aariaa aa tea paags of travail to a mo-
+tear, bat tea paolimgarion of tea ageny ia what
+shook* tea moral aanaa of mankind At Porta-
+who took ap poairiom imoonoilahte on oartain
+poiate, aad band rate oo n logical perception
+of hie eouatty’s needs. We oaaaot blame M. de
+Witte far insisting on tee pramrvation ot
+Ramiaa prmtige, any mjre than we oaa blame
+Baron Roman for insisting on aa indeainity.
+Nmntime we eaa only hope againit hope teat
+in the elavante hour some means may ba foond
+of raooaeiiiaf the adveraarias in the bloodiest
+wsr that has taken place since the Napoleonic
+waclaaad.
+cc HOMOCEA 33
+“T0UCH18 TH| SPOT"
+H ernmSfPm*m i0m_"	Hsmmm Asm - *»
+•	J
+rite EVE NTS THE ATTACK Of MOteQUlTOER.
+A<ml»-Mll raCKU, CAIRO AteS iUXANMUL
+m*4mn-n, BEETHAH & SOU, CHELTEMHAM. ENGLAND
+
+favor af panes to ante gate
+deal withmateboraerivodwithonariaTteon^b
+teen » every rmeen to hope teat it ia tens.
+MBM8^NM JMMMMMBNOMN*"
+•ted'hikZt*’£*>*£*«**{!■
+{Oopiie mad MoAamtdaa.)
+Sun. 97 Winds my vurmhla.
+Men. 98 Abundance of mosquitoaa.
+Taaa. 99 The taato of fruit it affected by
+tea Nila water.
+Wad. 90 Avoid flsmala society. Bod of sow-
+ing Autamn dumb.
+Than. 91 Soma milk should b* taken Going
+to tea bath is dtaHkad.
+Fri. 1 Sowing of turnip and betroot
+Sat. 9 Gathering of acorns (Qatrau
+1
+CALENDAR OF THB WIBK.
+
+-->
+
+
+<!-- End of Page 2 -->
+
+            </div>
+            <div type="page" n="3">
+
+            <div>
+            <head> THE EGYPTIAN GAZETTE, TUESDAY, AUGUST 29, 1905. </head>
+            </div>
+
+<div>
+            <head>STRUGGLE FOR PEACE.</head>
+            <head>CONFLICTING STATEMENTS</head>
+            <head>ENGLAND AND JAPAN.</head>
+            <head>London, August 28.</head>
+
+            <p>The “Times” learns from Portsmouth
+            (N.H.) that, according to a high Russian
+            authority, a far stronger influence than President
+            Roosevelt, namely England, is working
+            for peace. A new treaty of alliance between
+            England and Japan was signed not many days
+            ago. This is one reason why new proposals may
+            possibly be forthcoming at the Conference.</p>
+            <p>(Reuter)</p>
+
+
+            <p>Portsmouth (N.H.), August 28.
+            The Conference was postponed until Tuesday
+            at the request of Mi Takahira, who
+            explained that he received nothing from
+            Tokio.</p>
+            <p>(Reuter)</p>
+
+
+            <p>Tokio, August 28.</p>
+            <p>A prolonged conference of the Cabinet and
+            the Elder Statesmen took place this morning.
+            Subsequently the Ministers and Statesmen
+            proceeded to the Palace, where they continued
+            their deliberations under the presidency of the
+            Emperor.</p>
+            <p>It is believed that the result of the conference
+            will determine the issue of peace or war.</p>
+            <p>(Reuter)</p>
+
+
+
+            <p>Portsmouth (N.H.), August 29.</p>
+            <p>It is reported that Japan on Thursday
+            expressed her willingness to President Roosevelt
+            to waive an indemnity or reimbursement,
+            and to refer the question of the price of half
+            the Saghalien Island to arbitration. This offer
+            was misunderstood in St. Petersburg, hence
+            the delay in the negotiations.</p>
+            <p>(Reuter)</p>
+
+
+
+            <p>Portsmouth (N.H.), August 28.</p>
+            <p>M. Takahira, in the course of an interview,
+            having been asked if the situation were hopeless,
+            replied that it was not hopeless, but
+            almost so.</p>
+            <p>(Reuter)</p>
+</div>
+
+
+
+<div>
+            <head>RUSSIA’S INTERNAL TROUBLES.</head>
+            <head>PEASANTS ROUTED BY COSSACKS.</head>
+
+            <p>St. Petersburg, August 28.</p>
+            <p>A fight took place between Cossacks and
+            1,000 peasants armed with pitch-forks and
+            bludgeons in the village of Inchadeedshara
+            (Caucasus). It is officially admitted that 19
+            peasants were killed, but other accounts state
+            that the casualties were 70.</p>
+            <p>(Reuter)</p>
+</div>
+
+<div>
+            <head>RUSSIAN RESERVISTS.</head>
+            <head>EXTENSIVE MOBILISATION.</head>
+            <p>Riga, August 28.</p>
+            <p>The extensive mobilisation of reservists
+            which is taking place here, at Windau, and
+            other centres, is considered a significant point.</p>
+            <p>(Reuter)</p>
+
+            <p>St. Petersburg, August 29.</p>
+            <p>The Tsar in an Ukase on the 19th instant
+            ordered mobilisation in thirteen Government
+            Divisions in order to reinforce the Army in
+            the Far East. This mobilisation is now preceding.</p>
+            <p>(Reuter)</p>
+</div>
+
+
+<div>
+            <head>FRANCE AND GERMANY.</head>
+            <head>NEW ELEMENTS INTRODUCED.</head>
+            <p>Paris, August 28.</p>
+            <p>A French; semi-official note says that the
+            Jerman reply introduces new elements, which
+            leoessitate a further exohange of views regard-
+            ng Morocco.</p>
+            <p>(Reuter)</p>
+</div>
+
+<div>
+            <head>THE CHANNEL SQUADRON.</head>
+            <head>GERMANY’S WARM WELCOME.</head>
+            <p>SWIMEMUENDE, August 29.</p>
+
+            <p>The Channel Squadron arrived here the day
+            efore yesterday and the active German fleet
+            esterday. At a banquet given at the Kurhaus,
+            ordial toasts were exchanged. The British
+            nd German Admirals were present.</p>
+            <p>(Reuter)</p>
+
+            <p>SWIMEMUENDE, August 28.</p>
+            <p>The English Squadron has arrived. The
+            lerman Squadron is going out to meet it.</p>
+            <p>(Havas)</p>
+</div>
+
+
+<div>
+            <head>EAST AFRICAN REVOLT.</head>
+            <head>SHARP FIGHTING.</head>
+            <p>Berlin, August 28.</p>
+
+            <p>The revolt in German East Africa is spreadg
+            in the South. A sharp fight took place in
+            the Kipo district, where 1,000 rebels, partly
+            armed with rifles, were driven across the river.</p>
+            <p>(Reuter) </p>
+</div>
+
+<div>
+            <head>SUICIDE OF A FINANCIER.</head>
+            <head>DISASTROUS SPECULATION.</head>
+            <P>Paris, August 29.</P>
+            <P>A sensation has been caused by the suicide
+            f the financier M. Crosnier, as a result of s
+            isastrous speculation in sugar. His liabilities
+            re estimated at £2,500,000.</P>
+            <P>(Reuter)</P>
+
+            <P>Paris, August 28.</P>
+            <P>M. Crosnier, president, of the Sugar Rafineries
+            has committed suicide.</P>
+            <p>(Havas)</p>
+</div>
+
+
+<!-- ***** END OF COLUMN 1 ***** -->
+</cb>
+
+<cb>
+<div>
+            <head>LOCAL AND GENERAL</head>
+            <p><strong>Stray and Ownerless Dogs</strong> found in the
+            Bab-el-Sharieh quarter of Cairo during tomorrow
+            night and at dawn of the 31st will be
+            poisoned by the police.</p>
+
+            <p><strong>Furious Riding</strong>.—A Customs Guard named
+            Sayed Abou El Khair was knocked over by a
+            horse, ridden at full gallop down Zaptieh street
+            yesterday, and had to be taken to hospital.</p>
+
+
+            <p><strong>Suez Canal</strong>.—13 vessels passed through
+            the Canal on the 25th inst„ of which 6 were
+            British, 1 German, 3 Turkish, 1 American, 1
+            French, 1 Dutch. The day’s receipts were
+            frs. 322, 115.65, making the total from the 1st
+            inst., frs. 7,389,492.79.</p>
+
+
+            <p><strong>An Omdeh Murdered</strong>.—News comes from
+            Tahta that the omdeh of Fazara has been
+            murdered. It appears that his enemies lured
+            him out of his house by raising a false alarm
+            of fire, and then fired three shots at him which
+            proved instantly fatal.</p>
+
+
+            <p><strong>Train Fired at</strong>.—Two shots were fired at
+            the Helouan train the other day, but happily
+            caused no damage as they both passed between
+            the engine and the break van. The
+            Tourah police were advised, and several went
+            out in search of the offenders.</p>
+
+
+            <p><strong>The Plague</strong>.—Yesterday’s plague bulletin
+            reports one new admission to hospital and two
+            deaths at Alexandria. The new case is a
+            native boy of the Karmous district, and the
+            two fatal cases are a native boy found
+            dead at his house in the Gumruk quarter, and
+            a Berberin saïs of tho Labban quarter.</p>
+
+
+
+            <p><strong>Egyptian Athletics</strong>.—A Pan-Egyptianathletic
+            meeting has been organised by the Iphitos
+            Gymastic Club of Cairo. The programme is the
+            same as that of the Olympic games held at
+            Athens, and all Egyptian athletic clubs are
+            invited to compete at the meeting which will
+            take place, under the distinguished patronage
+            of M. Gennadis, on February 22, 1906.</p>
+
+
+
+            <p><strong>Drowned in the Nile</strong>.— On Sunday even-
+            ing a native of Koronfish was making a pleasure
+            trip on the Nile near Old Cairo with some
+            friends whom he had invited, when his boat
+            was run down and capsized. The unfortunate
+            man was carried away by the current and
+            drowned, but his friends were able to swim to
+            shore.</p>
+
+
+            <p><strong>Theft at Fagallah</strong>.— A Syrian family
+            living in the Fagallah quarter, Cairo, were
+            surprised to find the door wide open on
+            Sunday evening when they returned from a
+            day’s outing. Several notes proved to have
+            been taken from a drawer by a servant who
+            had recently been dismissed, who is now
+            being searched for by the police.</p>
+
+
+
+            <p><strong>Export of Syrian Cattle</strong>.—Precise orders
+            have been issued to the customs authorities
+            at Beyrout and Alexandretta to proibit
+            the export of cattle used in husbandry,
+            and of Angora goats. It appears that the
+            number of cattle in the country has greatly
+            decreased during the last two years owing
+            to the prevalence of bovine typhus in some
+            districts, and the fact that, in others the
+            farmers took advantage of the Egyptian demand
+            for ploughing and slaughter cattle to sell a
+            majority of their stock at good prices.</p>
+
+
+            <p><strong>Secret Policeman Shot</strong>.—The condition of
+            KamelEffendi Haneim of the secret police, who
+            was shot in the forehead while attempting to
+            arrest the Italian Camarato, who had already
+            used his revolver against the police in the
+            Gama’ el Ahmar quarter, Cairo, is still grave,
+            though the symptoms are fairly satisfactory.
+            Camarato, who appears to he a scoundrel of
+            the lowest character, and his three companions
+            have been arrested. We hope an example will
+            be made of these ruffians, who provoked the
+            interference of the police by a brutal attack on
+            a woman.</p>
+
+
+
+            <p><strong>An Insistant Woman</strong>.—On the arrival of
+            the M. M. S.S. Sénégal this morning a Syrian
+            woman tried to push through the barrier before
+            the vessel’s gangway had been put down. A
+            shawish intervened whereupon the woman waxed
+            wrathful and Administered two “smacks on the
+            face” to the gallant policeman, who was only
+            performing his duty. A police officer was called
+            into the assistance of his subordinate, and was
+            promptly treated in the same manner. A
+            request to accompany her victims to the
+            harbour police station was met with a refusal,
+            the woman asserting that she was a free born
+            British subject, but superior strength prevailed,
+            and the caracol is now her temporary address.</p>
+
+
+
+            <p><strong>Khedivial Yacht Club</strong>. — Arrangements
+            will be made that on the date of the anniversary
+            of the Sultan’s Accession dinners will be
+            given at the Club House at 8 p m. at the rate
+            of 45 P.T. per head. Anyone wishing to dine
+            must inform the Honorary Secretary not later
+            than to-morrow Wednesday August 30th.
+            after which date no further applications can be
+            entertained. No privately organised dinner
+            parties can be given at the Club on this date.</p>
+
+            <p>Entries for the deep sea race to Aboukir
+            and Back for which H.H. Prince Aziz Pasha
+            has offered a handsome cup must be lodged
+            with the Hon. Secretary not later than tomorrow,
+            after the regatta. There will be no
+            entrance. The conditions of the race will
+            appear in our issue of to-morrow.</p>
+</div>
+
+<!-- ***** END OF COLUMN TWO ***** -->
+</cb>
+<cb>
+
+
+<div>
+            <head>THE DAIBA SANIEH CASE.</head>
+            <head>CLAUSES OF AGREEMENT.</head>
+
+            <p>In giving a brief resumé of the article on
+            the action between the Princes of the Khedive
+            Ismail's Family and the Daïra Sanieh which
+            appeared in French in our issue of yesterday
+            we will content ourselves with referring to
+            those clauses of the agreement of June 21,
+            1898, of which chief mention is made.</p>
+
+
+            <p>By the contract of assignment of June 21,
+            1898, made between Sir Elwin Palmer, then
+            Financial Adviser to H. H. the Khedive, duly
+            authorised by the decision of the Council of
+            Ministers, and a group of capitalists, the latter
+            undertook to buy all the properties of the
+            Daïra Sanieh, the obligation of which amounted
+            to £6,431,500 on December 31, 1897.</p>
+
+            <p>The price of this acquisition was agreed upon
+            at that sum, but in the terms of the first
+            article there must “be deducted from this sum
+            the amount at par of the bonds which will
+            have been reimbursed from the date of December
+            31, 1897, until the date when the sale
+            shall have become definite, and, on the other
+            hand, to add to the price of purchase, the
+            sums which the Egyptian Government will be
+            required to pay to the Administration of the
+            Daïra Sanieh by reason of eventual deficits.”</p>
+
+            <p>This sum was payable, against the handing
+            over of all the properties of the Daïra Sanieh,
+            on October 15, 1905, before which date the
+            Government had undertaken not to extend its
+            debt to the said Daïra.</p>
+
+
+            <p>By articles 5 and 6 the capitalists who
+            signed the convention, or the society which
+            might be formed by them, undertook to sell
+            these properties within a period of seven years
+            from their taking possession, and the Government
+            had the right to half the net profits,
+            which the capitalists, or company, would
+            realise from the price of purchase.</p>
+
+
+            <p>By article 7 it was agreed that the capitalists,
+            or company should deposit a guarantee
+            of £500,000 at the Ministry of Finance, on
+            August 1, 1868.</p>
+
+
+            <p>Article 8 provided that in the event of the
+            purchase not being completed by October 15,
+            1905, the Government should acquire, ipso
+            facto, the sum of £50,000 from the guarantee,
+            but on the other hand, should the purchase be
+            completed the guarantee should be returned.</p>
+
+
+            <p>Article 86 of the Law of liquidation provides
+            that “from the date of publication of the
+            present law, no person will be allowed before
+            any magistracy for any cause or under any
+            form whatsoever, to bring any action, he it
+            against the Government, or against the Administrations
+            of the State, by reason of the
+            rights acquired previous to January 1, 1880.”</p>
+</div>
+
+<div>
+            <head>IMPORTANT DRAINAGE WORKS.</head>
+            <p>For more than a year extensive works have
+            been in progress near Esbet Khorshid, which will
+            greatly facilitate the drainage of the Central
+            Lands of the Aboukir Co. Ltd. These works
+            have been carried out by Mr. Williams, inspector
+            of irrigation, and his staff. There is a large
+            syphon under the Mahmoudieh Canal, built
+            in brick and cement and of most solid construction,
+            while under the railway there is a
+            two-arch culvert. The waterway was opened
+            two or three days ago, and drainage has now
+            free course into Lake Mareotis.</p>
+
+            <p>The Aboukir Company had originally 30,000
+            feddans of which over 20,000 feddans are
+            already reclaimed. The drainage system just
+            inaugurated will enable the central lands to be
+            rapidly and thoroughly reclaimed, and will
+            create a well-drained tract of 10,000 feddans,
+            which in a year or two will be one of the most
+            valuable and compact blocks of land in Behera.</p>
+</div>
+
+<div>
+
+            <head>LAKE BOROULLOS.</head>
+            <p>A Cairo contemporary stated a few days ago
+            that Ismail Pasha Sirri. inspector of the Projects
+            Circle in the Ministry of Public Works, is
+            spending his summer holiday in Holland in order
+            that he may study the system of dykes in
+            that country with the view to applying the
+            same to a project for damming and draining
+            Lake Boroullos, which is now under contemplation,
+            and that then the above Ministry would
+            decide whether to do the work, or concede it to
+            a company. On making enquiries yesterday we
+            were informed that there was no truth whatever
+            in the rumour of any such intention on the
+            part of the Government, and that if such were
+            the case there is no need whatever for the
+            studying of any system, since the work would
+            be easy enough, and would simply be a repetition
+            of that already successfully accomplished
+            at Aboukir.</p>
+
+
+            <p>What is correct is that for some time, and
+            until the recent decision of the Government
+            not to sell any more lands until the whole
+            question of the farther supply of water was
+            finally settled, was made known, several offers
+            were made by companies and private individuals
+            for the purchase of the present marshy
+            lands adjoining the lake. Sir Hanbury Brown.
+            the former inspector general of irrigation for
+            Lower Egypt, came out from England last
+            winter, we believe on behalf of a syndicate
+            which was desirous of acquiring some of
+            these lands, but the decision we speak of
+            put a stop to this as well as other similar
+            projects. We understand that with an expenditure
+            of from £10 to £15 per feddan the
+            lands in this region could be rendered fit for
+            cultivation, and it seems a pity, in our opinion,
+            that some means cannot be devised whereby
+            they could be brought under cultivation.</p>
+</div>
+
+
+<!-- ADVERTISEMENT -->
+            WINDSOR HOTEL Restaurant.
+            Table d'Hote Luncheons & Dinners
+            Served on the Terrace.
+            ORCHESTRA PLAYS 8 TO 11.30 P.M
+            Delightful. Situation - Sea B?????.</p>
+
+<!-- ***** //// ADVERTISEMENT -->
+
+<!-- ***** END OF COLUMN THREE ***** -->
+</cb>
+
+<!-- ***** BEGINNING OF COLUMN FOUR -->
+
+<cb>
+<div>
+
+            <head>NOTES FEOM SUEZ.</head>
+            <head>MAIL STEAMER ASHORE IN CANAL.</head>
+            <head>(From our Correspondent).</head>
+            <p>Suez, Sunday.</p>
+
+            <p>The outward bound Messageries Maritimes
+            mail steamer Caledonien, owing to a breakdown
+            of her steering gear, grounded in the
+            Canal in the small Bitter lake last Friday
+            evening at 8 o’clock. The powerful tug Titan
+            was sent from Suez, but all efforts to refloat
+            her were unsuccessful.</p>
+
+            <p>Yesterday afternoon, however, labourers and
+            lighters were sent from Suez, and the vessel
+            commenced discharging cargo, in the hopes
+            that she would come off at high tide (9 o’clook
+            last night), hut in spite of this, she is still fast
+            in the same position. Fortunately the traffic
+            is clear to the passing steamers.</p>
+
+            <p>Monday.</p>
+            <p>The Messageries Maritimes mail steamer
+            Caledonien was refloated yesterday forenoon,
+            after having discharged several hundred tons
+            of cargo into lighters, which she is now reloading
+            in the small Bitter lake.</p>
+
+            <p>The Caledonien apparently sustained no
+            damage whatever, and is expected to come out
+            of the Canal to-night.</p>
+
+            <head>BATTLESHIP FROM CHINA.</head>
+            <p>H.M.S. Glory arrived at Suez this afternoon
+            from China and Colombo, and will probably
+            enter the Canal this evening.</p>
+</div>
+
+
+<div>
+
+            <head>CORPORATION OF WESTERN</head>
+            <head>EGYPT LIMITED.</head>
+
+            <p>Mr. W. T. C. Beckett, M. Inst. C. E., the
+            General Manager of the Corporation, is now
+            en route for Egypt to take up his appointment
+            there.</p>
+
+            <p>Orders for three locomotives for use on the
+            Nile-Kbarga Railway have been placed wih
+            Messrs. Nasmyth, Wilson and Co.</p>
+</div>
+
+<div>
+
+            <head>SUPPRESSION OF A NILE GAUGE.</head>
+
+            <p>The Mudir of Berber telegraphed on Friday
+            from El Damir that by order of the Inspector
+            General of Irrigation tor the Sudan the old
+            gauge at Atbara has been suppressed since
+            the 20th August, it being found unnecessary
+            on account of its proximity to the Berber gauge,
+            from which it is only 25 kilometres distant.</p>
+
+</div>
+<div>
+            <head>WORKMEN’S DWELLINGS.</head>
+
+            <p>A Cairo contemporary states that the Sanitary
+            Administration is now drafting new regulations
+            as to the construction of workmen’s
+            dwellings. These regulations have been already
+            submitted to the chief sanitary inspectors, and
+            only await the return of Sir Horace Pinching
+            who will submit them to the Contentieux.
+            Meantime the draft regulations have been
+            translated into Arabic, and the translations
+            will be submitted to the criticism of the provincial
+            sanitary authorities. The new regulations
+            enact that anyone wishing to build workmen’s
+            dwellings must follow their rules as to
+            the hygienic construction thereof. Existing
+            buildings will not be affected, the regulations
+            only applying to new construotions. The Mixed
+            Court of Appeal will give its views on the project
+            in November, and the regulations will
+            become law on January 1, 1906.</p>
+</div>
+
+<div>
+            <head>MILITARY INSPECTION IN CRETE.</head>
+
+
+            <p>Brigadier-General G. M Bullock, C.B., Commanding
+            the Force in Egypt, accompanied by
+            Captain H. B. P. L. Kennedy, 1st Bn. King’s
+            Royal Rifles Corps, will leave Cairo to-morrow
+            by the 9.30 a.m. train for Alexandria, where
+            he will embark on the Khedivial steamer for
+            passage to Crete, viâ Piraeus, on inspection
+            duty. 2nd-Lieut. J. F. Hope, 1st Bn. King’s
+            Royal Rifles Corps, will also form. one of the
+            inspecting party.</p>
+</div>
+<div>
+            <head>ANOTHER NEW MOSS LINER</head>
+
+            <p>On Wednesday, 16th inst., Messrs. John
+            Blumer and Co., Sunderland, launched a steamer
+            built to the order of the Moss S.S. Co.,
+            Ltd., of Liverpool, for their Mediterranean
+            line. She is of the spar deck type, riggged as a
+            two masted schooner, with masts arranged to
+            pass under the Manchester Canal bridges. She
+            is fitted with handsome and roomy aooommodation
+            for the captain and officers on the bridge
+            deck, and also for a number of passengers.</p>
+
+            <p>The vessel is lighted throughout by electricity,
+            the work being carried out by Messrs.
+            H.T. Boothroyd, Hyslop and Co., Liverpool.</p>
+
+            <p>Both ship and engines are being constructed
+            under the superintendence of Messrs. Wm.
+            Esplen and Son, of Liverpool, and are built to
+            the highest class of the British Corporation
+            Registry, under the special survey of Mr. J.
+            Frazer MacDonald, their Sunderland representative.</p>
+
+            <p>There was a large company present, including
+            Mr. Wm. M. Moss, Mr. F. W. Moss (of
+            Alexandria), Mr. John Esplen, Mr. and Mrs.
+            Geo Clark, and Rev. J.O. Coop (of Liverpool).</p>
+
+            <p>The christening ceremony was gracefully
+            performed by Miss Phyllis 0. E. Moss, of Alexandria,
+            and the vessel received the name of Khephren.</p>
+</div>
+
+<div>
+            <head>STEAMER MOVEMENTS.</head>
+
+            <p>The Moss Liner Tabor, which sailed from
+            Liverpool last Saturday, is dud at Alexandria
+            on the 9th September with passengers,
+            mails, and general cargo.</p>
+
+</div>
+
+<!-- END OF COLUMN FOUR -->
+</cb>
+
+<!-- BEGINNING OF COLUMN FIVE -->
+<cb>
+<div>
+            <head>CONSTANTINOPLE NOTES.</head>
+            <head>COINER ARRESTED</head>
+
+            <head>(From our Correspondent.)</head>
+
+            <p>Constantinople, August 21.</p>
+
+            <p>A few days ago a certain Karo Aghanthropu,
+            a Greek subject, was arrested at Pera.
+            It appears that, three years ago, Karo made a
+            business of coining at Alexandria, aided by a
+            notorious expert in the art, named Alexandra
+            He made a small fortune in the Egyptian seaport,
+            and then left Egypt and proceeded to
+            Constantinople, where he took np his abode in
+            a house in the Rue Mezarlik.</p>
+
+
+            <p>A few mouths ago some unsuccessful speculations
+            on the Galata Bourse swept away his
+            ill-gotten gains, and be found himself obliged
+            to return to his former trade, and had manufactured
+            a large number of false coins when he was arrested.</p>
+</div>
+
+<div>
+
+            <head>CONSULAR AND DIPLOMATIC NEWS</head>
+
+            <p>M. Maximoff, ex Russian diplomatic agent
+            at Cairo and at present minister at Cettinje,
+            presented his credentials to Prinoe Nikita of
+            Montenegro on the 17th inst Despatches
+            from Cettinje state that the speeches uttered
+            on the occasion were of a most cordial character.</p>
+
+            <p>M. Le Pescheux Duhantbonrg, the new
+            French Vice-Consul at Salonika, has just arrived
+            at the Macedonian port to enter on his
+            new appointment The new Vice Consul is not
+            unknown in Egypt, his first appointment,
+            having been that of “Eléve-Chancelier” to the
+            French Consulate at Cairo in 1894.</p>
+</div>
+
+<div>
+            <head>THE NEGUS’ BIRTHDAY.</head>
+
+            <p>The Sultan sent a warm message of congratulation
+            to the Negus Menelik on his birthday,
+            and received a cordial reply from the
+            Abyssinian monarch. The Sultan also sent a
+            congratulatory message to Ato Haile Mariam
+            Pasha, head of the Abyssinian mission now at
+            Constantinople.</p>
+</div>
+
+<div>
+            <head>AUSTRIAN BANK IN ABYSSINIA.</head>
+
+            <p>I am informed that Abdallah Pasha Sadik,
+            envoy of the Negns Menelik, is treating with
+            oertain Austrian capitalists at Vienna for the
+            formation of a new bank in Abyssinia with a
+            capital of 18,000,000 kroner.</p>
+
+
+            <p>[Does not the concession granted to the
+            National Bank of Egypt for the creation of
+            the Bank of Abyssinia, assure that bank the
+            monopoly of all banking business in the dominions
+            of the Negus? Ed. E. G.]</p>
+</div>
+
+<div>
+
+            <head>SAN STEFANO CASINO.</head>
+
+            <p>A vocal and instrumental concert will be
+            given at the San Stefano Casino on Thursday
+            for the benefit of, M. A.. Bracale, when the
+            well-known amateur violincellist, M. E. Cattaui,
+            will take part. Mme. A. Bracale, who has a
+            soprano voice of exceptional purity, and is well
+            known both in Cairo and Alexandria, also
+            appears on the programme, and amongs others
+            we note M.M. Sodero, Romeo, Soriente, etc.
+            The following is the programme of the concert,
+            which will commence at 9.30 p.m.</p>
+
+
+            <p>1. Mendelsohn (Qnatuor) No. 1.....MM (Teperino, Soriente, Borthi, Romeo)</p>
+
+            <p>2.	Saint-Saens ler Concerto pour Violoncello..... (A. Bracale)</p>
+
+            <p>3.	Weber Scena ed Aria Der Freischutz pour Soprano..... (Mme. Bracale)</p>
+
+            <p>4.	Hulwech morceau p.4 Violonecelles MM.....(B. Cattaui, Bracale, Romeo, Sodero)</p>
+
+            <p>5. (a) Grieg Chanson de Solveyg, b) Brahms Serenade inutie) p. Soprano Mme Bracale</p>
+
+            <p>6.	Wagner Romanza Volframo Tannhaüser pour Baryton.....(Mr. S. Greggio)</p>
+
+            <p>7.	Massenet Elégie p. chant et Violoncelle (Mme Bracale, Mr. Bracale) & ecompanists MM. G. Soriente et C. Sodero.</p>
+
+</div>
+
+<div>
+
+            <head>PERSONAL AND SOCIAL.</head>
+            <p>Sidky Pasha leaves Vienna for Buda-Pesth
+            on the 5th prox. and will remain at the
+            Magyar capital till the 18th prox., when he
+            will leave for Egypt via Trieste, arriving at
+            Alexandria in the 3rd week of September.</p>
+
+            <p>Leave of absence has been granted in extension
+            to El Bimbashi Bethel, Artillery, and El
+            Bimbashi Percival, D.S.O., Camel Corps, until
+            the 6th and 25th September respectively.</p>
+
+            <p>Lieutenant L. W. Bird, 2nd battalion Royal
+            Berks., has been granted extension of leave
+            until October 31.</p>
+
+            <p>M. Gennadis arrived from Cairo last night.</p>
+
+
+            <p>News has been received from Rome to the
+            effect that Mgr. Giannini, Apostolic Delegate
+            at Beyrout will be appointed patriarch of
+            Jerusalem and will be replaced at Beyrout by
+            Mgr. Aurelio Briante, Apostolio Delegate for
+            Egypt and Arabia. The Rev. Father Remigio
+            Barsotti of the Franoiscan Order will replace
+            Mgr. Aurelio Briante in Egypt and Arabia.</p>
+</div>
+
+<!--***** ADVERTISEMENT *****-->
+            ARISTON AERATED WATERS 1
+            Guaranteed Distilled.
+            ALEXANDRIA I I noHeIhPtaaswi A. Waki.
+
+<!--***** ADVERTISEMENT *****-->
+            CARLTON HOTEL,
+            ‘ MLKIUY (near Alexandria.)
+            BAMLEH’S FASHIONABLE HOTEL. 1
+            PATRONISED Bt THX lUTR.	f
+            mn WmtUm turn 9.9. Me lap. Tfcll.n area j
+            MMMtMN	0, AEUIMNA. VwMw
+
+<!-- ***** END OF COLUMN 5 ***** -->
+</cb>
+
+<!-- ***** BEGINNING OF COLUMN 6 ***** -->
+
+<div>
+            <head>SPORT AND PLAY.</head>
+            <head>CRICKET.</head>
+            <head>A. C. C. v. ROYAL BERKS. REGIMENT.</head>
+
+            <p>Played on Saturday August. 26. The regiment
+            won the toss bat started badly, losing
+            two wickets for ten runs. Some free hitting
+            by Capt. Moore and Major Arbuthnot, however,
+            improved matters, the latter being especially
+            strong on the leg side and hitting nine
+            fours. Corporal Morrison, Sergt Godrey and
+            Mr. Robertson all made some resistance to the
+            bowling, and the innings reached the total of
+            150. Graves came off beet of the A C. C.
+            bow'ers, but the absence of H. B. Carver and
+            Maclaren was decidedly felt. The fielding was
+            uneven, bat Dawson was in good form behind
+            the wicket The A.C.C., despite some good
+            hits by Macaulay, did not begin any too well
+            and three wickets were down for 32. R. Carver
+            and Graves added 65 runs, and the former
+            was fifth out for a freely-hit 45. H. P.
+            Carver soon made the match secure, scoring
+            very freely for 51. His innings included no
+            less than twelve fours, his off-side strokes being
+            most brilliant The innings finally dosed for
+            191, the A.C.C. thus winning by 41 runs.
+            Score and bowling analysis:—</p>
+
+<!--Chart Needed-->>
+            <p>Royal Berkshire Regiment.</p>
+            <p>Mr. A. P. Strange, a Dawson, b. Graves 3</p>
+            <p>Capt Moore, b. Graves.................... 16</p>
+            <p>Sergt. Burke, a I, Carver, b. Graves _	4</p>
+            <p>Major Arbuthnot, b. Graves............... 44</p>
+            <p>CorpL New, a Henley, b. Maclean.,. ' 6</p>
+            <p>Capt Bingley, a Birley, b. Graves... 5</p>
+            <p>Pte. Sides, b. H. P. Carver.......... n</p>
+            <p>Corpl. Morrison, not. ont................ 29</p>
+            <p>Sergt Godrey, a Dawson, b. Graves ...	10</p>
+            <p>Sergt Sparkes, a Dawson, b. H.P. Carver 0</p>
+            <p>Mr. J. R. Robertson, b. Graves.......	11</p>
+            <p>B. 9, l.b. 1., w. 1........ ...	11</p>
+            <p> Total .....150</p>
+
+<!--Chart Needed-->>
+
+            A.C.C. Bowling. Overs Maidens	Runs V	150 rickets
+            P.P.Graves	16.2 2	59	7
+            H.P. Carver	11 2	89	a
+            R. Maclean	7	1	-fo	1
+            C.D. Staoey	2 1 AC. C.	11	0
+            Mr. C. D. Staoey, b. Bnrke............ 7
+            „ K. L. Macaulay, b. Sides ......... n
+            „	R Carver, 0. Sparkes, b. Robertson	46
+            „	K. P. Birley, b. Sides... < ... ...	0
+            „	P.P. Graves, 0. Strange, b. Robertson	29
+            „ H. P. Carver ran out.........	51
+            ,.	I. Carver, b. Sides......... ...	5
+            „	R.B. Maclean, 0. Godfrey, b. Sparkes	0
+            „ C. M. Dealtry, not out... ........ 8
+            „ K G. Henley, b. Sides.............. 8
+            jt^S. J. Dawson, b. Sparkes.........	3
+            B. 20, Lh. 2, w. 2................... 24
+            Total............... 191
+            R. Berks. Regt Bowling.
+            V Overs Maidens Runs Wickets
+            Pte. Side!	18	3	44	4
+            Set Bnrke	5	0	81	1
+            Mr. Robertson	6	0	87	2
+            Capt. Moore	4	0	19	0
+            Sgt Sparkes	8.4	1	48	2
+
+
+</div>
+            <head>KHEDIVIAL YACHT CLUB.</head>
+            <head>REGATTA.</head>
+            <p>The handicap for to-morrow’s race will be
+            the same as last week, with the addition in
+            Class 1., of the Snook, a new boat, rating 20.7
+            handicapped from the scratch boat Sans-Pareille
+            rating 28.3, will start' 11 minutes
+            ahead of her, viz. at 3.39.</p>
+            <p>Class I. Coarse C. Class II. Course Q.</p>
+</div>
+<div>
+            <head>ALEXANDRIA SWIMMING CLUB.</head>
+
+            <p>The members of the above club met on
+            Saturday last The weather being favorable, a
+            very pleasant afternoon was spent, although
+            the attendance was under strength. A temporary
+            spring board was erected for the afternoon,
+            and the members derived great pleasure from the diving
+            that could be indulged in.</p>
+
+            <p>Members meet as usual on Saturday next.</p>
+</div>
+
+<div>
+
+            <head>BRITISH RIFLE CLUB (ALEX.)</head>
+
+            <p>On Saturday last Mr. G. D. Lovell won the
+            Milton Bronze Badge with a total soore of 78
+            points, namely 28 at 200yds. 25 at 500 yds.,
+            and 25 at 60u yds. This was undoubtedly a
+            good shoot as the weather was not altogether
+            favorable to good shooting, the wind being at
+            times changeable. There will be no practioe
+            next Saturday.</p>
+</div>
+
+<div>
+
+            <head>Calendar of Coming Events</head>
+
+            <head>ALEXANDRIA.</head>
+
+            <p>August Tues. 29</p>
+            <p>Max. Prinea’s Restaurant des Bains.
+            Roumanian orchestra,every afternoon. Sundays, morning.</p>
+
+            <p>Windsor Hotel. Orchestra. 6 to
+            11.30 p.m. everyday.</p>
+
+            <p>Alhambra. Italian company in
+            Kean. 9.15 p.m.</p>
+
+            <p>Crown Casino, Ibrahimieh. 9.30p.m. Theatre of Varieties (ex-Ciooolani).
+            9.30 p.m.</p>
+
+            <p>Wed. 30: Partial Solar Eclipse. 2.59 to 5.12
+            p.m.</p>
+
+            <p>September Sat 2</p>
+            <p> A.C.C. ground. A. C. C. v next
+            XVI. 1.30 p.m.</p>
+
+            <p>Alexandria Swimming Club. Meet
+            Customs Gate 23. 4.30 pm.</p>
+</div>
+
+<div>
+
+            <head>CAIRO.</head>
+
+            <p>August. Tues 29.</p>
+
+            <p>Cairo Citadel. Dramatio Performance. 9 p.m.</p>
+
+            <p>Esbekieh Theatre. Italian Comedy
+            Company. 9.15 pm.</p>
+
+            <p>Theatre des Ambassadeurs 9.80
+            p.m.</p>
+
+            <p>Theatre de Nouveantés 9.30 pm.
+            Alcagar Parisien. English Troupe. 9.30 pm.</p>
+
+            <p> Wed 30 September. Fri. 1</p>
+            <p> Rebekieh Gardens. Performance. by British Military Band
+            9 to 11 p.m.</p>
+</div>
+
+        <!-- ***** END OF COLUMN 6 ***** -->
+
+
+
+
+</div><!-- ***** END OF PAGE 3 ***** -->
+
+            <div type="page" n="4">
+<!-- Beginning of Page 4 -->
+<!--
+
+TH1 <®0TFTOAH OAHTTR TUlflflAT, AUGUST 29,41 905.
+CORRKSI’ONDA.NCE
+Nona	j*mAi« hi rm|irmta|tdHftd Am nfifwtema hn
+mftin MfHHft
+W|Wft tin loffini^ parmeUrv «l*na car-twin#* ,Hwnt#m ***«••
+miPM um Hhrt AtaeMrtM.
+La Daira Bnuiah
+Monsieur 1* Diraotaar,
+d* *T Egyptian Get**
+Votre estimable Journal a public k remainr
+4orinl<<« nn ftpfti^n sor U Naw Delta Sft-ikh,
+qne U pro*** .'gyptiwin* ft largwnant rwproduit
+et d’aprte kqnal 1ft valent da 1'Action da catta
+8oci4M «erait an lar Ootobr* proohain, (aoit
+d.iiM nn moi«\ da £19.9.1- an na tenant pa»
+oompta da divan far ten m qai na peasant Itn
+fixte d<Ni anjonrd hni, at qd" jnrtiftaraient la
+pmda £81 atmdma £St
+Cat apar^n, qni a toat l’air d'ltrc, par U
+prteieion da na ohiffre* nn oovmaniqnl oftctel
+da la New Daira Oy., aarait attaint aon bat,
+qni dtait Ividemment da tranquilliser la* Ao
+tionnairaa da la dita Sooidto, ai la landana n
+da jonr da *a publication ton* la* }oam<nx
+looanx n'anasant annonot1 qn# la* mambru* da
+la Familla Kb4divi*le intantaient an pror*«
+oonjointoment an Goaveraamaat Egyptian, k
+la Naw Daira Uy., at an Credit Poaoier
+Egyptian.
+On MMnra d'antra part an pnbiin, cod* an
+main, qaa la* Acttonnaira* da la Daira n’oat
+nan 4 pardra dan* o* proote, la Gouvanamaot
+qai a tranda 4 oatta SooMW la* terrain* an
+contestation (‘taut largwnant solvable, *tq*«
+toat ao pin*, la liqaidation da la Naw Daira
+ponrrait snbir an retard da qaalqaa* moi*
+Tonta* on* nonvalk* contmdictoira* na pan
+rant qaa order snr place aa malaise qai, por
+tent *or an* velour locale da toat premier ordia
+oocanonn* da dangeranx bante at ba* tar la
+warohk Cart poarqaoi j# a* panatte da woo*
+adreaar la present* poor vow* daman dar,
+Moo near la Diiwoteor, m von* a* troave* pa*
+oomm* mot at baaaooap da portenr* d AoUoo*
+da la Daira Sanieh, qaa aatte Soctdtc a*t tenna,
+Ik vailla da *a Liquidation, da dotine, an
+public non pa* da* oommontoatMB* pin* oa
+moin* oflicieures, mats an expo** offi sal teal
+poor oa qni ast da sa liquidation proohain* at
+da son entente aveo k Cwiit Roomer, qua
+pour oa qni ooooane k proote qni da pte* ao
+da loin k touch* n<o***»ir*mint. Ua ex pore
+official da k Soosdte, real, mat trait fin anx
+fluctuations do march* qai prevent Itr* dan
+gereuse* poor an* vnkar anew important* qaa
+oalkqni nous occnpa
+Vanilla* agrrer, Monsieur k Diractaur, maa
+■alatetions *m pres tees-
+U* Ancon Anoxxfi.
+GONTRATS
+MINISTERS DBS TRAVAUX PUBLICS
+Ladjudioatkm da 9 noOt 1905, miariva anx
+travaux de ni Section da Bahrwl Bechawat, pro
+xinoe da Payonm, adk approivdaaa fiavanrda
+M. C. A. Ganges, an prix da L.R 8750.
+L adjudication do 9 aout 1905, raktiv* anx
+travaux daaa^onnariah atxAootar dan* k Bahr
+el-Baohawat, y oomprie k pant-route de Kboir
+chid, provinoa da Fayoum, a 4ta approay«* aa
+taveur da ML Naum A. Khaki, aa prix da
+8.197 L.R 744 miUkmee.
+Las inmmaa cidarea* a* eont pas d^ftnitixae,
+elka aeroat artette* km de l’ftabiiaereeet da
+k demidra situation da I'antnprire.
+BULLETIN DB LA BOURSB
+(AmomrJkm A mi* « dmis)
+La maroM da oa matin a dte ptntdteaJtaa.
+Lee tranreotioM ea soot, aa effet, limiteae aux
+Agriooks at anx Estates.
+On a kit f I WOO da oa* daraian I an prix
+xariant da 1 8/8911 8 14 LaalAtara a lies I
+1 8/88, an boon* tendanca
+Grand emoi aor k* Snaaanae I k aoaxalk
+do suicide da M. Craeaiar. La ooan art tons be
+da 188 1110, a rapri* na mcaaaet 4 118 *t
+olittnrt 1118. A Paris k xakar a fltehi da
+188 1106 at k Reffioan* Say a baiate da 400
+L’Agnook cantinna I baoeaer da 14 4 14 I
+14 8/8 avwo affaire*, aiaai qaa k BAha da
+a 8/4 1 48 7/8.
+La Treat raprand da I 8/88 11 8/18 at k*
+Prixikfidaa Tramway* da 1881 169.
+Par ooatea, k Banqaa National* rteotiona*
+da 87 18/18 1 87 8/4 1'aomann* at da 87 8/4 I
+87 88/88 la aoarnlK *t k Kbadixml Mail d«
+81/180/8.
+La rmteda march* rente stationnaire
+PAIBIIOIB LIffT.
+Ultfftl.
+La paqaabot Bamimmi*, do Lloyd Aotrv
+ohiaw arrixC tear da Trieste avail I bord:	i
+M. atMma Ba*hcv«, Omaaa, M at Mmi
+Hopkins, Tadevobi, Sskma, 8 da faas. et 1
+eoknt, Petrovich. Saligaobn, Silvern, Mma
+Biballo, Novaok. M. at Mm* Nadi, Nigrin
+Schwari, Schanteik. M. *8 Mm* Ratimayar.
+Harari. M. *4 Mma 2vh at 3 mioenm. M. at
+Mm* Roto, Oohn. Wtnkkr, Skyndar, M. at
+Mma VaW, Sennakain. M. at Mma Bothalder
+Wahmw, M. D. Warandort, Piaaeh at aa cm
+J. M. Levy, Diabandocfar, M. at Mas* Archer
+at 4 entente, Parma. Mm* Pippei, P*hr, Ottelh
+e§6 85 paamgam de 8m* c’ sm.
+La paqwahot K Kahira da k Kbadivial
+Mail Lina am* oa mrtia da Cowstantiaopk,
+Dardanelles, MeteLu, Smyrna at Pirta evait
+4 bord:
+MJL Niooka Carawnaaiai, R Smhtemaa
+C XaaophoB, D. Proateofoak, TV. V*Amha
+& Spatbi*. 6ao. Bataow	N; Oow
+Hector Qakthy, A Maioooiaa, 0.
+CLahib Effaodi, Mx., Ckspaa,
+" SSSaoraT *■	Harcela flmk
+Ctetete at kmiik. Mm & GorigoU it
+tmDk, Mr. ft Mm MaU WmM ft MmHa
+7
+CakmbaUdU, 0. P Osvnfy. N. Athawnganae
+L Camillari, Aly Bay Gbalib, Oosti Calliga,
+Marco Bomm, M. atMma Jaan Zsrbini at
+familla, 8. A. k Prince w* I Hat Hnnam atsnite.
+Tb iom Bant, M St Mm* Abdnlk Bay Abas*
+at tamilla, llaamn Bay Mohim, Osman Bay
+Ibmbim. M. at Mma Germane*, M at Mma
+Crymrakid, Mohamad Bffendi Bdhmn, A S*
+vignan, M. R GranfaM. N.Zonlk*, M. at Mma
+Aslan at tamilla, Mma* at Mlk* Dikaoa, Ma
+riaothk, Kyriaooff, T Lydis, N. at). ljydi*.
+t Casanam, Pin nay, Olympis Belli, Agkiapaa,
+H4l4na Bnfoa, Camllonsaia, Shabib* Hanam at
+suite, 8. Rl Tara bosli at aa an tent. Mm* Baa*
+at 4 antenta, unite 8. A. k Priaoa Halim Pacha,
+Beooomidaa, ainw qua >15 pasmgar* da poet
+Paamgerx ambarqoda nr k paqaabot Sob la*
+wig da Manai.k at Naples poor Alexandria
+k 93 aout t
+Mil* V Aldareon, Mr Alfred von Art, Mr.
+Aanmaroponloa, Mr. Fatby bay, M. at Mm*
+W Bark, Mr R DrakidaB, Mr N. J. Bbba,
+Mr J. A. Riwards, Mr. at Mma J. R Bm, Mr
+Btienna, Mr. Hntchanow, Mr. H Lap*qua, Mr.
+H. C. Sboppaa, Mm* William* at dans entente,
+Mr. Mtohal Zaoomni bay. Mm* M Znoatai.
+Mlk Roe* Zuonini at goavarneatek Mr. Horo-
+wite Mr at Mma P. L Kartehak, Comm. D»
+M. at
+EASTEta iTEfcttSAn* ft:V
+Mli WIvBW MwU'falOl tmjy HHN n. aieOtPHlOl,
+Mlk Roe* Zanonini at goavarneatek Mr. Hcro-
+wite Mr. at Mm* P. L Kartehak, Comm. Do-
+manioo Zappa, Mm* Zappa.
+Paasagara arrive* oa amtia da MaraaiU* par
+U UUi- >. — I **
+Ml	»
+M. Dedan, las fila da Ram«y Paoba, M. at
+Mm* Marat, Ibmh.m Dimitn. M*#o» Mahtoak
+Bit Pawn, Ibrahim 8hoooair, Akmat bay Nagib
+at entente. Major Wad*. Cap. Heady. Red
+Abdel Kftkk, M. D. A. Gya, M. Mart*. M ,
+Mm* at Mlk Miltiad* da Avi«iaa,M. at Mm*
+Said Bay at antenta, Mma Okonmi, M. &
+Maggiar, M. Isra Sol tea, M. at Mm* Hnma
+at 1 anteat, M Kaamm bay. Mm* ataateate,
+M. Mob bay Skamiy, M. US, M Dampter,
+Mm* Motnateia atMlk Morgk, Sr. TV
+d'Aqnia, ImmaenLe. Stephan t. Pndia et
+D*m**k M. Milkiia, M. L Jacob, M. et Mme
+Soane via, M da Ooadft, M. Butent, Mlk
+Bwchei, M. Conoteatu Spun, M. Mm* et
+MU* Kteber. R P. Cbevalsm. M. 1 j1
+MU* Andre* Marten. Mm* t^avalber, M.
+Aika Hnnml, M et Mme Adam* at anteat,
+M. Prmdakopei, M. G. Doote, at 86 pnamgen
+da 3m* ckasa
+turaari am.
+La paqaabot Issperatnx, de Lloyd Autn-
+ohien, petti mmedi poor Tnasta, axait 4 bond :
+MM. P. 1. Anderson, Pk Back, L Beacon,
+A. Campbell, A. Depended A. Gilho, M et
+Mm* Gatahia, 3 antenta at 3 bonne*, H. Jeahe*.
+H. P. Kiaghem at &1K M. Money. MarWi.
+Panoaa, N. Salt, Ptmas Tireteohak, Bm. Wel-
+ionschag, G. Aboakftn, ?. CsmbtwlU. Bra.
+Haaeidaa, Nin Jakes, Kamel Iff. Osman
+Gbalih, a Langmm, Mm* ?. Montano, &
+A. Stromal, at 81 paamgan da 8m* dam*.
+____^ ■ ... • .
+HOD YEMENI MAEIIIME
+DU PORT D ALBXAND&18
+88	aodt
+Akoombonra; 11 i, vap. iuL Attilio, cap,
+Dommioi, ton. 816, kordra.
+I New York , 80 j, rap. aag. City of Gloucester,
+cap. MLbom, ton. 1,878, k Mantacboff.
+Syria at Port-Said, 80 V, rap. ante. Maria
+Tawra, cap. Mangba, tom 1,914, aa Lloyd
+MaraaiU* at Naplas, 3 j., xap. aC. Sehiaawig,
+cap. Peach, tea. 4,891, kSehoaUar.
+89	aoht
+Port-Said j 18 V, rap. ital Bosforo, aapiteina
+Milano, ton. 1 518,1 kCta Fmrio-Rabat.
+Hall ; 18 {. I {% rap. aag. Laraatu, cap. Wing,
+ton. 8,071, k Barker A Oa
+Cqnatentmopk at Pud*; 40V, rap. ang
+Bl Kahira. oap Poanmatiooa, ton 84A, I k
+Kbadivial Mail.
+MaraaiU* j. 1 ft, rap fran<; Seodgai, rap.
+ViaHa4sten.at88.aax Mnsmganai Mari
+Blyth } Hi, 1/8, rap aag Vilk da Mats,
+oap. Targran. Ian. 8189, k Mom A On
+87 a*4t
+Smyrna at Anvars ; rap belga Congo, eap.
+Mnait
+Coaataatuopk , rap hall. Vaemiiam Olgte cop
+Oonetentmopl* ; v. ang. Wooda, oap Godwin,
+snr late.
+Kmtaodja . rap aag. Gkmky, cap. Wright,
+nr last
+Poti .rap ang HoykBank, nap Kmg.rarlart.
+VV8RAGB TIMB oocuptad in tranamiaaioti
+d > Bgyptian Wkgram*» Aote Bagkad M
+Alexandria on Monday, Mtk Ang., 1906.
+nun tttnm
+at-'at
+_	,^1. >	, i -i ■
+PROM	Tb* oPaateJ
+a. ■/	■- «.
+Landoo	18	40
+Miaraoal	30	U
+SSSrnm j - i.is
+ftKrrtaetel OBWraJ —	13
+WWAOH t	jrAVDwn ;'at
+Tb# “ser	fe
+a. 18 90	g. a. 40 46 1.16 >8 63
+* -
+(Da midi k IV p.m.)
+Cotons — L’arant-koana da Liverpool a
+doond an marebd oa certain dlan dont il avail
+grand haaeiak L* teit ast q tavern In Bn dak
+rtaaee il y a an aa pan plat d'affterm at qaa
+Grain** da colon—Article aigllgA amk
+par suite da manqaa (foffras la arrars art xartd
+wntonn
+P>vm—Marabd not
+Borne* KhMiviak, la 38 aott 1808
+; >T0CKS AND SHARES
+01 icing /Vim, H Ip m 1 yn
+let	II	|	Imperial Ottoman Bank	—
+.	37	f	Nat. Banff of Igya* ...	—
+1 -	—	de da Saw 3798/39
+1	ft*.	488	—	National Bank af Greece	—
+1	LB	—	it	Banqaa Indartnail*—	—
+i	Paa	884	—	Crddit Pancwr igyptma 9800
+- (LiatarpSnadii I15|
+, Lai 14 6 A«rm!t*MtlHk _	• »lV
+Paa	137	I	Banq ad Athtnm —	—
+Let	I	A	Ggya*. favertmeat Co.	—
+*	S	Laod Bank rf Igjrpt _	86
+Pm 300 — Affrin-Indart. Bgypt _ 630
+r'Tondy! 960 •
+LI 46 I BahmnCompany^. _ H
+Let.	t ft	BfypkDalte UndCa_	—
+4 I	Waakn 1data Cay._	6
+,	4 1	Land A Mortgage _	-
+„	18 — New Data taWtaad. 178'
+,---------OoqpimtaoB c# Wartnra
+81/	NawTLgptian Co. _
+Igypt liteta* Ltd. _	1 6, 89
+Let	80 —	Ajaxand. Bended Store*
+Ttot ft
+r	- J	Aagie-lgypt Spsnning
+Co.	•*—
+.	88 —	Bonn* KkAUnale _	—
+„	78 —	praf. Cairo Savage
+TVscrporf Old.	40
+Pda 881 —wCt.Brawanr AJke.fcad. 190
+.--do doiXDeba	-600
+.193	—	do Ceun Pend	46
+SV 6/8- ffgypk Cotton MUk _	-
+.	84/3 —	lo Market* _ _	100
+.	84/8 -	da Salt and Soda
+Thai	—
+Pea	75 —	Ciman*?'i’Rjypte.. _	W
+let — teypt Trust A invert.	1 ^
+'	.	7 1	£^r-aih2nynk Cot Coy.	HW«
+•	10	px	Nz'-^onch Hotel*   K8J
+.	87 —	Sx Pnamga et Ddpdm	103
+.	88 }	Socsdtd Frame* litem	108
+Ink	5 A	Angle - 4 meric* a Nik
+Ac. Co.	98
+„	8 A	Khali vial MaO RS. Ao-
+Ca Ponds. 80/9
+.	15 | Ate. Water Company '—
+Pm. 1190 Cairo WateKfcw. ftndc. 115-1
+Ink	7	i	Taemh Water Ca. Bonds.	—
+unwxn n mawm
+Ink	13	A	Delta light fl ,
+.--------Daita Light De£_ _ lft
+.	10-	Payowm.. - _	_	-
+.	*7	-	Kotek-Amouaa _	_	-
+Pm 169 — Akiainhta Trams _______ 490
+------- do	^ Fonda	881
+1st	7	J	Bamkh Railway _	_	—
+08 L
+MILE GAUGE HEADINGS.
+											/
+				MW.					fill	tun.	WWgM	2MWT ra.	-,-JAU	Hill UUlil.
+											•/	'	J
+											teteMte	Gwdwm	• ~,%Mwv-	i tewlrnm
+	Wk	•H.		k i SH.	Bta	mt		m	gft.	m.	gw an	wk wt	wk att	nw . mm.	mm. m*l	mob wt
+										C M	, ! am	a» a m	ora am *^m <>	era era	m a aa	ma -oa * gh ca	are a	i a to	a c 11	»r **
+1	4.4'	8. 9	1-	61 4 0	135	4 0	4.30	8X3	471	5.17 C Cm	8489	95.a	87.11 £9.45	47.58 48.88	48X3 48.53	14 0 .13.18 - mi 15.67 ram rara	a . ram	. m mm *^ra mra	e m rara era m	era rara ran rae	a re ra. are aa	a r era a r	■
+9	k 1	8.11	I.	18 4 8	45Q	6X0	4-30	488	3X1	467 C ran	9499	1511	87*61	89*50	47.60	49. 5	46 H3	48.74	13. 3	13.20	15.47	15.6^3 ram v m	raw era	see* rara	<>ra e/i	■ ra ram	era raw	* ra aa	ia ram	mm ra	me a	w-c cm	i c rat
+6	4.91	7.81	L	70 440	480	6 50	4.53	434 m mm	411	5.64 c rao	9C16	97.70	SC60	47.66	49*27	4C92	48-93	13. 6	I4c 1	15.53	15.71 ram a a	ra r ram	* an a a	^rtk mu	e re me	era raw	Nerarac	era m	mm ra	me ra	meet)	tc
+			1*			5 50		m		S 7 ns	wm hi	u mw	wt iu	ism ire	* 7 7 S	am ■*(	-rara m S	rati a	1 q c	x e ra	1 a kr	in /n
+4 5 8	4J1	ski 7.60 7.80	L L	<9 i, iy 80 480 84 4 0	a. w 475 480	555 480	l-BI 4.74 4 91	G-vN 480 483	9.JQ 488 484	9. 90 497 8X8	^m^r	* >» BO	*5 • .99 9g>9Q	»1 w %w»GJ	.Sere. 0	Im , w dm, O	• Iw.wO X*3»lt3 9447	9418	84 5 9411	47.79 48.41	47X0	a.13	13. A	1411	15.50 *15.81 •493	94JB	8SX6 B0X8	4411 43X1	47X5	49X9	14 4	1418	16X0 16.81
+								m mam		ra tt	m m mm	rara m	tram mre rat mra	ea ram	era rare	ere ra a	em re re	mm o\ m a aa	9 c ere f x AS
+T	Sw 1	7.71	l.	85 4 5	490	^ 6X8	4.97 m a	C97 a ora	4X3 MMA.	C55 • ran	8475	Hit	38X7 90X1	.48X6	4487	47.84	49.17	14 8 \ 1410	15X7	lo.8> ram mm	rara rere	*ra% . m aa aa	ma a a	era oc	ere 0 a	ram cc	m m mm\ \m c - a	1 c c*y	7 c 00
+8	IS	I 7.49	1.	88 415	i 1	5X8	5. 4 r s;	5-87 A Am	4.19 M ftA	6.69 ra aa	86.79	9477	8440	90X6	.4464	4485	47.84	49X5	1410 '15. 0	15X7	ia.88 ram nr	rare •	00 rare	ram mm	a 0 res	sa e	ere Are	a a re c	am mm	is a	it c a	1C Qi
+9		f 8X1	1*	88 490	4. (	5X8	5.35 m mm	C87 A rara	4.10 M OO	6 90 ra	96.75	97. 1	883 7	91.13	; 48.74	50. 6	47.97	49.75	1C11	15. 4	15 59	15.91 ram a*	rare mm	m e	ram ^n	e a	sa mm	aa mre	jg ee	ammo	m 4 o	IT CO	1C QI
+10	7.81	’ 8.48	L	95 440	J	5 58	5.54 A A j	C77	4.18 M MT	7.10 ra rara	95.73	97 33	8614	91.38	48.89	50.33	48.17	49.99	1C19	15^ 9	15.59	15.94 ram «e	ra v raw	mo mm	mt rac	em e	sa ram	rao ma	ka rara	«m ia	me tire	m c cq	t e qj
+11	4. 1	< 457	1.	99 480	4L 4	H S 44	5.54 e> re	C70 A Aa	4.45 A CO	7.36 a Am	9C7l	9 .69	6M3	91.65	49. 4	50.61	48.24	50.26	1C13	15.2?	15.59	15.91 rara mra	rare rara	am mre	ram rara	era m a	s a rara	rao ra-v	ia c m	w m a c	era a	it as	m ra ■ T
+19	8. J	489	8*	3	460	All	456	5.54	C58 A AT.	4.58 m rac	7.34 ra no	85.78	87 88	88.37	91.88	4414	60X8	48X0	60X1	1415	14 4\	15.95	14 a ram — —-	a	A	oa m a	ran aare	era rara	cm a	rao rara	sa re a	m W 9 O	m re *> V-' m c to	v ra 13
+IS	8.99	i 688	4	9 480	4.35	448	5.78 m mm	C55 A AM	C75 A Are	7.18 ra oa	9C69	9'i 6	8C48	91.97	49.99	61. 0	48.9>	60.74	13 18	17. 3	15.53	16.1* rae> e	rax 4	oo rac	mm mm	ram at	cm m	eo aa	ca oc	9# OA	mre na	m c rare	m ra. »V"i
+18	IX	’ 478	4	18 480	481	448	4.35 m ma	C54 A AA	4.8i T A	7.10	94 4 H 1	9486 91.83	49.95 6L 1	*88.90 50.85	143S 17X3	15.67 1S.H ra !* ram • rare ratek	ao me mm rara	ram me* cm > c	rao re m tj\ aa	m m ram m a «c	it ao t£ 07
+15	?• 4	489	4	19 415	4 6‘	444	iM	5 55 A gA	6. b	7.11	9n33	97.90	88.64 91.64	49.94 il. 5	48-31	50.90	13.33	18.15	15.68	16 *< rara a e	rare asm	ge m ns swm	rara aa atm c	a a am ca as	tv na m ra a	me ao f £ OQ
+18	7. 1	1 4 4	. 4	88 4 0	488	5X0	4.45 m rr	C50 m vs	5.3C C CO	7. 4 ra a	9484	97.78	94 g	81.73	4488	51. 5	48.14	80.91	H.H	14 3	15.68	16X9 rara rere	rare at	Age at	mm at	ca ra	cm m	rao a a	ar a q a -s	m a a	a ra 4	me ao	i a Qfl
+17	4.61	491	9	84 4 0	S> 1	5X0	5.55 m mm	C54 a rn	5.52 e rara	7. 0 ra ora	96 77	9745	89.23 91.65	50. f 51. 1	48.4) 50.84	1C 0	19. 4	15.68 mre ra	rare a a	am ca mm ca	*a re cm m	* a ere CA 90	me m 4 ra a	me CO 1C 47
+18	6k	1 411	4	48 4 0	Cl	430	117 m m	6.59 A *»A	5.53 c oa	6.96 ra ac	97. f	9.54	89 50	91.60	64 7	4L 3	48.47	50.78	14 1	19. 6	15.69	16.*' rare m	a. a ra	ow rera	rat era	ca mm	ct a	sa sa	ca *yo	me re	a ra ra	me aa	ic 4^
+19	4.41	1 4 <	4	60 486	5.1C	i 6X0	5.73 m me\	C50 A Mm	5.88	6.95 ra gg	9T.39	97.44	99176	9L54	50.16	5L 1	. 48.(0	50.73	R X	19. 6	15.69	lo.to ram mm	rare a a	Ara rare	mm era	ca	aa aa	rao re s	CA mre	mra ra	in o	11 ao	| C Q£
+90	7.7!	1 48	4	50 470	A 1	439	CTO A M	C47 ■A MA	C50 A 0*1	C98 ra o j	9C63	9< 40	8C97 91.52	50-68 50.98	48.75 50.57	1C 4 19. 2	15.69 lo.w rao mre	rare rao	rai mre Mm era	ca a m ia aw	e a rara ca mo	me m mra a	me ret 1C OQ
+91	L8	' 481	4	58 884	490	5.3S	6 81 A mw	C45 a Am	C81	C94 ra oo	99-17	97J8	90.37	91.54	50l4l	90.96	48 92	50.63	14. 6	19. 0	15.71 aa rara	rare**	ram mra	ram era	ca a a	ca aa	sa in	EA TO	mra 4	mo OA	4 T T4	1£ Oq
+33	4.9!	1 4 4 m mm	4	58 480	6. 1	438	5.91	C50	C91 A ra	6. £$8 ra oc	9Ut	97.64	91.10	9L99	60l48	50.89	4X16	5U58	1C 9 1X90	15.74 rao ram	rare rara	ram wc	mm ra c	ca rec	ca oc	ja reo	ia cm	ij If m q m m	me vq	1C 411
+98 tt 96 98 IT 98 99 80 li	6X1 6.91 6. U 4.69	m.7f 7J0 r 47i Ji 483 I 484 481 4k 7.11 6.*	4 4 1—4 *9 4 t l 1 >	59 450 68 460 *4 445 88 460 - 88 468 —	490 —	480 —	464 —	tro	5.4 5.8! 44 415 4 4	1 680 1 5X0 6X0 5.45 4a • 5X8 448 5X1 6.46	47! 487 471 478 8X8	C45 460 L 8X7 4A8 448 445 489 6.88 «.7»	6.9« 439 7. 1 7. 4 7J0	6.85 • 488 487 6 79 474 474 474 478 178	9X49	97.96	9L35	91.45	50.75	5X65	49.33	50.56	1C15	18.16	15.75 96.38	87.19	I1.U	31.41	5i.l0	60X6	49.75	50X4	14.19	lt.lfi	15.83	16X4 9R 1	97X0	9L47	31.40	61X8	10-84	6a 8	50.65	16- 0	18-10	15X7	16.13 97.a	87X0	81X3	JL43	5L «	60X1	60X0	5a5t	16. *	IS. 3	16.3*	18X3 *7X0	97.11	91.81	91X6	IL 0	60.7*	5a42	60X0	16X0	18. 8	16.9*	18.M —	97. 9	-	91.30	—	*080	-	6061	-	1R 8	-	16X1 —	99X7	—	91 XT	—	*a78	—	6048	—	68. 6	—	18X1 —	98.98	- 91X4	- 6ftT5	-60X6	-IR4	- 16X0 —	ft. 4	-	IIXO	-	KLU	-	«X4I	-	W,4	-	IMO
+Horaire du	Train	da	Chasse d pmrtir 4m lm Stptmmbrt 1906 Akaandra ...	dap.	...	...	4,—	era. 8»d» Giber ...	dap		 4,90	’ R.'.ta	(	err.	...	...	4X0 *		\	dfp	...	...	4X1	• •re-*' •••	{5::::IS	- •—"» •••	{m::::::	!“	: »«»re ...	: ,,	j.	/	err.	...	...	4.57 Almk" 	 \	dip.	 5,05	" K-re.1 ...	(5;	“	ill	- „	.	.	/err.	 6,18	" Mantaaek	^		 kit	’ w ,	.	tmr.		 6X3	" 1	"•	\ dap.	_	...	6X3	" p— i-i.	/err.	_	5,31	* q. ,.		6X1 r —	v.~* tel ^krkMMB %	-raw	ra	8* WW- *•* ,,, C '■ 99896*1
+WOtnUIB EUDIVUll
+CONTRAT3	j ]
+Flantwstines da th.80 k Ik pm
+Omm f.O.F.Br
+Dam k metiada; prix pies heat poor aov.
+tel 14 7/8 k —/— ; pies tea poor aov. ,
+14 1*18 k —f—.
+ISimCrnm	*
+Dans k amtiada , prix pi a* beat poar i
+aov.-dda-jan. P.T. 59 36/40 k -/-: plaa ]
+tea paar aov.-dda jaa. M 80 80 k —/—.	1
+* t	'	/'	h
+TMLIOGAMM1 H A V AS
+BOURSB do 38 aofit 1905
+oovh vm vsurras « nan, Ctorntx
+.PAfUS
+Raatp naaosisk 8 %	—	.u	Pr.	»9	65
+Action* da Sues . _	„	...	M	4180	—
+Lot* Tana.. — —	_	_	„	130	50
+Tare Unidd..	91	65
+dSTSEBS*0* *** " 107 50
+Crddit Pdnoiar Bmitian"	Z	"	890	Z
+Sxtdrlaar aspoenal _	_	_	M	91	51
+>kL Banqaa Mai. da Gitoa _ „	---
+Saaqn* d’Atkteas, non valla*
+••boa*	129	J
+AMst mo itiiin ^	.. r_.'
+Rwmaaonablidd.,	87	80
+Chang* sat Londras..	«	Z	"	95	17
+*rum N-1 disnonibla--------	-	_
+latea N* 8 Uvrama k 4 da msn ,	---
+LONBRBS
+kvreHddi anglais -	-	-	£	90 i
+HwMmptas—Paris 8, Lredras 34. Barnu f
+PK1MBS DBS CONTRATS
+wpu/Aonnr
+Cotan Liy^Nov.P.T. 13 80/40 4 14 16/40
+Or. daata.lmom^^^- „ 3 10/40
+Colon lev. Nov. P.T, 87 80/40 4 88 80/40
+dr. da aok . 8	« * 10/tO
+Coton Liv. Nov. P.T. 8 80/40 4 9 15/40
+*»• da aok . 8 moi* .	1 15/40 .. 1 90/40
+SHARK LIST
+Iohh *t td " AsaoGtAXiqg Dm Courtuu m
+Valiuj* s’ALXXAUDan",
+OWtaaa d'aftawvd'bwi 4 18V80 pm
+14AM 8 AM
+« HM
+-i
+ri'SS^wrFt.Ui; :*
+„	„	«V.	„ 386 — „ 840 —
+Alexandria Water_ Lai 16 A » — 4
+iktw do.Gain... u.>Ptell7d — H1180 —
+Daira Snoiak — m. Lik 97 ft 98 —
+— t:
+issxxsf- •	- --
+SplMkg _ - . -86/83 M - ft
+Bikrad AIWa r Priv. Pm 817 r- . 818 —
+„	. ‘ * Dlv. „ 180 - „----
+„ do Gain PHv. „130 —„191 —
+m n 1 Dlv. ,*<>< 88 — n 84 —
+Igypt Cotton Mills let 6/ — „ 6/3 -
+„ .. SaRARoda—	84, 8 - „ 84/6 -
+Pbk 616 J , 973 4
+BsmqwT tedastaWte. LR - - l Z Z
+Odsm di Steak).. Z. Pto. 184 — „ 181 —
+Anglo Amsrima Nik Lst fi „ _A
+Banqaa d’Atkkam _ Pm 117 { M 138 -
+Dafengd Delta.. .let. - - „--
+SMtaABoai.- , io A » - 1 \
+StiTh—* • ** " - »
+2a“: i: i;r:
+Ttasi kimteinit _ w i A »— n/89
+dstetm	1 5/89 M----
+Snkodid HAtok _	— —__________-
+dCk Padi ... . , m-^rrrTZZ^
+tetraposas Urbainas „	, — A
+ASSOCIATION
+ras coronas km mabohandior.
+■ (Bs'siu pdMM)
+btrtoa p’ocvuuai
+Lrvnrook 10b a.*.
+AmdrkaH
+Pn tarn < *H aov. > A.93
+.	jaa.-Gv. ul.00
+if AWRIBRaiB
+da mart 89 aofit 1908
+Daaamwte da V tAkaeadrk Oanaral
+Prodoa* Amasistiin. *
+omamna .gAaqrrm
+Cotew - _ . R B 68	—
+Gmteas da aatoa. earn 1144	' — ■
+Rtds n*idi .	.	H	—	•	—	>
+„ B4bAw.	.	.	4	-	i
+P4vm Safdl	.	M	1498	—	»
+e Bdhdra .	„	—	•- — - *
+ST : r	:	:	i	'	r;'!
+Latt-Uas. .	,	180	—	i
+Cmmt “Total dm snivagai dapnh t* ltr
+MIMS
+CMHtalwallN i
+* a norm wr wwi- m ran
+Catoa. L	-	-	-	-:B1	948	■
+Omtem da cotoa _	_ **m 8487
+BdaSaidl.	.	84
+. Btedra..	.	.	.	.	,	84
+Pbrarfloidi-	.	.	_	.	„	4788
+^»^ra.-------------------- -	.
+SnS ------	JJ
+, wWtel^i mm	wan	•«	maw	amm	«•	wv
+flteewa—Total dm awing** depute la tar
+aaotemv* 1909 joiqa'6 a* tons, ran tare
+'Amfaw d» ertra,—Total dm atexngm dapai*
+le.Ur Modern Sr* 1908 jwaqsll ea jonr Ard
+CONTRATS^ 11 V 66 am)
+( Oonrs da k Bran* A jfmattelam*]
+awe F O F. Br
+■gvomtee- . TaL 14 99/69 4 —
+• bate _	_	.	14 99/83 ,	-
+iti 8tea ii 11	-	w lfn "	“
+» I D.J, .	...	P.T	69 10 40 4	—
+SejtOok .	P.T.116 — k	133 — ,
+Omm Nanraik rdcjlta— L* ka-im* d» 90* »
+nroteut^lmaMraod^aff*** ^ "^"InmHWm bra
+ridkatek 14 U/d/*1 Itemabte>araatcalms
+Gratem 4» mmi NmraU*. rtwlta —
+Snna.affs.irm praaqaa, q<toiq>M <wnre son term*.
+Premier prix poor T* I aw P.T. 59 1/8.
+Ffm Hiiii N-ravafte vdmlto. — MsreM no).
+V______________’____'
+• 4	.
+Dfttdia* particni«4re* d 34 aiU1906
+/ PRUDIJITB RUYFJMBNd
+/	,	wvxaareoL
+Omm 9m4m itmnnkt.—Santana
+jDfta.—P G.P. 7 18/18 (ran* ohsagsreant)
+Jtewre Saptambra 7 4144 (7/81 da beam*)
+jUTtXV'KK.
+Gratew 4* tnfm —Oalmw
+fftesa Perm**	V
+aw
+Gratev d* mtm, —Soatan aa*
+Arras — M8m* si tantion
+IMHPWW
+Gretas* 4* mm —Parmer
+COTTON AStRICAIN
+U9JB9M6
+Pater* ook-nav.: S 98 (18 poiateda kaosra)
+n jaa Mr 199 (14 paint* d* bsnera)
+Diipnibk 3 99 (U point* da h«oaea)
+snavoax
+Middling Cain l it l.'> 80 pv-Uidihram)
+Pitsr* O’A ; 11 18 'l9point* dateytaft ,
+. ftk : Il 99 (f 1 y)iate 9 kufiteft ‘
+1 Awlvtqr** da foar; kdk* Il »»
+Contra mtemioar. • annrt dereibra, bnUa*
+18,000
+_______________________'	^ e	i
+9*	JWk	Wfl	teWW
+DBRN1BRB HtUR B
+<UkteHi da kRonrea Khddiviak lk p ia j
+Coen da l 'Assoaiatten de* nianrtte i *n
+/6mm r.Q.rSZ"**
+JWianlH - TaL 14 97/33 4 — 7/8
+Caavter .	...	14	97/39	—	7/8
+Mare ,	„	14	41/33 n 15	-/
+jQrmmm oo6m	/
+N.-D.J.	_ _	, 59 36/40 4 -ytO/40
+tek-Oi - — ? T.190 — yki 189 —.
+.... -	'	/	.
+TO-DAY'S IXCHANGE QUOTATIONS
+LnVi d*ii*
+,, la bank pvper..	_	98	A	98	ft
+„ 9m hows* paper	-w»	98	A	“	**
+Paris ekaqsra .	. M .	e 886	f	887	—
+- Bm hank paper —	-	884	}	895	*
+. 8mk)i»p»pir	8d4 —------
+IlMMMRM .	_ \ W {	887 -
+8m bank p,y*r —	. Ky - — -»
+Germany akaqat ,	.	- I’M-,*'* |
+^ Bm haw pap* — 478 | Nr- -
+Wnannte?TiW4 dap* Z 404 L 407 ^
+lYreWankani’a A*t«- - *[ » l
+tlwm ana gw wUnAukwaga
+Boom* KhMiviak, la 98 aott 1906
+*g—ggg—gg ■ 1 mmi
+00TON8
+^sopta dak~dftfaka
+-sTjsssr*-"
+TaL 14 13/18 lina'aca ■rtgmkra
+.	14	16/18	.	lantern
+.	16	1/18	.	Mare
+4£vA6etoady
+te ce i— k	Bimil
+maters 484
+»— «-*
+TaL 14 16 /18 Uvmtegn N raw bra
+„	18	16/18	,	Jantem
+„	Id	1/18	w	Man
+•« Merabi	quiet
+•	a	’	1
+4AECHK DK MISEr-SIf B A33 A L
+M art, IM^UUI ,,)
+^ Orton* —Cktnm da wssoki da 88 aodt t
+Pair, Pally Pair, Good Part, Pally Good
+Pair at Good: Sens ohangamant
+Pair, pJ55TpSDKd ?%l?TaOy Good
+Pair at Good: Sons ehaaganrant
+tea qnalitd, Ira fadN, extra: Sara ckanga-
+M mamevna	*
+9a*a qnaiitA Ira ftelito, nxtmc imm aknaga-
+dtat da owdte da w joar,9oton Saatent,
+nit pea d’affeuaa
+Lm am rage* da M jonr ** ckiffrc.it
+par motan 414 aantn xtemc jovr ram>4a
+peteddanta matare 8883
+Gratert dsaoten.—Sensshsogamant
+fim* rmRSate P T. — 4 —
+, Mte: „	„	„	119 4 133
+Am—Coots acminenx
+cSm lllir^nA Asha P.T. 180 4 196
+gertifim—M8ma ntnatioa
+Dtenonibk : Rian
+6ml Saha P.T. 1M 4 190
+Oram—8oatenne*
+, Goad. Saha P.T. 64 4 M
+Dwanihk ; Kim
+. Caad Saha P.T. 94 4 100
+ixportadm do 88 aoftt don. k IS aott
+^rtot:	BaL	993	‘	BaL 4878
+6r.de ook Aid. —	Aid. 990*3
+93	“	«•
+~z°SlT
+(lawg-Bema) ^
+------------  L	' l	dT	p.T	18ft	4	945
+lafr Zayat	_	—	Da	P.T.	370	4	610
+raatak	_	-	-	,	.	«66	.	810
+SBCTION DBS 9RAINB3 1TCBRKALB3
+teafaw* da aatan AiA P.T. 65 -	4 P.T. -
+” Z - Z
+99 m"m mmm	^ |g **
+ifftlii	,-----. . -
+m r»yo-i®	h	9* I*
+
+-->
+<!-- End of Page 4 -->
+</div>
+
+
+            <div type="page" n="5">
+<!-- Beginnin of Page 5 -->
+
+<!--
+
+TH1 *GTPTIA!I GAZETTE, TUESDAY, AUGUST
+cotton trade wages, «•».
+hh«r
+.\h* avoidance o( a long and disastrous I,
+„trike in the ootton trade ie a tribute to the I
+mod *en*o and rapacity of employer* aa well
+M of employed. The men gain a oonoeeeion I
+which i» perhape not unwarrantal by tbe etate
+pf the trade dnring tbe pari year, and it must
+be remembered that they Buffered severely
+dnrme the recent orieee, not by reduction in
+the rate of wage* but by the diminution of I
+their earning power owing to tfie neeemity to I
+work xhort time for the good of the trade a« a
+whole. The *eli eaorifim of the operatives at a I
+tune when it waa neaemary to tabs combined I
+action no doubt entitled their preeent claim* to
+coneidefation. On the other hand, it mutt not
+be forgotten that had there been no agreement
+juat now, had the operative* preened their
+claim and inaiated upon a strike, the eiteation
+would hare united many of the employer* eery I
+well. The limitation of ootton buying is a vroy I
+desirable objeot at thia moment, for it ie the I
+most effectual way to check tbe market mani-
+pillations of unscrupulous speculators who hare
+forced up the pnoe of the raw material upon I
+exaggerated reporta A week or two ago the I
+Committee of the International Federation el I
+Cotton Spinners urged every upinner in Bnrope I
+and America, inaamooh as they controlled I
+enough ootton to fulfil their engagements lor I
+three or four mouths ahead, to make no further I
+purchases of preeent crop ootton except for I
+immediate needs until the arrival of the new
+crop at the end of Oofc&er A strike would
+have put snob purchasing out of the question I
+jyp England, and eo would hare brought down
+the price of the raw material, whioh ie now
+nnaturally high. But the remedy oan now he
+applied without any of the unavoidable evil*
+attendant on a labour war, and all thoaa en-
+gaged in the trade may be congratulated on
+the happy ifsue to whioh they hare agreed.
+It in thirteen yean srnoe there wee a really
+serious labour dispute in the ootton trada, and
+that disastrous lockout led to the adoption of
+the Brooklande agreement, whioh has worked
+very happily ever since. TWs has heal
+grumbling on both sides occasionally, but on
+the whole the basis of conciliation therau
+arrived at has famished a working model
+whioh might well be adoptod in other trades
+Strong men on both sides hare met together
+to oonsider difficulties, and in the light of
+reason they hare generally been swept away.
+The men hare agreed to work abort time rather
+than suffar a reduction in the standard rate of
+wages, but they are well aware that the rate
+of wages mast to a largo extent determine the
+prioee of the goods to be sold, and ae they
+are all well acquainted with the intrioaoiee
+of this most complicated industry, they are
+usually wise enough to refrain from harassing
+cure, no sooner does the good time oome then
+they insist on sharing in tbe profile it britqp
+Seek a doctrine the employer* fait bond to re-
+and though they bare given may to a certain
+extent, it would he foolish to assume that they
+eompt the proposition that w^ee meat not
+fall in edrenrity, but must be raised ie pros
+ptn'y. Tbe operatives appear to be Axed in
+their policy of a minimum tiring wage pin a
+demand for a abare ia any increased normal
+profits. This wage meat be reeognieed aa a
+fixed charge on the indr-try, if trade destines
+wages mast not be rodeoed, and employer*
+matt take this fixed obarga into ««enaet when
+making their prioea Tbe proposition that
+there shell he no reduction in bad times, bet
+that there shall be an Himeses in good timss,
+is oertain to be a bone of content! n in the
+future, and it would be well for the trade if
+upon a certain fixed standard a sliding seals
+or other mean* of automatic adjustment cooM
+be applied. Ia bis appeal to the conference
+whioh has jest discussed this qeeetim, the
+Lord Mayor of Meneheeter, Sir Thomas Sbuan,
+appealed for a settlement, "tree if it should
+be only e temporary settlement, to aff*d time
+for tbe setting ep of machinery wtuob will
+aetomnticaUy prorent tbe resonance ef e ritwa-
+tiou such ns that at which you bare new
+arrived.'' It may be that »ueh aa agreement
+will not be reached eatil after a severe itraggle
+I ia the near future, hat the hard heeded
+I Laaoaakiro men should be able to me the
+wisdom of adopting the plea, which win pat
+I ae end to all disputes if it be faitbfally obcarv-
+ed. If the operatives are right in demanding a
+I share ia their employers' prosperity they mast
+be prepared to suffer with them in periods ef
+I adversity, with' probably a find minimum. By
+I giro and take on them lines the great indretry
+I may he eared from dioestroea ooaflwta, acd its
+I future prosperity win be substantially assured
+KXTRAORDINARY CHARGE
+The Standard Life Assurance Company.
+,.3.	OTAMUSHK) ISM,	*	*
+‘ i	ACCUMULATED FUNDS All.*00,000
+OOflOi YWAW, tOOS.
+' seven miljTionb btbrlino.
+Heed OAlow tor KgrTT** • ► Karl* K aar el-PCIL Cairo.
+*. NATHAN A Oo.,	A. ▼. THOMSON.
+I	W Afntt ftr Ale— iXi,.	■ frwnwy fm ft—
+VBRR SAP. SATIS.
+Oapl T. W. W— of the Uth Husmm,
+wee kefere Mr. Certis ftaerit, at Wmt
+mineter, last Tuesday, aroused ef haring
+sesneited Louise Adame, a little girl of 14, to
+a first-ofas* ceniage ea the Dtotriet Railway. -
+Mr. Phibp Conway dafaaded.
+TWj#, who was nicely dmH. and faro
+«video so with remarks kli self poamsston,
+deponed the aasased was a friend el her
+mother * at Cairo. In July witaem arose to
+Ragland with her mother, and *ro then
+defendant bed keen eat with them On the
+pnrione afternoon the eegtato met them at
+Victoria Station, and while her mother was
+away he suggested the* they should ter* a
+tide to Charing owes oatho District BaaHroy.
+and defendant almost el eoeo roaaulted bar.
+Owing to bar maiehmaa be gat angry with
+hex. end smashed her free with the bnckd
+his hand. Her non bled slightly Defendant
+promnd bar to ait an Ms knaa, and assasited
+her. They went together as fir as Taropla
+Station, and walked hack to Chnhagrooae,
+where she met bar mother. lathe ahee— fri
+amiaeto of defendant, she told hmarothm
+part of her story After that aO three of them
+p mended ia a cab to fcri’i soert fchibitien.
+While the mptaia nee mehtog e puifteis aha
+They strolled together shoot the Exhibition
+after haring ton, and than took a sab to
+Victoria Staten. Them they dined at a
+restaurant Late to night they all wm>t tc
+JnTgod at the inetonee of witness’s mnlhm
+Mr. Ccnway said he tone Id rerorro has
+"'“Srother^f the little girt, a toowOy
+diemod wasroa, dsporod that her roaro was
+Malen Adame, and she nna pangs tot seas of <
+> fashionable buffet at Chou Boseotiy shi
+Banted, Baosax, where be bad very risk rein
+tiros. She bad known dedaadant about tw*
+I that town. She left bar batoaad bensam sto
+fall ia boo with defendant BrontanUy to
+I had to part with duirodeat beanaee ho sums
+I to England She had a large som of money tc
+—t"u»t March act to mala* Mm. Whndu
+brought her bnabaaii to Baghnd on Jaly Utl
+I she thought she wonld Eke to see the roptou
+-r~ So on her onrval at Dover she tele
+Cheap Prepaid AdverttMiMiRts
+01 Lail OlUVb wtuputtottou iuiiubm;, MHJ Mg I
+usually wise enough to refrain from heramiag | n
+proposals whioh may jeopardise its welfare. „
+Thus there was a general opinion when the n
+unions put forward their demand for aa in i
+crease in the rate oome time ago that the I
+leader* might bare exaroiaod more patience, I
+inaamooh as the trade was again passing I
+through a oriUual period superroning on a ran I
+o( great prospenty. A delay of three month* I ^
+would have been prudent, but, happily, the I f
+maohmery of conciliation bai prevailed, and 11
+the inastemh»ro seen fit to giro the man, lee*, I q
+indeed, thdh they demanded, but enough to I i(
+preserve tbe pesos, though at tbe seme time I j,
+* not so muob aa tooreato asoriousinoonvanieocs 11
+in the market	fl
+It is, of course, very difficult to ley down a 0
+plan of uniroraal application to all oonditiooa I *
+in an industry in whioh those cooditioM ere 1,
+constantly changing TVe issue between the 11
+employers and the operatives is to arrive at a I *
+standard wage applicable both to good end had I (
+times. A few yean ago Mr. CL W. Maoara, the I (
+President of the Fodorntion of Cotton Spin I
+non, and also of the International Federation, I
+a man of great ability and statoemaaHke qua-1
+litres, perleoted a atocma for tbe aatomatia I
+- regulation of wage* which would hare reader I
+ed tbe Brooklande Agreement oosapl— end I i
+would bare met every state of the trada To 11
+oonsider the scheme no • freer torn nineteen I
+ooaforeooas took piece between special oomaut-
+teet of tbe Federation and of the Operatives' 11
+Amalgamation*. The employer*' plan provided I
+for the investigations by outriderxperto, to whom I
+appointment both sides shoe Id hare a roioa 11
+of the actual state of the trada sad according I <
+to the result of that investigation wages weald 11
+be adjusted, and tbe operative* would secure I
+an equitable share of the profits of the indue-
+try. In Lancashire the plan was generally
+. believed to be frit sad just, sad Mr. Macros
+still thinks that if it bad been adoptod it I
+would bare removed for all time the poarotolitj i
+of a eoi.fi >ot between capital sad labour, aad
+would hero prevented the erode through whmh
+the industry has just passed. Unhappily, the
+opera tiros reacted that plea, aad though the
+preeent difficulty has bean ororaoma, there is
+nothing to prevent it from being rairod again
+text March, when the present settlement
+comes up for reeoneideratioe.
+The need for some each automatic agency of I
+adjustment ia shown by the frets of the pro
+sent situation. For throe yean past the spra
+ning industry has had to work short time, and I
+last year the restriction was ia opssatiro for I
+many months This mss very hard for the |
+opera tiros, ahosa earning* wen thus diminish j
+ed ; but it was no lem hard for the employer*,
+who mada brovy loaros all tha tone. During I
+this period tha puhlio organa of the operatirm I
+marls than oaee rsfarrsd to tha forbeaiaaea of
+tha employers ia not demanding a redaction ct J
+the mto of wages, aad^actnally daalarad that I
+ZSd be entitled as a reward for thTfaW j
+people. Ttfr aftm very few months ef good J
+trade the dmnand far aa adroaee of 5 par orot I
+feaUtaet reductiontowagm ace ae samady!
+ipr bad trade, aad the! *ert time b tfcg tiro j
+r| JAPAN S 8BCOND HAND FLEBT
+It has now bean aroartained (myr that
+11 Timm correspondent at Tokio) that the
+11 Ruitisn warships at Pott Arthar warn ao* j
+11 blown ap or sunk by gau fire. Tbe Remiaaa I
+*	I opened the Kiagetoo rolrra, having prerioariy j
+LI aad vital part* of tha rosrola
+*	I Tha following an tha Baariaa warships of
+fl tha original Pacific Pleat which hero ham or I
+I may be salved by the Japaaero
+*	I Battleahipa.—Poltava aad Pererriet—ro 1
+f I fioatad and navigable by their own rngirei; I
+*	I Retrima ead Poh ei* to he rawed end fit I
+*	I for serrioe shortly.
+r I Cruisers Bayan and IV.lad* refloated.
+•I Of the vessels reported teak ky shell fire at I
+*	I Port Arthar tbe protected oruieer Amur alone 1
+I	I remains nueocoonted fur. Tbe cruiser Varieg. I
+II	which was sank at Chemelpo, has also been I
+*	I refloated.
+I	mmmmmmmmmmmmmmmrnmmmmmmm
+DAVES
+BRYAN
+& Co.
+Continental Hotel Buildings
+CAIRO,
+St. David's Buildings,
+ALEXANDRIA,
+and 36-37 Noble Street
+IX>NTX>M. XO,
+English Tailors,
+Drapers
+aDd Outfittera
+TRAVELLING RE0U/8/T/E8 •
+OOMPRMBKD OAXB TBUBXB.
+SOLID LBATHKB OVIRLAITD
+TBUXXS.
+GLADSTONE A KIT BAGS.
+SUIT CASES, RUGS, Ae. .
+ATHLETIC GOODS:
+A T1RIXD STOCK, INCLUD11J0
+SUsenger’s Doherty
+“E,Q.M.”lDemon.
+AID
+Ayre’a Central
+Strung BacqueU,
+BAKSHISH IN TURKEY
+Italians travailing ia Turkey send borne ia I
+diguaat oomplaints, which ere published ie the I
+Prose, of the ehemelsm way ia whioh the I
+sxaminabou of travellers' luggage at the fro* tier
+Custom bouses is made the ooassiea for exact I
+iug "bakshieh " The gnuabiiaga, iB-tempera,
+interrogation*, and even open insult to wtoeh
+the traveller ia sehjeot eaa only be faiatly iam-1
+giaed by on* who bus net been subjected to the I
+ordeal—until, quite wearied rot, the helpless J
+voyager bethinks him of the ToTh’a proverbially
+itching palm, and place* e ftw suras ia the |
+hand of Ms tormentor Thro vilifications ia
+stoutly giro way to the most profuse courtewm I
+m	u	a  - ♦  *i id rot la	^ .1' J I
+Brsn Dsns ISM piuvn n poffw»rw imu	n otissn i
+as a meant ofeetortioa.
+ajaia So on her arrival at Dover she tain I
+phoned to dafaadaat at Folkestone to meat I
+her.
+Mr. Barnett : This was the first thing yon I
+did aftar tbe agreeasent I
+Witaem : Ye*. Ws had hero on correspond-1
+iug term*, end I wro very load of him. He took |
+me to e bell at Cairo, aad w# were the hem of J
+frisade. We agreed to be "pletoais friends. "I
+He mam over to see am.
+Mr. Gertie Beeaeti . Row let as come to tha I
+events of yesterday.
+Witaem : I w*e going beok to Cairo, aad
+bet the II o’clock Continental train from Vic-
+toria. I wro there with the ohild, aad the oep^ I
+tain wro going to «ee aa off. It wro through
+waiting for the dafaadaat to my goodbye that
+eg k>»t the tram. My luggage had all gone oa
+to Pah* When tbe tmia went out, I loft my I
+little girl with dofoadeaL 1 moat to bey a I
+phonograph to take bank to my baffet at Cairo.
+Oe returning I found drfoedeet ead my
+wee isgry with Leabe far net stay ieg where
+I bft her I bft Vmtoria about S o'clock, aad
+did not taka my httb girl with me hemero
+ilZkZ SrSLa JTwSff*w7!^L^Td
+to meet bter at the Charfi^ mom Station.
+| The captain aad *e giri othrod there peaet
+nelly, and at the firot appertaaity Loeiro mid:
+Mother,! went to tell yea mesethisg very j
+amro *p and rrmerked to me : "▼htoaseyro
+so erem for T I mid : ’Nothiag." far I wasted
+to hear the rest of the story trom the child ht-
+I fore I tackled Mm. Thro we got to e cab aad
+I -- * Am tks Baal'a	Ml ilroti — lgWL
+so erem for f* I mid : ’Ifotojag." far I wasted I
+to hear ike rm* of the story trom the child M I
+fora I tackled him. Thro we got ia a cab aad I
+went to the Iml'o Coart lehikitMa. 'Men, I
+whlb defendant wro loofoag at aa exhibit, I
+walked ewuy with the ohild, aad qmtoaaod
+bm, when toe told roe the foD details The I
+ohild abo roid that he three tee ed to throw
+her through the window, aad that she wro I
+I awfully frightarod From Besfo Court they I
+- Whet have yro been at with Loeiro. * I
+III* aid. - Hro aha hero myiag anything
+I - IH kill that bmt. " Whan ro bft
+the restacmat it wro nice o’clock, aad IJ
+(to tha pokes. Primer walked aroey. II
+told priroaro that if he did net waft quietly
+to the stab awe toroid have amen* is the I
+I meet They wafted to the poBoo etatioa, aad I
+kabl7 ««7- H* <Ld*aot°^ baSU^
+[word the woroaa had said, and it roamed that
+hrookrootwrotollinkmifl
+Mr. Ooawap: Ofaourea, the ikfrodrot my*|
+I tome m aetoae tittb of troth ia them aibga-l
+X^SLrott tTL nobody to
+1 Now he b dmthagpd.	The (Bobo.”
+WORLD’S RICHEST LIBRARY. .
+Me richest Khraq/m the wroM b tos
+1 nv^toto^mM l^ooSSLtioweo
+I ubStoIBBlOO?mans sadeSbrnfi ead 1MN9
+i9^
+of petting bis srothar hefaro Ms wifi, aad as!
+it b the sceeptod order «f toinga, toe wifr I
+does net fast aggrieved.
+Bet the new order b its* My ristmiies
+Ivee b tbs furetabiag of the harem the pie
+toneqve Best b giving pleas to the sombre
+West :—
+It b usually Earnyeanieod eatil it has a* I
+touch ef the Best, end b eaty a trovedp ef I
+the teals of the West Me rep end hs^iegv
+ead meaiia oertama, aad velvet ephibtsnll
+patten that yea would have theme for j«*
+•ervaats’ kedwams twenty yearn apt The
+apboLtam* tkaa the Bred to mameefehoaro I
+| Me Trokito women have beta! their ro* I
+Oriental piotemeqeeeeas, rod have ant yet
+gained that mdofirohb obarm that hebapto
+gained that rudofirmbb charm that hebapto I,
+roMrotodwemroef the Veto Many Terkwh I:
+women ro* highly ertemtod; top road ead
+mak. perhape, B gfito rod Ftroah, they are
+oftae good maaMiaav, aad eawelly berottfol
+worker*, bat aD thorn httfr groan that
+revel a woroaa ia a boros roe entirety routing I j
+their aetanl Onroad taste and strive to be ]
+Bmopaaa. aad the roeaH m pitiahta Mej ]
+b^de^X Uroda European crewel work ea i
+of rolfriptioa ITtos^MritoA wiei? Wt
+for the Sultan.
+YI8ITORS LIST.
+Me folbwiag an srooag the btmtasrisab
+•t the Baetaro Exchange Hetal, Pert told.
+Mr. aad Mm. R. Diaesa* rod frroflp, M. amd
+Mr. I L Wolff Mr C R Wolff Mr. L
+Stiaaoa, Mr. BotMaa, Mr. liperi, Mr. Heroary,
+Captain G. Date®, BJU, Mr. H. Seadya, Mr. I
+H. H Wmierorn. Mr. & G ftts.gm In, Mr. <
+T.BspeeM, M. L Icoooroopoaba. Mejer R
+I CL Preach, Mrs. French, Mr. EL Meyer, Mr. I
+1 CL ft Goff Mr. sad Mm. V. Q. Hilton
+"It’o aot toe ohamias I Bkg « matoastoo
+Itfimt ia wMeh they are ssaL’so toe man
+I the frek psmmted M M*	|
+CIGARES I
+de la HAVANE
+NieoittG SaMH^11
+□fPOBTATEUB GENERAL
+FB Jtfi SSIII K U LI UlEOiVE H
+dbfr Sms to Cbfr^T0*^
+ALMXAlTDUM	*
+geet
+nwnio-M
+ImIi lnim Nila Stdams
+-	a
+_ 1
+« ... '«*- 1
+TENNIS BALLS
+FRESH SUPPLY WEEKLY.
+,	-	- i
+HITS A SHOES.
+All tlw newest shapes in the beet
+Sn^liah makes:—
+MKSU TEWS BOOT IT ft
+A SPBCULItT.
+Owing to the ineroaeod buxineee
+in this Department a new Show-
+room has been fitted np where better
+■ttrmtioa eu be girem to Onetomera.
+CLOTHS:
+The largest Stock in Bgypt of
+Clothe of the beet Britmh Menu-
+factors :
+TROPICAL TWRXD8,
+FLANNXL8, DRILLS,
+Ao., Ao.
+AD garments cut by experienced
+Bngheb cutter*. Fit and style gum.
+GENS' OUTFITTING:
+Tbe newest Shades in
+Orepe de Chens Ties.
+Cellular, Oxford, Zephyr
+Shirts and Pyjamas in great
+variety.
+Soecisl Attention toaid to Shirts
+■sde to Measure.
+HOSIERY AND UNDERCLOTHING
+PANAMA, STRAW, ft PELT HATS
+CORK ft PITH HELMETS.
+•	CAPS.
+HOUSEHOLD LINEN AT SPECIALLY
+CHEAP PRICES.
+TABLE CLOTHS, NAPK3N8, SHEETS,
+AND PILLOW CASES.
+FLANNELETTES. YIYELLAS AID;
+CEYLON FLAimA
+80AF, PERFUMERY,
+RUBBER SPONGES, BEUBHBff
+F0UVTA2N FnSTfi.ftT-"
+Davies Bryan & Oih,
+WOMAN’S PB0GRIS8 IN THE I
+HAREM.
+Mbs Mrogant Masgregor. under tos head '
+fag “Bshiad Ifra Lattio* aad the Vto,” gives I
+Issaro very mtsmstiug fasts shout toe Teritish L
+I	wasroa of today, ia toe Aagro! number ef [l
+I' Good Worth.” She shown by photograph, ro I
+w*0 as by bttarpiaas, that to* yashmak oi to j
+J skaram bekiad	"	<
+I M* SaHaa b urotiaaafly isroiag rodron ea j
+' I ciffnroLny "bdro* tooro
+srdroa roa probaps okayed far a day. aad ton
+I to* Turkisk baroty sguu briags eat kar toda
+* I Just as hm vaB fails to hide km fisa, ro to !
+;|hro trim Mash lihsrtihiff fash m its sad, tout
+II	of biding bar figure, aad it b totoy toftmg i
+| hro timt row diutnro^ Partriro. matoad ot,
+' ^Burouth the ttorotahuTL^^^ Turti j
+. I rovw'saro ^TbPariTrod rmaro toro'aigp^ j
+, the gowns of toe bdiro ef toe prod hmemu, j
+i •bib ebaap Minsk tom ootton to bsdHBad
+t bbaamoflood pettmes yam rot from uadar
+>	I the tchartohaffs at the bm wealthy.
+>	I faibw-yaaooagros will at oaae throw back toair
+i J tad bafora you ro* seated yro wiB prohahty ha
+>	I your dress, nor will they mragto to tokg it hi
+I	^T^wUl fiad oet haw tool h*B
+-1 sad this task urraagnd, eel rogsahakiy eftl
+>	I they pick up your skirt to me what year petti
+i I coat ■ Mka : Yro will ton be ashed whether j
+II	yro an married or act, aad if pro aro married |
+tjbsad’r ooonparioa find what iaromaha her
+n I ia thsir tyas, hat atom a fiatomrog rotorott
+! I ia yoar affairs, or s* yro mast regard tbaro.
+JI waatogrow mostly tha —tea n I of paly-!
+»I payWi arodara Varik ’fah eaa aifa as j
+i rat wottromote!^bto* TrokV*xpLas!*»
+TSUSHIMA BUBBLES BURST.
+1	I I
+A rorviror oA to* kattb of T*u*hima.in pan- I
+11eg through Moroow, trid u ban! papm that rtl
+I was aot tiro that tU Rasain ortw» wan ai l
+I date of mutiny bafora the battle, being worn
+mt by to* hardtop* of too vngngn. Ia roriity, I
+I they bad opbadid wroth sr throaghoat, aad I
+urived a to* Straits confidant of victory, hat
+•the firot day * fight oooriaoad oar man that
+our toalfioomparnd with tboao of the Japan am.
+I a«r* banaath ori.bsmt. aad oa the roeoad toy
+■	oaf	witJboot	into J
+J aot burnt TV* roly ohoio* by botwaaa aakiag
+I h* toipo aad niieadaring Why Admiral
+{ Nubogatoff ohoTO the latter it b impmribli to
+• W"	''
+ISLAM IN AFRICA.
+J popularly kaowu ** na Ktnmm nplroro.^Haj* I
+CobanriOtom rod ■ the oearoaofnmkro
+j .tow upon the program of oivihrotim, he hro J
+I	***** *W-Bt'n^taafc ’Tro^it^ a^^maon'Tw j
+Grrot Britab as wall ro far Fra— H b that
+I to* mbrooMTj arol of Islam w at bast equal
+II	to that ol toaChisrian towtot jadfamfah
+KrouTvrirotamb without ditoeahy, whde tha
+;	mfawuad'farheto— 8—1
+r ohamven nrord this ro a duagar, hot M Bar i
+f I gar bases faro ro^toa rowa^of^Iri— even I
+-------,
+Uadro tois hroribg iliwitliromtt roe to-
+■mtod at toe faOaatog mtro r—
+[iff trom .	. P.T. f F.T. iff F.t iff
+'\rnmrn ... . • .it . m
+1 * 4 * •
+, fnfaerobroaatoA ^e advertiro—t
+rutai to h* ohtaraed. 10% a— b shaded ;
+i far adverti—to eet sgpeuriag aisrooeri sriy.
+Asiuri trmuummu nuDurnuu }
+■ritt^bmtoaro"tororo^os—m^—mro
+. Hm ’ton1	1-11 ********
+I ttoiffi nmaMAYtomAt botml
+r OVWM —yam fin m *1 fam tom DasTO
+A COMPETENT ENGLISH TEACHER b
+roqwimd to give Baghah basons to a R
+I yroag^aaa far five or rix mouth* fax hoar* a
+required rod stofeaf"offer* maaThTaZtto
+No. lUfi ’Egyptian Garotta ofao*.
+MMftkl J
+inssre^&va
+I	Gasatta'’* afcatT*1^ IHIff I
+! i DVXBTiaiNQ AOBRR-Tfaa bmtpahfia
+A Adamtiamg artm m Abxaadriu hriang to
+.karats tarma. Proaqri ^48 »04
+L*ri(£a^ ^ (^h.
+■ ......-■	•	■■■ ■■	' . in
+fiONNB D BNPANTB itala— ro fcszi^roe n
+rwataafi laaau	KN44I *f
+BUCK TYFBWRITOff R* I ft Rt t
+J Mmsadris. Adds— Prot Otoro Bax to
+------------------------------ c
+DF^rilB) to Otoro ef Assl Dbwtar ef fa
+ih Works, aa Irolbh Typewriting Cfarit.
+A I* hro tiros to writing, stutmg gasHfimtims 1
+I and tafary ropsatod to he net to Arofatoat
+Diseetorof Work*. Wro Otooa, Ororo. MMS-9-1
+II ANTED Baropr an BSorakaapar aaaastaarod
+I " to takxag oaarro of bna Bagiooariag B
+Stores. Mast Mproffrin*fig—faff falro _
+I ead Asahsa. Oely those faBp arpmaaoad and n
+mmly Gawd salary to aamfe— maa. Apply
+I XYX 'Egyptian (l.asttaoAaau MMlXt
+| I
+fUANTlD.-A rood Baghsh sprobag
+tj n goamai ofarh Wito a thorrogh kuowbdg*	(
+. lofsaanauta Apply ia tha firot iaata— hy bttar
+| 1	toOG	.
+I irgsthm with sriroy saqwad, to tha SaaraUry, g
+j—I ^ftjrod, Cor^wutron ot Wastaru^^ ^
+NOTIOt
+jettimkioak of oersgroft	l
+
+-->
+
+<!-- End of Page 5 -->
+</div>
+
+            <div type="page" n="6">
+<!-- Beginning of Page 6 -->
+<!--
+TH1 lOtTrUII ViHRI, TTTwSJhbY, AUGUST fid, .90ft.
+LONDON 8TOOE EXCHANGE
+Priam OB Toerday, Aagnrt tt, 1906.
+0	::: SS* =
+S *tn*~ * j	10* r .. i* -
+*	" into, ... km — „ to* -
+H * i % BoVIg-
+want Pref. lot — „ 10* —
+-	m - „ 100 -
+.	. *Z iWllOO Ml - , 10* —
+* Tarhteh 4XUollad 90 - „ - |
+: Awiritt (Ad * %..ioo - „ io« -
+rm+ « XIimm _ »t — . m -
+4 OmmI* 1881 ... .. M| , w*
+OfMk * X1881	M I „	*4 \
+Itabaa » X 1M1 ... ... t<H | „	— I
+Ramfaa 4 X Co*. I8W_--..-----
+! Japan *11101 ._ ... 101 — „	— *
+9 Unted Meter 4 X !***■ 1*4— . 1M —
+Mi* ted..-------.	- »
+* Dahned _	_	180	—	is* —
+ROM Into _	_	r	I	H	*8 4
+Agrtenltnml Into..	_	14	J	„	>-1
+». Ptomd	—	io	•“	m	*“ —
+-	•*% »~k	*4*.-|
+MtoMtom*--------l* } .--------
+. Mmi. .	_	14 —	.	—	—
+Dtofalanda 1 .	.	I)	.	•	—
+te 4 % Do*	_	101 —	.	10* —
+ft* fSL __	_	i *	.	- *
+N^T3j£^r*’:: : -if”. ij
+'SSiS •* • -•
+•km IM _ _	_	ll/t —	.	U/S —
+Um Baefahy paid—	_	— |	.	1	—
+, Oonontk* oTwnm
+1	<y*T----------- - j . -1
+Hnitad Afrieana-I * . - JC \
+InT»* * Agaeay - J . — J
+Hgm*TTwto Alavgto. T. —^ .**— /"
+p«
+Myeore Reeft _ _ _ 4	— „ «	—
+Ktodivtel M* 8 & Co...	1 - . — ft
+B*m Uod A General
+.... - -	— I - — I
+Pa
+11K1I I’EK'S TELEGRAMS
+cL<>8uni umn
+Lrratfoot, Angait W, 1* 4*P «
+Sola ol the day... — — — tola 4,0<
+of whiofel£p«faa — —•	«	4
+‘^'**5'S£jSf))- - K?
+American Middling
+Emit folly food Wr, doll W8ni) 7 41/4
+:	:	:	:	rpS »!K
+"	l	„	.	.	(Jan.) 7 tin
+■gypt.	Brown fair par Ik.	A	— — • 4/14
+-	"	*£d	---------{Jffl
+„	..	fOOd	MO	—	«ao n ft "f I*
+H folly good Ur... _ _ _ 7 1*/]
+Egyptian tUMi Boon* now (pa 4S0 Ito.) t*
+Actual Anencan Stook, balm 744000
+Allen, Alderson & C o
+XiIMITBID.
+SOLE AND EXCLU8IVE AQENT8 FOR
+Hsmm. HUSTON, PROCTOR * 00,, LIMITBD, Lt*ooui.
+Hind mod f>.|rtnbU» Steam and <tt	Corn Milk.
+Tbnafanglfndiline.
+Mww PLATT BftOTHgRS A 00., LUOTEt), Otoiu«. .
+(fatten Ginning Maefchtory.
+M Mimu. JOHN FOWLER A 00., LIMITED, Lxida
+^	3 tana Ploughing Machinery aad Sundries.
+THI OBNTRAL CYCLONE CO., LIMITKD, Lwdok.
+Hmh. OAMMKLL, LAIRD A 00., LDi, op Surr.un.
+|	Mmm. U 8 RR Y Y g ATH gf A ^ SOX W^ow,
+X Mum F. REDD A WAT 4 ^Oa, t^.([Ptotwjw^ Itonm, <
+I ^S^E^ta.*-
+g Mann. A. HANSOMS A Co., LOOt£d, NawAWt-ow.TwurT. j
+9	Wood Waring	nd *m^-nfTT
+MoOORMIOra hhapbrr a mowira
+PLANBT JtJHlOB AQBJOOLTUHAL IMPLBMHNT8
+B0UYlf ^lSoobh.**"
+A««n4 |*t Oalro l	All. A. WATTUOO*.
+Acunt In Khftoumi IlliW A HUITILLI.
+RgypHui nidi Banal naw (pa 4S0 Ito.)	S*
+Aotnnl Aaanoan Steak, balaa 740,000
+Actnal Egyptian Steak, tola 17,000
+Lovdo*. Aognat »H
+ComoU i^>i«mSar)._ «.	_	_ i
+PmmdeDiaoonnt a. toil .« — —	* %
+Naw Ton, Angaat *8
+Spot Gotten	11 M
+Aaarloan Pntnra (Saptoator)	—	10*5
+"	"	(Jnnry)	_	_	ll.t*
+M H	(Fakrnary)	.	.	11*1
+Cnkla tnnafara___________doL	4.S«|
+Cnkla tnaafan • - - _ dol. 4.S4|
+Cotton day'i raoalpti at all U.A
+Potto ...	_ tola	11,000
+kmooi, Angnat *8
+Aaarloan	fntnra(8eptoator	Oototor)— *.*1
+Lotdoi, Angnat IS.
+Private dlaooant (I aoatk bilk) _	» X
+Ba- Silva (pa a d. J.. _ _ _ *8 il/i«
+Coh*m« S*v:<wibar)_	_	_	_	*0 4
+Rio Itote _ 7-	-	-	-	Al
+Rand Hina Naw _	_	_	...	If
+igyptian United _	_	_	_	|C« —
+••	Mhay------------------f
+-	*!■“* -	-	-	-	104 r
+Ottoman Macw	_	_	—	_	104	*
+Tnrkiak United .	_	_	_	_	*0	i
+Italian Bnto 4 X	-	-	-	_	104	f
+Ottoman Bank _	_	_	_	_	It	|
+Nktlowal Bank of Bgypt — - _ *8—
+Palm Saalak _	_	_	_	_	101	*
+Mar Date*.. —	_	_	—	—	w	—
+Crank Bank.	_	_	_	_	44	—
+Crank Rant It ._______________U —
+Chartaradi of o Afrioa________1 11/U
+Agrioaltaral Bank	_	_	_	_	14	4
+Naw Bgyptaa&j „	_	_	_	_	1	)
+Nila VaUty Cold Min _ Now _	- J
+TtoWatern Oaaia Corporation | praaiaa
+Dolt* Light (Baarar ahara)	-----
+Egypt oot aad to HnQ(Ang.) * 8/1* aallan
+Canaan Baal Sagar (An«aat)_ _ 8 >i
+Paaa, Angnat *8.
+Lota Turn. _	_	-	-	_	1*0	—
+Crtdit Lmaaaii	_	_	  ____ US*	—
+Ottoman Bank	_	5*5 —
+Ctoqna on London— _ _ _t8.1T —
+Sngar White No. * (Angnat)_	_	*5 J
+Crodit Fooo or Bgyptea « _ _ 818 —
+Banqao d'Athtoa	_	_	_	_	1*9	—
+Land Bank of Egypt	_	_	_	<88	—
+i	—aa	a ■■ ""«
+PROTECTION
+AGAINST
+_______PIRE.
+THE UNDERWRITERS' FIRE
+EXTINGUISHER.
+4
+Oner Five Hundred new In um
+In Egypt and the Sudan.
+SIMPLICITY
+RELIABILITY
+EFFICACY.
+• 1
+WRITE FOR ILLUSTRATED
+CIRCULARS AND PULL PARTICULABfl]
+80LKA0ENra:
+THOS. HINSHELWOOD & Co
+ALEXANDRIA.
+RAM LB H RAILWAY COMPANY.
+RBciTTBS
+dn ft* *1 aoOt an aiaarli 97 aodt 1*08 i
+Bflleto	Abonnananta	to Divan
+p.t.	p.t.	p.t. i
+An. ooar.KH.il* —	*8,**1.
+M da. 118,81*	A**7	7,998.
+Angaant	14,98-i.
+Drain. 14,407	M*7
+Toraox.—Anna ooanate 1*7,483; aanda dnr-
+nitea 130,34*; Diminution *.709
+dn laoctobra 1904 an aamadi M	aoftt 1906
+Bfltoto	Aboonanaato	a Divot*
+r.t.	m.	«
+Annia ooor.l47A880	*97,688	694,114
+„ da. MIRIM	74M80	*7M6L
+Angmont 943,174	418,863.
+Diminution	417,60*
+Tocaox.—Abb4* ooaiaato 4,478.63*; annda
+daraiire 4,*54,*17 , Aapeetotie* *44,486
+ALEXANDRIA TRAMWAYOOMPANY
+dn dimaaoha *0 ao4t aa aaaadi 94 ao«t 1*04
+O^fTMHs
+Billet*	to Divan	Totoas.
+M.	M.	f.*L
+Annie ooa.14l.07A9	*1,830.	144.W5	7
+M dn 1*0,193 *	*3,8*8 3	144,043	9
+Augment. 10,880.3	10,87*
+Diaida.	8 3
+dn la jaavia aa aa*kll aoftt 1*0*
+Billet* to Divan Totaaa
+M.	9.*.	P.T.
+Annie ooarMli.037.9 4*9,637.7 4,413,674 9
+H da. Ai7L87A9 443,61*3 *995,391 9
+Augment 44*1683 44,1*3.4	488J83 7
+• * i	.
+CREDIT FONCIER E6YP1IEN
+*
+. QRENSTEIN A koppbl, ltd. * a
+y*aate*itel# toEMft	rvto|aw wa .
+Ida AgaaU for B^ypt and Sedan of
+| J fll ft I | <X)NpTOIRMB,PALLUB€H(dUllgYPTIBN
+\	1 I || II I !IPmbou)tebcotSTwoem CO
+“	»» HORWBY' 4 SOMR1^WtoT*
+i	k i
+CAto*m2?^?2a
+*>CUW AND*AJOQOAlf SYSTEM8 OF
+l	T0»	*W*!fSdaStoDA Y
+|	»o ‘a,
+° Thos. Cook & Sob (Egypt), Ltd
+mechanical and utmoal bncjneemTamo shipbuildbbs, AC AC.
+bouu,o eNMiwraroRK*
+Hiamn at 8aa«a Bar to nn— (0MAO), AMIANBEIA AMD KHAflfPOTM.
+mourn Aoram m boyft *x»»
+RICHARD CARKHTT A SONS. LTD	• 8T0HWASSBR A WINTER PUTTIE
+tawUmSnf ~ LEOCINO A MILITARY EQUIPMENTS
+■	^aHAND, MASON A 00.	22!*^ -
+NOBEL'S EXPLOSIVE CCu LTD. CSHIlAWKMM^A BATE 00. LTD
+QB0 ANQU8 A 00^ LTD.	COCHEAE A 00. ASSAM, LTD. V
+TANCYBB LIMITED (SOLE YBNDOBA) ™ toAMlSHI STEEL BOAT 00., LTD.
+^	-vaatoaaa.
+___CROMPTON A Co,, I/TD.	Til OOQPKR STEAM ^DICCER 00. DID.
+ImiAUTta -TANCYBB CAE SNCINBB with Pradnaa Plaata, OOOPBE PATENT
+STEAM DIOGBR, *pamaUy .uitabla (to mdl laadowinto
+fffcrte'lfi AHrm. »MNQISSSM, 0AIA&*mU •'MNQINMMB, ALEXANDRIA
+Work* Oftoe in town, Sharia Ehh SMh'toed (Oand).
+BM98	Atowndria OOaa and Staeaa, Aba Dtrda Blrato, No. 1*.	10.1*90*
+STEgEMMN,	C°
+MERC HANTS, OONTRAOTORS A MACHINERY IMPORTERS, ALEXANDRIA.
+Sola Agnate far Egypt, Arne Mina aad Syria far	\
+Naan CLAYTON A 8HITTTLBW0RTH, Linoote, Potoabla A fixed Bnaaa A Botlaa Con
+mlta, Tknatoag. teawtomwaj A Cutting Matorna
+Maara. CALLOWAYS, LTD, Maaotetoa —The Largato Boila Work* ia the World.
+WALTER’AlfOOD, Mowmg and^Ha^n| Maohine Ca. Hooaiok Falla, N.Y. (Amariaai
+*	PWUBT A On., Lyoaa. - Pnaak Stan Baginaa
+> AYVLINO A PORTER, LIMITED, loatetoa.—Steam BoQan aad Steaa Plough*.
+UB TANNERIES LYONNAISB8, Oailiae (RhOnaX-Bato Laatha Baiting.
+■	E R HINDLET, te^^^Dor^ —Yarti^ Engiaa and Boilan, ^eouJIy darignad fat driving
+» H1LLAIBJT HUOinBIT, Pari* Rlartnoian*
+L DUMONT, Pana—CawtrifUgal paapa.
+. LfAl TURNER, LTD, Ipewfah.—Fitter Milk	11188-94.11.904
+*	* *
+■	Egyptian Delta Light Railways Co, United.
+! of Sahara, Oharbtak, tfateahliah «kau3°and Oalioabiab Tkromfk <aratof /a aaad* betweau
+all aatfaa of the Oaf any aad aaa 100 primipml toateaa gfhfa Stofa Raihmy in Upper and
+Lawa lint Oaada *ay aiae to through-booked from a to any station on Halonan .
+BaUway. The Oeaaaay toe 70 Hatiiai nan4 for pabtfaTtoyaph Barvtea.to eoafantotea with
+tol adtoaa of the dov^mmaat M%raph D.r»rln*to	At to—, Wifi mmi LjfamaWaa
+* «gply to the olanto CtoTo, Alaxaodria, Daaanlwar, Taatek a I*gnfg 91418 *1.19.906
+ETABLI BN YBRTU DC FIRMAN_
+DB SJL LB KHEDIYE
+BN DATE DC 15 FBYRIBR 1880.
+AVIS A MESSIEURS	J
+LBS ACTIONNAIR83 BP PORTBUR3
+DB PARTS DB FONDATION.
+hfllto 19oT f CapitaT da' OShT Footer
+Ucnum 6 4t* partf da MO miQ»oaa da Praaa
+n jkonanno 5 900 nilBaaa da fraaa on _
+—yakatetotea da»on,OOOAct.orW
+bi*t Aamawa 6*0,Ubatoa da 194 fraao* oa /
+**“ w*mr*	*—**"*" daw** ^
+b prM4aaan atonhada par^artmta 4 da*
+la Pate da^faateWou, aaroat rarnaa 4 la 1
+LiTg^htoJa iteT M~itoanji^
+m da 810 ftoJaMpTaateai da MOfnaa
+Mate da gaaat (aat, aa dad^waat ba *76
+hM iMtBiif k icdM. 446 frmc^L nnx ooo
+V DJJ»
+■avoir j	ft
+[a) A naiarrnn da 100,000 aatoana au
+proporUun dn titen poatdte ja an, ^
+anit h nine d'aae aahaa aoavaUa poor ^
+» A owsarranoe da^100,000 ,at»on» ^ain H
+STitSrtSJvSi ^n
+ana part da fawdalion aa 6 aatnaa aoa- _
+vatba par dixiton da part da faadatina	J
+La prix h vanat. ito atato gaS ato dit
+plea tout, h 810 baaoa, meiaa 37* (bam
+meant h appater, *oit ato 484 beam aat
+Praam 3K*—da 35 no 30Saptamba 190A *1
+Si « vnaaaaaat n’ato paa ateatad 6b date
+in 90 September 1906, b CMdto Poaser Q
+toamda* * 7 to 8 dn^tetoata/atot ai
+In*danaadm aaroat adniaaaaar ptinato fc
+tea dn Aeteaa da 90 aa 31 AoOt natenvt- nfi
+Aa 8*hge Sntel aa Cana.
+A Aujlutdux an Crddit Lyoanaia,	L
+A Pau*... h k Soteto fltete^ poor 7,
+k kte^ZdTptea to da* *
+aa frfiih Ipwmia.	s
+“eSteda Phtef0*^ d'B*~ ^
+A Barxkuxb k b Banana da Pane to dm
+fto3k_
+k b teatete Piaa^aim da Ban
+Cm to da Diptea.
+Soatote Fiaa ciuim da
+Baagaa to da mpitta
+A Gom... k ia Baaaaa da Parte to dm
+i'»r»
+Lm Parte da PaadaNoa davraat torn ddprv
+tom dnaa lm m*ma dtoate poet Taammaa do
+Aa M^BoaMaa Cattot
+A ja^Baag^da^n*1 aTdto"Spa Baa *
+A b BaoMM Paapia da Baaaaa to da
+DipAte k ftggm	****01714
+CREDIT LYONNAIS
+CAPITAL EHpmpm DB FRANCS
+T I CREDIT LYONNAIS fait bate aptoa
+to 'dHwtobMMs
+da bteam da Qrtdte, pawal'pm'tebgnika
+ear lm priaapaba viUm da b Praam to da
+r^-wry;' 7^1«
+4*^tXim* haadTl aa to il
+RESUME	d
+M U
+SITUATION COTONNIBRB
+—	!
+aa 96 aoht
+1 AMERIQUB :	1903	1904 I
+Balim Ballm
+itooatemaax porta
+Saamiaa......	*0,000	33,0*0	£
+Ran. da lm. Sap*	10,1*6,000	7,189,000	1
+Export Anglatarra	(
+Sanmina _ ...	10,000	9,000
+,	Export Aagbtena
+I	da ler Sap* -	<087,0«tt	<364.000
+'	Sanmina ... ...	90,000	—	.
+•	Export Ooateaot
+da lm Sapt ...	4,34fa000	MU.000
+Prte par b batare
+EtateUaia. ...	4^486,060	4.14AOOO
+Stock porta....	344,000	64,000
+r	Iteght B—tel—	10*000	4*000
+^	laaght do 1 Soph	1**4*600	10,1*4,000	j
+|	Aator. Smnmi	190,000	8*000	1
+1	Ante, da 1 Sapt	1*330,000	10^*08,000
+\	Ym aappiy aaate.	*43*000	46*000	c
+I	Via. aappiy gdateal	*80*000	n1,000	,
+1	CBNBRAL
+I	LIVERPOOL:	1903	1904	1
+I	Bate*	Bate*
+i	Yaatea Semina _	*7,000	94,000	1
+i	Forwarded ... ...	3*00)	4*000	1
+l	lmpatoabaa_ ...	7*000	1*060
+'	Exportation... _	1*000	*000
+.	Steak ... ... _	78*000	*1*000
+Flotteat. ... ._	8*000	1*000
+BSTPTIEN
+1906	1*04
+^tom Saaiini . -	*900	*800
+.M - —	7,800	*000
+teftebteaa... _	1*000	*QQn
+Bxjwrtatea... —	6J00	1 arm
+ftltok----------	4*000	’	9*000
+CEREAL MARKET	;
+ROD Sj PARAO(Narroaai Sana Saooxaa
+YximsaT’a Parent
+Wheat Tagari... Aid.	P.T.	114	to	P.T.	117	I
+„ Middling .	«	1*0	,	.	IK	I
+. MawanL. .	.	1*9	.	.	lEP	<
+n teal _	„	m	~~	w	w	***
+Banna, Tngari_ .	.	1*3	.	.	1*7	(
+. Sawata— .	.	1*8	.	.	1M
+M	Ol A. —	N	n	MM
+Lantte, Tagari.-. .	a	106	.	H	108
+m P Eawati «	.	1*0	a	.	1**
+torlay, Tngan_ „	M	0*	»	«	L
+*	***	m	h	08	m m
+Mwti-	.	.	60	.	.	64
+Dn*m	.	.	110	„	.	113
+„	-	-	100	a	.	105
+Htoto.- - - -	.	180	«	a	185
+inema. — — »	,	TO	a	a	73
+Hama^nt — — »	-	1*0	.	.	160
+*****	“	"	" m —
+ttHM m Boas ai Snim.
+22
+Beam----------- *000
+' Lantila _ -	.	1600 .
+Bacte _ _	.	100#
+• Sail*" *?s
+Dare team! _	a	100
+. Bto .	.	100
+a*.------------ too
+Milner*a Safes
+, 1 Sou Aoom yon.Bom
+^Marcus & Co.
+Largo Stook Kopt 1*
+ALEXANDRIA
+loa Qoatoaatanopb Mmaon A. N. Abel
+CAIRO
+Horn Ima Roe Nauve
+TANTA
+Sharia El Alai*
+17 11-905
+>
+TO WHOLKSftLt BUYSR8
+I STORI.KBKP1ES.AND
+OTHER TRADERS. —If you
+am not a naaiiar of MAfriaaa Oona-
+mto," Um Briteah Trade Madras “
+far Ail Afrioa. aaod 7 A far a oopy bo ■
+The Manager, "Afrioaa Onmmtma,” {
+Termer Chaabara, Moorgate Street, v
+London, 1.0. Amnnal Sobaoriptioa d
+7 fi pood fcm
+- L'EGYPTIAN GAlSTTM ml aa ante «
+SASfXSAbSi 1
+*£SsS>3SFi
+mm4rt + nm,lPX.	,
+fifit ^NOUVEAU REMEDE PUR6ATIF IDEAL
+UJAOSgtfkE TB^POBTC^U
+BNOBAxS* *MATO^SLa* COMPnnTa
+s	NOLI S
+Ctetolm ... .„	...	... Shg»	1/8	h	—
+Trwrteaai, ...	_	.„	„	6/C	.	—
+Cninm da ootaa ... _	7/8 - —
+CteteJm _ _ ^"T!I!%*a 1/6 k —
+Tourtaanx .„	_	_	.	7/	.	-
+Crum, daemon	..... .	*/	m-
+Oiaiam da oo4ol'"” "!T aj. 9/ k 9,6
+Otedate _ _ _	-	1/8-W
+Cotea. _ _ _ _ Skgu. 11/ k —
+Ctedaim	«	l/l	m	-
+! Toaitenax.. _	_	_	.	3/	.	—
+Grainm da ootea	—	...	»	6/	m	—
+Oignone _ —	—	—	■	—	.	—
+(■toJBBBaau
+i Grainm da ootea (Dnabrgne) Pr: 10 k -
+.	. (Nute) _ .10 . —
+' Hkvar------------------- 10 . -
+CSgaoaa
+Fkvm. _____Pr. Tk *—
+Grainm da ootea _ _ _ „	7 . *-
+^Coam^dam^ TV.ara.Vmte
+La Havre.. _ . *—	►
+, Dankmqaa	_	a	*30	fcia*'
+An van _	_	a	*—
+Qamhoaxg.	_	.	90.— k *3.30 1
+St-Pdteaaaarg . *6.—	1 par tonne
+Haw York	_	.	*6.-	poida
+teatoap—	—	»	8*—
+Alexandria W 94 aoftt 1906
+bh^4-mk_IHp	4 6.1	ua. * 6	*10	< Htt 1010	OVA* 1*3	I M 1J0	IARO 9.10	to. 1 *16	5.15	rj 6.15	A 736	8.40	10.10	1130
+—-	T. f *96 r.ia	Ato 7 AO AW	9.4V All r.	*131 BJ81	1*44 006*11 0.581	36 1 6 1 143	if			636	a-	*.**	i*to	I.	10 II.	16 1136
+-->
+<!-- End of Page 6 -->
+
+
+            </div>
+        </body>
+    </text>
+</TEI>
